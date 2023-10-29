@@ -47,7 +47,7 @@ const filename = [
     owner: "fromjasonstuff",
     repo: "fromjason-eleventy",
     message: ("Adding note: " + title),
-    path: "/content/blog/" + filename + ".md",
+    path: "content/blog/" + filename + ".md",
     content: Buffer.from(fileContent.join("\n")).toString("base64")
   }).then((response) => {
     // Redirect iA Writer to the notes page, where the post will show up.
