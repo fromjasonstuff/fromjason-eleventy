@@ -34,10 +34,6 @@ exports.handler = (event, context, callback) => {
   
  const title = data["properties"]["name"][0]
 
-const filename = [
-    title.replace(/[W]+/g, "-") // the slug
-  ]
-
  var fileContent = []
 
   // Create a new file on GitHub with the octokit library
@@ -46,8 +42,7 @@ const filename = [
   return octokit.repos.createOrUpdateFileContents({
     owner: "fromjasonstuff",
     repo: "fromjason-eleventy",
-    message: ("Adding note: " + title),
-    path: "content/blog/" + filename + ".md",
+    path: "content/blog/" + title + ".md",
     content: Buffer.from(fileContent.join("\n")).toString("base64")
   }).then((response) => {
     // Redirect iA Writer to the notes page, where the post will show up.
