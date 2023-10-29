@@ -51,14 +51,7 @@ exports.handler = (event, context, callback) => {
   // If we've written a post without fontmatter, insert default fontmatter
   // this allows us to override the fontmatter in iA Writer if we want, but
   // we can also just throw out a quick article without worrying about this.
-  if (!content.includes("---")) {
-    fileContent.push("---")
-    fileContent.push('date: ' + date.toISOString())
-    fileContent.push('title: ' + title)
-    fileContent.push('sub: notebook')
-    fileContent.push('type: note')
-    fileContent.push('---')
-  }
+
   fileContent.push(content)
 
   // Create a new file on GitHub with the octokit library
