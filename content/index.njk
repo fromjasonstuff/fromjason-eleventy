@@ -6,7 +6,7 @@ eleventyNavigation:
 numberOfLatestPostsToShow: 5
 title: from jason
 description: A digital garden for a physical meat bag.
-logo: 'masthead-1.svg'
+logo: 'fromjason-1.svg'
 openGraph: 'fromjason'
 sub: fromjason
 
@@ -37,7 +37,7 @@ sub: fromjason
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/all-posts-from-everywhere/">all posts</a>.</p>
+<p style="margin-top: 1.5em;">{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/all-posts-from-everywhere/">all posts</a>.</p>
 {% endif %}
 
 
@@ -49,15 +49,19 @@ sub: fromjason
 
 <!-- This filters posts with sub: notebook in the front matter. -->
 
+  <ul role="list" class="auto-list">
+
 {% set subDomMore = collections.all | include("data.sub", "more") %}
 
 {% for post in subDomMore %}
 
-<p>
+<li class="auto-list-item">
     <a href="{{ post.url }}">
         {{ post.data.title }}
     </a>
-</p>
+</li>
 {%- endfor %}
+
+</ul>
 
 </div>

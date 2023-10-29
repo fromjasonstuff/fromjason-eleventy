@@ -1,0 +1,19 @@
+---
+title: All posts
+layout: layouts/page.njk
+permalink: "/stories/{{ title | slugify }}/"
+---
+
+<h1>All stories</h1>
+
+
+<div class="auto-list-block">
+
+{% set subAllStories = collections.posts | include("data.sub", "stories") %}
+
+{% set postslist = subAllStories %}
+
+{% include "postslist.njk" %}
+
+</div>
+

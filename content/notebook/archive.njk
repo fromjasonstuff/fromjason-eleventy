@@ -1,0 +1,9 @@
+---
+title: All notebook posts
+layout: layouts/page.njk
+permalink: "/notebook/{{ title | slugify }}/"
+---
+<h1>{{ title }}</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

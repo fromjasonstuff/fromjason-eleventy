@@ -1,0 +1,37 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: notebook
+  order: 2
+numberOfLatestPostsToShow: 10
+title: notebook
+description: Very serious stuff. Typos included.
+logo: 'notebook-1.svg'
+openGraph: 'notebook'
+sub: notebook
+---
+
+          <article class="article">
+
+               <p>Here, I post about technology, design, politics, curated resources, and internet culture. Or, anything, really. I expect to create a category system for this notebook, each with its own set of editorial expectations. More on that soon.</p>
+             
+            </article>
+
+            <div class="auto-list-block">
+{% set subDomNotebook = collections.posts | include("data.sub", "notebook") %}
+
+{% set postsCount = subDomNotebook | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+<h2>Latest {{ latestPostsCount }} note{% if latestPostsCount != 1 %}s & such{% endif %}</h2>
+
+{% set postslist = subDomNotebook | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p style="margin-top: 1.5em;">{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/notebook/all-posts/">all notebook posts</a>.</p>
+{% endif %}
+
+</div>
+
