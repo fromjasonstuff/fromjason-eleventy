@@ -37,17 +37,6 @@ exports.handler = (event, context, callback) => {
   const title = data["properties"]["name"][0]
   const content = data["properties"]["content"][0]
 
-  // I want the format of the filename to be yyyy-mm-dd-title-as-slug.html.md
-  // Javascript date handling is poor, (no strftime),
-  // lets hack something with the default date functions
-  // This saves us a library to import, also use a poor-mans slug generator
-  const date = new Date()
-  const filename = [
-    date.toISOString().split('T')[0], // the date
-    title.replace(/[W]+/g, "-") // the slug
-  ].join("-")
-  var fileContent = []
-
 
   fileContent.push(content)
 
