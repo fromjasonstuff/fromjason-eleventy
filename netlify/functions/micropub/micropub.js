@@ -40,6 +40,9 @@ const filename = [
   ]
 
  var fileContent = []
+ 
+
+  fileContent.push(content)
 
   // Create a new file on GitHub with the octokit library
   // owner/repo and message/path are hardcoded here,
