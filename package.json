@@ -44,6 +44,7 @@
 	"dependencies": {
 		"@netlify/functions": "^2.3.0",
 		"@octokit/rest": "^20.0.2",
+		"base-64": "^1.0.0",
 		"lodash": "^4.17.21",
 		"markdown-it-footnote": "^3.0.3"
 	}
