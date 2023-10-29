@@ -1,0 +1,18 @@
+{# This code subtracts the page url from the full url with parent directory #}
+
+{% set pageURLcount = page.url | length %}
+
+{% set fileSlugCount = title | slugify | length %}
+
+{% set pageMinusSlug %}
+
+	{{ (pageURLcount - fileSlugCount) - 2 }}
+
+{% endset %}
+
+
+{% set parentURL %}
+	{{ page.url | truncate(pageMinusSlug, true, "/") }}
+{% endset %}
+
+<a id="backButton" href="{{ parentURL }}" class="back-btn w-inline-block"><img src="{{ settings.siteRoot}}/img/double-caret-left-2.svg" loading="lazy" alt="Back button double caret" class="caret"></a>

@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+body: body-primary
+---
+
+ <header class="header">
+
+ {% include "partials/nav.njk" %}
+ {% include "partials/masthead.njk" %}
+
+ </header>
+
+
+{{ content | safe }}

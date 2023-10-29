@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+defaultGraphic: '5.png'
+body: body-primary
+---
+            <header class="header">
+                {% include "partials/backbutton.njk" %}
+
+            </header>
+    <article class="article">
+    <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
+
+{{ content | safe }}    
+
+   </article>
