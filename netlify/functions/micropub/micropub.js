@@ -31,6 +31,8 @@ exports.handler = (event, context, callback) => {
   // Parse the JSON event body from iA Writer
   const data = JSON.parse(event.body)
   console.log("Data: ", data);
+  
+ const title = data["properties"]["name"][0]
 
 const filename = [
     title.replace(/[W]+/g, "-") // the slug
