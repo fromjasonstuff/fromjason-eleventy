@@ -37,7 +37,8 @@ exports.handler = (event, context, callback) => {
   const title = data["properties"]["name"][0]
   const content = data["properties"]["content"][0]
 
-
+ var fileContent = []
+ 
   fileContent.push(content)
 
   // Create a new file on GitHub with the octokit library
