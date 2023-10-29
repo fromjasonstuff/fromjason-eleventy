@@ -2,7 +2,7 @@
 <html lang="{{ metadata.language }}">
    <head>
       <meta charset="utf-8">
-	<title>{{ title or metadata.title }}</title>
+	<title>{{ title }}</title>
 	<meta name="description" content="{{ description or metadata.description }}">
       <meta content="From Jason" property="og:title">
       <meta content="This is my digital garden." property="og:description">
@@ -31,14 +31,15 @@
       
       <link href="{{ settings.siteRoot}}/img/favicon.png" rel="shortcut icon" type="image/x-icon">
       <link href="{{ settings.siteRoot}}/img/webclip.png" rel="apple-touch-icon"> 
-      <meta content="https://fromjason.xyz/img/{% if sub %}{{ sub }}{% else %}'fromjason'{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" property="og:image">
-      <meta content="https://fromjason.xyz/img/{% if sub %}{{ sub }}{% else %}'fromjason'{% endif %}-opengraph.png" property="twitter:image">
+      <meta property="og:title" content="{{ title }}" />
+      <meta content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" property="og:image">
+      <meta content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" property="twitter:image">
 
    </head>
    <body class="{{ body }}">
  
-      <div class="wrapper">
-         <div class="w-layout-blockcontainer container w-container">
+     
+         <div class="w-layout-blockcontainer container-650px container-height w-container">
 
 			{{ content | safe }}
 			
@@ -46,7 +47,7 @@
                <div class="_400w-vflex">
             
                   <img src="{{ settings.siteRoot}}/img/finis.svg" loading="lazy" alt="Ornamentation with the word Finis in a banner." class="ft-img"> 
-                  <div class="copywrite">2086© <em>(so I don&#x27;t forget to change the year)</em> From Jason 1.0.0</div>
+                  <div class="copywrite">2086© <em>(so I don&#x27;t forget to change the year)</em> From Jason 1.1.0</div>
                   <div id="dedication" class="dedication">This site is dedicated to the old web, the <em>weird</em> web, the web that screamed in horror when summoned through a land line.</div>
 
                   <a id="randomLink" href="#" class="randomlink">Don&#x27;t click here</a>
@@ -86,7 +87,7 @@
                </div>
             </footer>
          </div>
-      </div>
+     
       
     
 

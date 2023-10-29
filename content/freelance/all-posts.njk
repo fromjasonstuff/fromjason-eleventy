@@ -1,0 +1,19 @@
+---
+title: All posts
+layout: layouts/page.njk
+permalink: "/freelance/{{ title | slugify }}/"
+---
+
+<h1>All freelance posts</h1>
+
+
+<div class="auto-list-block">
+
+{% set subAllFreelance = collections.posts | include("data.sub", "freelance") %}
+
+{% set postslist = subAllFreelance %}
+
+{% include "postslist.njk" %}
+
+</div>
+

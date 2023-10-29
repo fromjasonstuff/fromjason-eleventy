@@ -1,0 +1,10 @@
+               <nav class="navbar">
+               {%- for entry in collections.all | eleventyNavigation %}
+					<span class="nav-item"><a class="navbar-link" href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></span>
+				{%- endfor %}
+               <!--   <a href="#" class="navbar-link">from jason</a>
+                  <a href="#" class="navbar-link">notebook</a>
+                  <a href="#" class="navbar-link">freelance</a>
+                  <a href="#" class="navbar-link">stories</a>
+                  -->
+               </nav>

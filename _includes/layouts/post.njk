@@ -8,8 +8,10 @@ defaultGraphic: '5.png'
 
 
             <header class="header">
-                {% include "partials/backbutton.njk" %}
+                        <nav class="navbar">
+                               {% include "partials/backbutton.njk" %}
                  {% include "partials/jumplink.njk" %}
+ </nav>
             </header>
             <article class="article">
             
@@ -69,7 +71,7 @@ defaultGraphic: '5.png'
                 
     
                 <tr>
-                  <td>Assumed Audience</td>
+                  <td>Assumed audience</td>
                   <td>{{ audience }}</td>
                 </tr>
               </tbody>
@@ -78,7 +80,7 @@ defaultGraphic: '5.png'
             </article>
             <aside class="postscripts">
                <div id="ps-aia" class="ps-item">
-                  <div class="ps-title">† Article&#x27;s Assumed Audience (AAA)</div>
+                  <div class="ps-title">† Article&#x27;s assumed audience (AAA)</div>
                   <div class="ps-body">Sometimes, I identify who I&#x27;m writing for as a way to provide context. It&#x27;s like saying, &quot;I&#x27;m using a lot of technical terms because I wrote this post for frontend developers,” or &quot;Sorry if I&#x27;m getting too symmetrical, this one&#x27;s for my Wes Anderson fans.&quot; <em>But</em>, all are welcomed, always. If you&#x27;re not in this article&#x27;s intended audience, but you find this article interesting, wonderful! Please stick around, read the post, and feel free to ask me questions.</div>
                </div>
                <div id="ps-affiliate" class="ps-item">

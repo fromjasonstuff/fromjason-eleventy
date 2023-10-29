@@ -1,12 +1,20 @@
 
                
-               <ol reversed class="auto-list">
+               <div reversed class="auto-list-2">
                  {% for post in postslist | reverse %}
-	<li class="auto-list-item">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+	<div class="auto-list-item-2">
+	  <div class="meta-date">
+            <time class="small italic" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("MMM") }}</time>
+          </div>
+		<a href="{{ post.url }}" class="list-item-link truncate">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		
+		
 		<time style="font-size: var(--small-font-size); margin-left: 5px; display: none;" class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
-	</li>
+		
+		
+	</div>
 {% endfor %}
-               </ol>
+               </div>
+
 
 
