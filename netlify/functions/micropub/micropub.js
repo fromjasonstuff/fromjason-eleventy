@@ -44,10 +44,10 @@ const filename = [
   // owner/repo and message/path are hardcoded here,
   // you might want to change those to your own likings.
   return octokit.repos.createOrUpdateFileContents({
-    owner: "fromjason",
-    repo: "fromjason.xyz",
+    owner: "fromjasonstuff",
+    repo: "fromjason-eleventy",
     message: ("Adding note: " + title),
-    path: "content/blog/" + filename + ".md",
+    path: "/content/blog/" + filename + ".md",
     content: Buffer.from(fileContent.join("\n")).toString("base64")
   }).then((response) => {
     // Redirect iA Writer to the notes page, where the post will show up.
@@ -66,3 +66,4 @@ const filename = [
     })
   })
 }
+
