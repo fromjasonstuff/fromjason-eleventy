@@ -32,14 +32,11 @@ exports.handler = (event, context, callback) => {
   const data = JSON.parse(event.body)
   console.log("Data: ", data);
 
-  // The format is a bit weird,
-  // where title and content are array values with a single entry
-  const title = data["properties"]["name"][0]
-  const content = data["properties"]["content"][0]
+const filename = [
+    title.replace(/[W]+/g, "-") // the slug
+  ]
 
  var fileContent = []
- 
-  fileContent.push(content)
 
   // Create a new file on GitHub with the octokit library
   // owner/repo and message/path are hardcoded here,
