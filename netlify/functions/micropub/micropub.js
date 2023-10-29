@@ -2,6 +2,7 @@
 // Our only dependency is @octokit/rest
 // We use the token/GitHub auth we've set in the ENV vars before.
 const { Octokit } = require("@octokit/rest");
+const { Base64 } = require("base-64");
 const octokit = new Octokit({
   auth: process.env.GITHUB_ACCESS_TOKEN,
 })
