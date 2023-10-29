@@ -34,6 +34,8 @@ exports.handler = (event, context, callback) => {
   
  const title = data["properties"]["name"][0]
 
+const filename = [
+    title.replace(/[W]+/g, "-") // the slug
   ]
 
  var fileContent = []
@@ -45,7 +47,7 @@ exports.handler = (event, context, callback) => {
     owner: "fromjasonstuff",
     repo: "fromjason-eleventy",
     message: ("Adding note: " + title),
-    path: "content/blog/" + title + ".md",
+    path: "content/blog/" + filename + ".md",
     content: Buffer.from(fileContent.join("\n")).toString("base64")
   }).then((response) => {
     // Redirect iA Writer to the notes page, where the post will show up.
