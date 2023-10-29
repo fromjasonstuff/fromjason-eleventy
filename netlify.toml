@@ -2,6 +2,9 @@
 	publish = "_site"
 	command = "npm run build"
 
+[Settings]
+  ID = "5d3e30a9-ff13-419a-9b09-5a2e08da5b7d"
+  
 [[plugins]]
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
