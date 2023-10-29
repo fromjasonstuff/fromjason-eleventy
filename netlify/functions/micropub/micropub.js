@@ -32,7 +32,8 @@ exports.handler = (event, context, callback) => {
   const data = JSON.parse(event.body)
   console.log("Data: ", data);
   
- const title = data["properties"]["name"][0]
+const title = data["properties"]["name"][0]
+const content = data["properties"]["content"][0]
 
 const filename = [
     title.replace(/[W]+/g, "-") // the slug
