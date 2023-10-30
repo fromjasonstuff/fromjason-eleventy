@@ -1,0 +1,4 @@
+# http and https need separate rules if you don’t force_ssl!
+http://stories.fromjason.xyz/* https://www.fromjason.xyz/stories/:splat 301!
+https://stories.fromjason.xyz/* https://www.fromjason.xyz/stories/:splat 301!
+
