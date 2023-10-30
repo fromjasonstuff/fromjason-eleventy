@@ -33,7 +33,6 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 	// passthrough the redirects file for stories.fromjason.xyz etc.
 	eleventyConfig.addPassthroughCopy({
 		"./public/": "/",
-		"./_redirects": "/",
 
 	});
 
