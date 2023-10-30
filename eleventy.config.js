@@ -35,11 +35,6 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 		"./public/": "/",
 
 	});
-	
-	eleventyConfig.addPassthroughCopy({
-		"./_redirects": "/",
-
-	});	
 			
 
 	// Run Eleventy when these files change:
