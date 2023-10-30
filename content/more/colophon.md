@@ -3,6 +3,7 @@ title: Colophon
 layout: layouts/page.njk
 graphic: '1137.png'
 graphicAlt: 'illustration of a mask'
+openGraph: '1137'
 permalink: "/{{ title | slugify }}/"
 sub: more
 ---
