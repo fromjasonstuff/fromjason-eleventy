@@ -9,10 +9,10 @@
   directory = "netlify/functions"
   
 [[redirects]]
-from = "https://www.fromjason.xyz/stories/:splat"
-to = "https://stories.fromjason.xyz/*"
-status = 301
-force = true
+	from = "https://www.fromjason.xyz/stories/:splat"
+	to = "https://stories.fromjason.xyz/*"
+	status = 301
+	force = true
   
 [[plugins]]
 
