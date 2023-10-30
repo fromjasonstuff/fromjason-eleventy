@@ -8,6 +8,11 @@
 [functions]
   directory = "netlify/functions"
   
+[[redirects]]
+from = "https://www.fromjason.xyz/stories/:splat"
+to = "https://stories.fromjason.xyz/*"
+status = 301!
+  
 [[plugins]]
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
