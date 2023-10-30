@@ -1,5 +1,5 @@
 ---
-title: Interesting finds Design articles I still think about 
+title: Design articles I still think about 
 date: 2023-10-30
 type: finds
 phase: complete
