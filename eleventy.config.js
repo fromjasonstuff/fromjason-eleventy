@@ -35,6 +35,12 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 		"./public/": "/",
 
 	});
+	
+	eleventyConfig.addPassthroughCopy({
+		"./_redirects": "/",
+
+	});	
+			
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
