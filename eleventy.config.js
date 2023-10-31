@@ -15,6 +15,8 @@ const lodash = require("lodash");
 module.exports = function(eleventyConfig) {
 
 eleventyConfig.addFilter("include", (arr, path, value) => {
+
+ 
 // The filter for the sub collections like notebook, freelance etc.
     value = lodash.deburr(value).toLowerCase();
     
@@ -25,13 +27,17 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
     });
 
   });
+  
+
  
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
+	// passthrough the redirects file for stories.fromjason.xyz etc.
 	eleventyConfig.addPassthroughCopy({
 		"./public/": "/",
 
 	});
+			
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
