@@ -12,7 +12,7 @@ tags: ['Apple', 'technology']
 ---
 # This event was shot on iPhone and edited on Mac
 
-Just finished watching Apple's Scary Fast Event[^1]. Cook & Co. announced a new MacBook Pro, updated iMac, and the M3 chip family(M3, Pro, Ultra). Pretty standard stuff, if not a little light on substance. I'm not complaining. They can't all have "*one more thing*" energy. 
+Just finished watching Apple's Scary Fast Event[^1]. Cook & Co. announced a new MacBook Pro, updated iMac, and the M3 chip family (M3, Pro, Ultra). Pretty standard stuff, if not a little light on substance. I'm not complaining. They can't all have "*one more thing*" energy. 
 
 But there was something at the end I hadn't noticed before in previous events. Did you catch it? On the last slide of the presentation, there was a message under the Apple logo: *"This event was shot on iPhone and edited on Mac."*
 
@@ -35,7 +35,7 @@ I wrote and posted this article from my iPhone, come to think of it.
 
 ![Space Black MacbookPro](/img/images/Apple-MacBook-Pro-M3-Pro-Photoshop-231030.jpg)
 
-And then I downloaded the images from Apple's press release and uploaded to my server, all without opening a laptop. 
+And then I downloaded the images from Apple's [press release](https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips) and uploaded to my server, all without opening a laptop. 
 
 ![Side view of Space Black MacbookPro](/img/images/Apple-MacBook-Pro-side-view-231030.jpg)
 
