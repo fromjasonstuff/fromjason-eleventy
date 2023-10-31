@@ -1,6 +1,6 @@
 ---
 title: This event was shot on iPhone and edited on Mac
-date: 2023-01-30
+date: 2023-10-30
 type: note
 phase: complete
 audience: everyone
