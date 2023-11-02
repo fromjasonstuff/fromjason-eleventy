@@ -38,7 +38,6 @@ sub: more
 </style>
 
 <!-- Mark up. Each p has a unique id and each a has respective data-target -->
-<!-- Mark up. Each p has a unique id and each a has respective data-target -->
 <div class="ipsum-div">
   <p id="lorem-1" class="lorem-para">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
@@ -50,8 +49,7 @@ sub: more
   <a
     role="button"
     data-target="lorem-1"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -67,8 +65,7 @@ sub: more
   <a
     role="button"
     data-target="lorem-2"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -84,8 +81,7 @@ sub: more
   <a
     role="button"
     data-target="lorem-3"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -101,8 +97,7 @@ sub: more
   <a
     role="button"
     data-target="lorem-4"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -118,8 +113,7 @@ Silvarum Umbrae non tantum loci quiescentis, sed etiam inspiratio pro scriptorib
   <a
     role="button"
     data-target="lorem-5"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -135,8 +129,7 @@ In annalibus designandi, Vocabula Vivida ut novus terminus, spatium proprium int
   <a
     role="button"
     data-target="lorem-6"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -152,8 +145,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
   <a
     role="button"
     data-target="lorem-7"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -169,8 +161,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
   <a
     role="button"
     data-target="lorem-8"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
@@ -186,8 +177,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
   <a
     role="button"
     data-target="lorem-9"
-    href="#"
-    class="copy-btn w-inline-block"
+    class="copy-btn"
     ><img
       src="/img/copytext.svg"
       loading="lazy"
