@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum 2 0
 layout: layouts/page.njk
-graphic: 'lipsum.svg'
+graphic: 'lipsum.png'
 graphicAlt: 'illustration of a mask'
 openGraph: 'fromjason'
 permalink: "/{{ title | slugify }}/"
