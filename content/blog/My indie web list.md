@@ -27,5 +27,6 @@ For now, I'm embedding [a Raindrop collection](https://raindrop.io/JayVee/indie-
 This temporary process is not ideal either. I'll have to add a site to Reeder, then add it again to Raindrop with a note. That's way too many steps. We'll see how it goes. Maybe I'll write an iOS Shortcut or something. 
 
 ## The List
+I'll continue to add, im sure. 
 
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/JayVee/indie-web-38881876/embed/sort=-created&hide=Header"></iframe>
