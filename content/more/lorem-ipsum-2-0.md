@@ -10,32 +10,6 @@ sub: more
 
 # Lorem Ipsum 2.0
 
-<!-- CSS for the elements -->
-<style>
-.ipsum-div {
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-}
-.lorem-para {
-    flex: 1;
-}
-.copy-btn {
-    cursor: pointer;
-    padding: 10px;
-    text-decoration: none;
-		max-width: 100%;
-    display: inline-block;
-}
-.copy-icon {
-		max-width: 100%;
-    vertical-align: middle;
-    display: inline-block;
-    cursor: pointer;
-    width: 17px;
-}
-
-</style>
 
 <!-- Mark up. Each p has a unique id and each a has respective data-target -->
 <div class="ipsum-div">
@@ -186,25 +160,3 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
       class="copy-icon"
   /></a>
 </div>
-<!-- Javascript --><script>
-// This script sets up the copy functionality for each button
-
-// Function to copy text to clipboard
-function copyTextToClipboard(text) {
-  navigator.clipboard.writeText(text).then(function() {
-    alert('Text successfully copied to clipboard');
-  }).catch(function(err) {
-    alert('Error in copying text: ' + err);
-  });
-}
-
-// Event listener for all copy buttons
-document.querySelectorAll('.copy-btn').forEach(function(button) {
-  button.addEventListener('click', function(event) {
-    // Get the ID of the target element from the data-target attribute
-    var targetId = event.target.getAttribute('data-target');
-    var text = document.getElementById(targetId).innerText;
-    copyTextToClipboard(text);
-  });
-});
-</script>
