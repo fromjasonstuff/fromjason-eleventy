@@ -186,8 +186,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
       class="copy-icon"
   /></a>
 </div>
-<!-- Javascript -->
-<script>
+<!-- Javascript --><script>
 // This script sets up the copy functionality for each button
 
 // Function to copy text to clipboard
