@@ -37,6 +37,7 @@ sub: more
 </style>
 
 <!-- Mark up. Each p has a unique id and each a has respective data-target -->
+<!-- Mark up. Each p has a unique id and each a has respective data-target -->
 <div class="ipsum-div">
   <p id="lorem-1" class="lorem-para">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
@@ -53,7 +54,7 @@ sub: more
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -70,7 +71,7 @@ sub: more
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -87,7 +88,7 @@ sub: more
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -104,7 +105,7 @@ sub: more
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -121,7 +122,7 @@ Silvarum Umbrae non tantum loci quiescentis, sed etiam inspiratio pro scriptorib
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -138,7 +139,7 @@ In annalibus designandi, Vocabula Vivida ut novus terminus, spatium proprium int
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -155,7 +156,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -172,7 +173,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
@@ -189,7 +190,7 @@ Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem typo
     ><img
       src="/img/copytext.svg"
       loading="lazy"
-      width="20"
+      width="20px"
       alt="icon for copying text"
       class="copy-icon"
   /></a>
