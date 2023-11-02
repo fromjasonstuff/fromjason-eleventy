@@ -3,7 +3,7 @@ title: Lorem Ipsum 2 0
 layout: layouts/page.njk
 graphic: '1137.png'
 graphicAlt: 'illustration of a mask'
-openGraph: '1137'
+openGraph: 'fromjason'
 permalink: "/{{ title | slugify }}/"
 sub: more
 ---
@@ -21,7 +21,7 @@ Praetextum Novum incipit cum elegantia et mystique, promittens legentibus aspect
 Fundamenta Cogitata
 </p>
 <a role="button" class="copy-btn" data-target="lorem-2" style="text-decoration: none;">
-<img class="copy-icon" src="/img/copytext.svg" loading="lazy" alt="icon for copying text" style="width: 20px; float: right;">
+Copy Text
 </a>
 <p id="lorem-3">
 Aesthetica Structurae
