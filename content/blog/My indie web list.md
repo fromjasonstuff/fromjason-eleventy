@@ -14,15 +14,17 @@ tags: ['indie web', 'interesting links']
 
 [Jump to the list](#the-list)
 
-At night before bed, I'll bounce around the indie web for a couple hours. Along the way, I'll bookmark a website, or three, or throw one into to my RSS reader. 
+At night before bed, I'll bounce around the indie web for a couple hours. I used to spend that time on TikTok, but I've slowly moved away from trad-social for a few months now. 
 
-Maybe I like the person's site design, or I enjoyed a piece they wrote, or whatever. I'm just trying to build a feed that lives outside of social media. 
+Along the way, I'll bookmark a website, or three, or throw one into to my RSS reader. I love it! I find new, interesting people all the time. Each for a different reasons. 
 
-But, the next time I open my RSS feed, I have no idea who these people are and what they're doing there. Why did I take the time to save them?
+Maybe I like the person's site design, or I enjoyed a piece they wrote, or whatever. I'm just trying to build a feed that lives outside of Meta and TikTok, you know?
+
+But, the next time I open Reeder, and I see a site I add just the day before, I have no idea who these people are and what they're doing here. Why did I take the time to save them? Reeder doesn't seem to have an annotation feature so I never jot down a reason. 
 
 So, this is my half-assed attempt to make note of what I thought was so interesting about said person.
 
-For now, I'm embedding [a Raindrop collection](https://raindrop.io/JayVee/indie-web-38881876). At the moment, there's too much friction between my writing app and publishing a post here (I'm still settling into my new site). I don't see myself posting each time I bookmark. 
+For now, I'm embedding a Raindrop collection called [Indie Web](https://raindrop.io/JayVee/indie-web-38881876). I'd to post natively but at the moment, there's too much friction between my writing app and publishing here (I'm still settling into my new site). I don't see myself posting each time I bookmark. 
 
 This temporary process is not ideal either. I'll have to add a site to Reeder, then add it again to Raindrop with a note. That's way too many steps. We'll see how it goes. Maybe I'll write an iOS Shortcut or something. 
 
