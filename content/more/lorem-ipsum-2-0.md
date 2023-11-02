@@ -24,13 +24,7 @@ sub: more
     role="button"
     data-target="lorem-1"
     class="copy-btn"
-    ><img
-      src="/img/copytext.svg"
-      loading="lazy"
-      width="20px"
-      alt="icon for copying text"
-      class="copy-icon"
-  /></a>
+    >copy</a>
 </div>
 <div class="ipsum-div">
   <p id="lorem-2" class="lorem-para">
