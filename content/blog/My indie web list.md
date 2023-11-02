@@ -29,4 +29,4 @@ This temporary process is not ideal either. I'll have to add a site to Reeder, t
 ## The List
 I'll continue to add, im sure. 
 
-<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/JayVee/indie-web-38881876/embed/sort=-created&hide=Header"></iframe>
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/JayVee/indie-web-38881876/embed/hide=header&sort=-created"></iframe>
