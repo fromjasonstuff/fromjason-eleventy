@@ -13,6 +13,7 @@ sub: more
 
 <!-- Mark up. Each p has a unique id and each a has respective data-target -->
 <div class="ipsum-div">
+ <a role="button" data-target="lorem-1" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-1" class="lorem-para">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
     enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros
@@ -20,21 +21,21 @@ sub: more
     nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
     tristique posuere.
   </p>
-  <a role="button" data-target="lorem-1" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
 <div class="ipsum-div">
-  <p id="lorem-2" class="lorem-para">Fundamenta Cogitata</p>
   <a role="button" data-target="lorem-2" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
+  <p id="lorem-2" class="lorem-para">Fundamenta Cogitata</p>
 </div>
 <div class="ipsum-div">
+<a role="button" data-target="lorem-3" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-3" class="lorem-para">Aesthetica Structurae</p>
-  <a role="button" data-target="lorem-3" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
 <div class="ipsum-div">
-  <p id="lorem-4" class="lorem-para">Verborum Novitatem</p>
  <a role="button" data-target="lorem-4" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
+  <p id="lorem-4" class="lorem-para">Verborum Novitatem</p>
 </div>
 <div class="ipsum-div">
+ <a role="button" data-target="lorem-5" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-5" class="lorem-para">
     Silvarum Umbrae non tantum loci quiescentis, sed etiam inspiratio pro
     scriptoribus fabricandis manet. Concordia Verborum, non solum structuram
@@ -43,9 +44,9 @@ sub: more
     designeris suscitatur. Scripta Luminaria, quasi lucernae in tenebris,
     paginas illuminant, ducens ad cognitionem formarum et spatiorum.
   </p>
- <a role="button" data-target="lorem-5" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
 <div class="ipsum-div">
+ <a role="button" data-target="lorem-6" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-6" class="lorem-para">
     In annalibus designandi, Vocabula Vivida ut novus terminus, spatium proprium
     inter artes creativas obtinet. Quasi flora in horto textuali, sic etiam
@@ -58,9 +59,9 @@ sub: more
     concinnata sunt, ut legentium mentes ad realitatem proximam adducantur,
     licet verborum sensus in umbra maneat.
   </p>
- <a role="button" data-target="lorem-6" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
 <div class="ipsum-div">
+<a role="button" data-target="lorem-7" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-7" class="lorem-para">
     Per Serenitatem Scripturae, silentium loquitur et vacuitas paginae clamorem
     typographicum facit. Ita architecti textus mundos parallelos creant, ubi
@@ -74,9 +75,9 @@ sub: more
     maneat. Aesthetica non est casus, sed exquisita artificii sequela, quae in
     hoc corpore textus vivide demonstratur.
   </p>
-<a role="button" data-target="lorem-7" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
 <div class="ipsum-div">
+ <a role="button" data-target="lorem-8" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-8" class="lorem-para">
     In perenni questu formae perfectae, Mysterium Artis se expandit ultra
     marginem, fontes et spatia inter verba subtiliter moderans. Hic, in
@@ -90,9 +91,9 @@ sub: more
     legentes etiam inanis verbi profundum gustare, ut verum artis essentiam
     capiant.
   </p>
-  <a role="button" data-target="lorem-8" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
 <div class="ipsum-div">
+ <a role="button" data-target="lorem-9" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
   <p id="lorem-9" class="lorem-para">
     Perpetua Lineamenta creativitatis undas in paginis effundit, fontium
     varietatem demonstrans. Spacium Intertextum, subtiles differentiationes in
@@ -103,5 +104,4 @@ sub: more
     lectoribus spirat. Lorem Ipsum 2.0, silentium loquens, eloquentiam in
     absentia vocis offert.
   </p>
-   <a role="button" data-target="lorem-9" class="copy-btn" style="font-size: var(--text--small-font-size); color: var(--color--accent);">copy</a>
 </div>
