@@ -32,6 +32,7 @@ sub: more
     vertical-align: middle;
     display: inline-block;
     cursor: pointer;
+    width: 17px;
 }
 
 </style>
