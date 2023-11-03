@@ -8,8 +8,11 @@ permalink: /notebook/feed/feed.xml
     <title>{{ subsdata.notebook.title }}</title>
     <subtitle>{{ subsdata.notebook.description }}</subtitle>
     <link href="{{ permalink | htmlBaseUrl(subsdata.notebook.url) }}" rel="self"/>
-    <link href="{{ subsdata.notebook.url | addPathPrefixToFullUrl }}"/> {% set subAllnotebook = collections.posts | include("data.sub", "notebook") %}
-    <updated>{{ subAllnotebook | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <link href="{{ subsdata.notebook.url | addPathPrefixToFullUrl }}"/>
+    <updated>
+        {% set subAllnotebook = collections.posts | include("data.sub", "notebook") %}
+        {{ subAllnotebook | getNewestCollectionItemDate | dateToRfc3339 }}
+    </updated>
     <id>{{ subsdata.notebook.url }}</id>
     <author>
         <name>{{ subsdata.notebook.author.name }}</name>
