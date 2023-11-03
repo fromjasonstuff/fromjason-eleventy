@@ -1,6 +1,7 @@
 module.exports = {
     notebook: {
         title: "Notebook",
+        fulltitle: "Notebook From Jason",
         url: "https://fromjason.xyz/notebook/",
         language: "en",
         description: "Very serious stuff. Typos included.",
@@ -13,6 +14,7 @@ module.exports = {
     },
     freelance: {
         title: "Freelance",
+        fulltitle: "Freelance From Jason",
         url: "https://fromjason.xyz/freelance/",
         language: "en",
         description: "Freelance? In this economy?",
@@ -24,6 +26,7 @@ module.exports = {
     },
     stories: {
         title: "Stories",
+        fulltitle: "Stories From Jason",
         url: "https://fromjason.xyz/stories/",
         language: "en",
         description: "Flash fiction, short stories, & a secret third thing.",
