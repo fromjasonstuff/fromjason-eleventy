@@ -22,7 +22,26 @@ sub: more
 
 <h2>RSS Feeds</h2>
 
-<p>(Working on this functionality. Check back soon.)</p>
+You can now subscribe to the indvidual subs that make up From Jason. *air horn noise* 
+
+Use the links below or copy / paste the sub's url into your favorite RSS reader.
+
+<h3>XML RSS</h3>
+
+<ul>
+<li><a href="https://www.fromjason.xyz/notebook/feed/feed.xml" title="subscribe rss notebook">notebook</a></li>
+<li><a href="https://www.fromjason.xyz/freelance/feed/feed.xml" title="subscribe rss freelance">freelance</a></li>
+<li><a href="https://www.fromjason.xyz/stories/feed/feed.xml" title="subscribe rss stories">stories</a></li>
+</ul>
+
+<h3>JSON RSS</h3>
+
+<ul>
+<li><a href="https://www.fromjason.xyz/notebook/feed/feed.json" title="subscribe rss notebook">notebook</a></li>
+<li><a href="https://www.fromjason.xyz/freelance/feed/feed.json" title="subscribe rss freelance">freelance</a></li>
+<li><a href="https://www.fromjason.xyz/stories/feed/feed.json" title="subscribe rss stories">stories</a></li>
+</ul>
+
 
 <h2>My Socials</h2>
 
