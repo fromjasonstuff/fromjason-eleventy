@@ -1,0 +1,28 @@
+---
+# Metadata comes from _data/subsdata.js
+permalink: /notebook/feed/feed.xml
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ subsdata.notebook.language }}">
+    <title>{{ subsdata.notebook.title }}</title>
+    <subtitle>{{ subsdata.notebook.description }}</subtitle>
+    <link href="{{ permalink | htmlBaseUrl(subsdata.notebook.url) }}" rel="self"/>
+    <link href="{{ subsdata.notebook.url | addPathPrefixToFullUrl }}"/> {% set subAllnotebook = collections.posts | include("data.sub", "notebook") %}
+    <updated>{{ subAllnotebook | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <id>{{ subsdata.notebook.url }}</id>
+    <author>
+        <name>{{ subsdata.notebook.author.name }}</name>
+        <email>{{ subsdata.notebook.author.email }}</email>
+    </author>
+    {%- for post in subAllnotebook | reverse %}
+        {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
+        <entry>
+            <title>{{ post.data.title }}</title>
+            <link href="{{ absolutePostUrl }}"/>
+            <updated>{{ post.date | dateToRfc3339 }}</updated>
+            <id>{{ absolutePostUrl }}</id>
+            <content type="html">{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</content>
+        </entry>
+    {%- endfor %}
+</feed>
