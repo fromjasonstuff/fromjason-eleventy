@@ -1,10 +1,11 @@
 ---
 # metadata comes from _data/subsdata.js
 permalink: /notebook/feed/feed.xml
+sub: 'notebook'
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ subsdata.notebook.language }}">
-    <title>{{ subsdata.notebook.title }}</title>
+    <title>{{ subsdata.notebook.fulltitle }}</title>
     <subtitle>{{ subsdata.notebook.description }}</subtitle>
     <link href="{{ permalink | htmlBaseUrl(subsdata.notebook.url) }}" rel="self"/>
     <link href="{{ subsdata.notebook.url | addPathPrefixToFullUrl }}"/>
