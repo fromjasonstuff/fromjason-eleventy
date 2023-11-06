@@ -27,26 +27,24 @@
   from = "/stories"
   to = "/p/stories/"
   status = 301
-  
-[[redirects]]
-  from = "https://notebook.fromjason.xyz"
-  to = "https://fromjason.xyz/p/notebook/"
-  status = 301
 
 [[redirects]]
-  from = "https://freelance.fromjason.xyz"
-  to = "https://fromjason.xyz/p/freelance/"
+  from = "https://freelance.fromjason.xyz/*"
+  to = "https://fromjason.xyz/p/freelance/:splat"
   status = 301
+  force = true
   
 [[redirects]]
-  from = "https://stories.fromjason.xyz"
-  to = "https://fromjason.xyz/p/stories/"
+  from = "https://stories.fromjason.xyz/*"
+  to = "https://fromjason.xyz/p/stories/:splat"
   status = 301
+  force = true
   
 [[redirects]]
   from = "https://notebook.fromjason.xyz/*"
   to = "https://fromjason.xyz/p/notebook/:splat"
   status = 301
+  force = true
   
 [[redirects]]
   from = "/notebook/*"
