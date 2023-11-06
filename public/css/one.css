@@ -2655,7 +2655,7 @@ blockquote {
 }
 
 .auto-list-block, .manual-list-block {
-  margin-top: 2em;
+  margin-top: 1em;
   display: block;
 }
 
@@ -3058,5 +3058,16 @@ iframe {
 }
 
 
-/* --  */    
+/* -- new lead combo class that sets negative margin-top. also overline for series*/    
+
+.under-title {
+	margin-top: -1em; 
+	margin-bottom: 1.25em;
+}
+
+.overline {
+	text-transform: uppercase;
+	font-size: var(--text--small-font-size);
+	margin-bottom: -2.5em;
+}
           
