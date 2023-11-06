@@ -1,0 +1,28 @@
+---
+# Metadata comes from _data/subsdata.js
+permalink: /stories/feed/feed.json
+sub: 'stories'
+---
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "{{ subsdata.stories.fulltitle }}",
+    "language": "{{ subsdata.stories.language }}",
+    "home_page_url": "{{ subsdata.stories.url | addPathPrefixToFullUrl }}",
+    "feed_url": "{{ permalink | htmlBaseUrl(subsdata.stories.url) }}",
+    "description": "{{ subsdata.stories.description }}",
+    "author": {
+        "name": "{{ subsdata.stories.author.name }}",
+        "url": "{{ subsdata.stories.author.url }}"
+    },
+    "items": [{% set subAllstories = collections.posts | include("data.sub", "stories") %}{%- for post in subAllstories | reverse %}{%- set absolutePostUrl = post.url | htmlBaseUrl(subsdata.stories.url) %}{
+                "id": "{{ absolutePostUrl }}",
+                "url": "{{ absolutePostUrl }}",
+                "title": "{{ post.data.title }}",
+                "content_html":{% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}
+                {% else %}
+                    ""
+                {% endif %},
+                "date_published": "{{ post.date | dateToRfc3339 }}"
+            }
+            {% if not loop.last %},{% endif %}{%- endfor %}]
+}

@@ -1,0 +1,10 @@
+---
+title: All notebook posts
+plot: notebook
+---
+
+<h1>{{ title }}</h1>
+
+{% set FilterPostsByPlot = collections.posts | include("data.sub", plot) %}
+{% set postslist = FilterPostsByPlot %}
+{% include "postslist.njk" %}

@@ -1,0 +1,24 @@
+---
+title: Oddities
+description: The weird pages from my footer.
+sub: stories
+series: titlepage
+seriesID: oddities
+---
+<p class="overline accent secondary-font">series</p>
+<h1>{{ title }}</h1>
+<p class="lead under-title">{{ description }}</p>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+</p>
+
+<div class="auto-list-block">
+
+{% set seriesIDposts = collections.posts | include("data.seriesID", "oddities") %}
+
+{% set postslist = seriesIDposts %}
+
+{% include "seriespostslist.njk" %}
+
+</div>

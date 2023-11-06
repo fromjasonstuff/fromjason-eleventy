@@ -1,0 +1,10 @@
+---
+title: All posts from everywhere
+permalink: "/all/"
+---
+
+<h1>{{ title }}</h1>
+
+{% set GetAllPosts = collections.posts %}
+{% set postslist = GetAllPosts %}
+{% include "postslist.njk" %}

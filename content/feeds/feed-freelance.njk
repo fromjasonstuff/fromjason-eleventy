@@ -1,0 +1,29 @@
+---
+# metadata comes from _data/subsdata.js
+permalink: /freelance/feed/feed.xml
+sub: 'freelance'
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ subsdata.freelance.language }}">
+    <title>{{ subsdata.freelance.fulltitle }}</title>
+    <subtitle>{{ subsdata.freelance.description }}</subtitle>
+    <link href="{{ permalink | htmlBaseUrl(subsdata.freelance.url) }}" rel="self"/>
+    <link href="{{ subsdata.freelance.url | addPathPrefixToFullUrl }}"/>
+    <updated>
+        {% set subAllfreelance = collections.posts | include("data.sub", "freelance") %}{{ subAllfreelance | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <id>{{ subsdata.freelance.url }}</id>
+    <author>
+        <name>{{ subsdata.freelance.author.name }}</name>
+        <email>{{ subsdata.freelance.author.email }}</email>
+    </author>
+    {%- for post in subAllfreelance | reverse %}
+        {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(subsdata.freelance.url) }}{% endset %}
+        <entry>
+            <title>{{ post.data.title }}</title>
+            <link href="{{ absolutePostUrl }}"/>
+            <updated>{{ post.date | dateToRfc3339 }}</updated>
+            <id>{{ absolutePostUrl }}</id>
+            <content type="html">{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</content>
+        </entry>
+    {%- endfor %}
+</feed>

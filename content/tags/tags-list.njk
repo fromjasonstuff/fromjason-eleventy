@@ -1,0 +1,16 @@
+---
+title: All tags
+description: From notebook, freelance, & stories.
+permalink: /tags/
+layout: layouts/home.njk
+logo: '77.png'
+---
+
+<div class="auto-list-block">
+<ul class="auto-list">
+{% for tag in collections.all | getAllTags | filterTagList %}
+	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	<li class="auto-list-item"><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+</div>
