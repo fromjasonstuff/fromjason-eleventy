@@ -9,7 +9,7 @@
   directory = "netlify/functions"
   
 [[redirects]]
-  from = "https://freelance.fromjason.xyz/patreons-new-logo-design-is-good-actually"
+  from = "/patreons-new-logo-design-is-good-actually"
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
   status = 301
   
