@@ -27,3 +27,8 @@
   from = "/stories"
   to = "/p/stories/"
   status = 301
+  
+[[redirects]]
+  from = "/notebook/*"
+  to = "https://fromjason.xyz/p/notebook/:splat"
+  status = 301
