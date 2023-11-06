@@ -9,28 +9,21 @@
   directory = "netlify/functions"
   
 [[redirects]]
-	from = "https://www.fromjason.xyz/stories/:splat"
-	to = "https://stories.fromjason.xyz/*"
-	status = 301
-	force = true
+  from = "/patreons-new-logo-design-is-good-actually"
+  to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
+  status = 301
   
-[[plugins]]
+[[redirects]]
+  from = "/notebook"
+  to = "/p/notebook/"
+  status = 301
 
-	# Opt-in to the Netlify Lighthouse plugin (choose one):
-
-	# 1. Go to your site on https://app.netlify.com and navigate to the Integrations tab, search for the `Lighthouse` plugin
-	# 2. Or via `npm install -D @netlify/plugin-lighthouse`
-
-	# Read more: https://github.com/netlify/netlify-plugin-lighthouse
-
-	package = "@netlify/plugin-lighthouse"
-
-	# optional, fails build when a category is below a threshold
-	[plugins.inputs.thresholds]
-		performance = 1.0
-		accessibility = 1.0
-		best-practices = 1.0
-		seo = 1.0
-
-	[plugins.inputs]
-		output_path = "reports/lighthouse/index.html"
+[[redirects]]
+  from = "/freelance"
+  to = "/p/freelance/"
+  status = 301
+  
+[[redirects]]
+  from = "/stories"
+  to = "/p/stories/"
+  status = 301
