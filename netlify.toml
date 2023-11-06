@@ -13,6 +13,11 @@
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
   status = 301
   
+[[redirects]]
+  from = "/not-a-real-url-test"
+  to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
+  status = 301
+  
 [[plugins]]
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
