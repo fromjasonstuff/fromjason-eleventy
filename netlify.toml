@@ -9,10 +9,9 @@
   directory = "netlify/functions"
   
 [[redirects]]
-	from = "https://www.fromjason.xyz/stories/:splat"
-	to = "https://stories.fromjason.xyz/*"
-	status = 301
-	force = true
+  from = "freelance.fromjason.xyz/patreons-new-logo-design-is-good-actually"
+  to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
+  status = 301
   
 [[plugins]]
 
