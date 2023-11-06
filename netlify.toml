@@ -32,3 +32,48 @@
   from = "/notebook/*"
   to = "https://fromjason.xyz/p/notebook/:splat"
   status = 301
+  
+[[redirects]]
+  from = "/freelance/*"
+  to = "https://fromjason.xyz/p/freelance/:splat"
+  status = 301
+  
+[[redirects]]
+  from = "/stories/*"
+  to = "https://fromjason.xyz/p/stories/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/stories/*"
+  to = "https://fromjason.xyz/p/stories/:splat"
+  status = 301
+  
+[[redirects]]
+  from = "/yuck-leopard/"
+  to = "/p/stories/s/oddities/yuck-leopard/"
+  status = 301
+
+[[redirects]]
+  from = "/drunk-baby/"
+  to = "/p/stories/s/oddities/drunk-baby/"
+  status = 301
+  
+[[redirects]]
+  from = "/irate-ivan/"
+  to = "/p/stories/s/oddities/irate-ivan/"
+  status = 301
+
+[[redirects]]
+  from = "/photog-phil/"
+  to = "/p/stories/s/oddities/photog-phil/"
+  status = 301
+  
+[[redirects]]
+  from = "/shame-fish/"
+  to = "/p/stories/s/oddities/shame-fish/"
+  status = 301
+  
+[[redirects]]
+  from = "/that-look-lion/"
+  to = "/p/stories/s/oddities/that-look-lion/"
+  status = 301
