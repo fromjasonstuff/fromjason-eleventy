@@ -29,6 +29,26 @@
   status = 301
   
 [[redirects]]
+  from = "https://notebook.fromjason.xyz"
+  to = "https://fromjason.xyz/p/notebook/"
+  status = 301
+
+[[redirects]]
+  from = "https://freelance.fromjason.xyz"
+  to = "https://fromjason.xyz/p/freelance/"
+  status = 301
+  
+[[redirects]]
+  from = "https://stories.fromjason.xyz"
+  to = "https://fromjason.xyz/p/stories/"
+  status = 301
+  
+[[redirects]]
+  from = "https://notebook.fromjason.xyz/*"
+  to = "https://fromjason.xyz/p/notebook/:splat"
+  status = 301
+  
+[[redirects]]
   from = "/notebook/*"
   to = "https://fromjason.xyz/p/notebook/:splat"
   status = 301
@@ -108,6 +128,27 @@
   to = "/me/lorem-ipsum-2-0/"
   status = 301
   
+[[redirects]]
+  from = "/all-posts-from-everywhere/"
+  to = "/all/"
+  status = 301
+  
+[[redirects]]
+  from = "/notebook/all-posts/"
+  to = "/p/notebook/all/"
+  status = 301
+
+[[redirects]]
+  from = "/freelance/all-posts/"
+  to = "/p/freelance/all/"
+  status = 301
+  
+[[redirects]]
+  from = "/stories/all-posts/"
+  to = "/p/stories/all/"
+  status = 301
+  
+
   
   
   
