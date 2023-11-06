@@ -77,3 +77,64 @@
   from = "/that-look-lion/"
   to = "/p/stories/s/oddities/that-look-lion/"
   status = 301
+  
+[[redirects]]
+  from = "/colophon/"
+  to = "/me/colophon/"
+  status = 301
+  
+[[redirects]]
+  from = "/current-projects/"
+  to = "/me/now/"
+  status = 301
+
+[[redirects]]
+  from = "/about-me/"
+  to = "/me/"
+  status = 301
+
+[[redirects]]
+  from = "/how-to-reach-me/"
+  to = "/me/"
+  status = 301
+  
+[[redirects]]
+  from = "/lorem-ipsum-2-0/"
+  to = "/me/lorem-ipsum-2-0/"
+  status = 301
+
+[[redirects]]
+  from = "/lorem-ipsum-2-0/"
+  to = "/me/lorem-ipsum-2-0/"
+  status = 301
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
