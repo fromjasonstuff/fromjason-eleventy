@@ -6,10 +6,10 @@
     <link href="https://mastodon.social/@fromjason" rel="me">
     <link rel="micropub" href="https://www.fromjason.xyz/.netlify/functions/micropub">
     <meta name="description" content="{{ description or metadata.description }}">
-    <meta content="From Jason" property="og:title">
-    <meta content="This is my digital garden." property="og:description">
-    <meta content="From Jason" property="twitter:title">
-    <meta content="This is my digital garden." property="twitter:description">
+    <meta content="{{ title or metadata.title}}" property="og:title">
+    <meta content="{{ description or metadata.description }}" property="og:description">
+    <meta content="{{ title or metadata.title }}" property="twitter:title">
+    <meta content="T{{ description or metadata.description }}" property="twitter:description">
     <meta property="og:type" content="website">
     <meta content="summary_large_image" name="twitter:card">
     <meta
