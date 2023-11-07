@@ -5,6 +5,6 @@ module.exports = {
 	"layout": "layouts/post.njk",
 	"permalink": "/p/{{ sub | slugify }}/{{ title | slugify }}/",
 	eleventyComputed: {
-		rssDir: data => '/p/{{ sub }}'
+		rssDir: data => '/p/' + data.sub
 	}
 };
