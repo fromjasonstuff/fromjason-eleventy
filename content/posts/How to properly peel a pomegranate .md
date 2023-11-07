@@ -17,7 +17,7 @@ Pomegranates are delicious, but can be tricky to rip open. In this guide I'll sh
 Step 1: beat it over then head with a wooden spoon. 
 ![step 1](https://fromjason.xyz/img/step1.jpg)
 
-Keep doing it until blee— uh, leak. 
+Keep doing it until blee— uh, leaks. 
 ![bleeding](https://fromjason.xyz/img/bleeding.gif)
 
 Step 2: Rip open the pomegranate's body, exposing its insides. 
