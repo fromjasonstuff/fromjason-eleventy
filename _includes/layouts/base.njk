@@ -30,8 +30,9 @@
     <meta name="generator" content="{{ eleventy.generator }}" />
     <meta name="description" content="{{ description or metadata.description }}" />
     <link rel="canonical" href="https://fromjason.xyz{{ page.url }}" />
-     <!-- RSS stuff. If the page doesn't have an rssDir key, it defaults to the notebook plot. -->
-    <meta content="width=device-width, initial-scale=1" name="viewport"> {#- Atom and JSON feeds included by default #}
+    <meta content="width=device-width, initial-scale=1" name="viewport"> 
+    <!-- RSS stuff. If the page doesn't have an rssDir key, it defaults to the notebook plot. -->
+    {#- Atom and JSON feeds included by default #}
     <link rel="alternate" href="{{ rssDir or '/p/notebook' }}/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}" />
     <link rel="alternate" href="{{ rssDir or '/p/notebook' }}/feed/feed.json" type="application/json" title="{{ metadata.title }}" />
     <!-- Favicon and webclip -->
