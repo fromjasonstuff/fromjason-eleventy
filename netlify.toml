@@ -12,10 +12,15 @@
   from = "/patreons-new-logo-design-is-good-actually"
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
   status = 301
-  
+
 [[redirects]]
   from = "/notebook"
   to = "/p/notebook/"
+  status = 301
+  
+[[redirects]]
+  from = "https://www.fromjason.xyz/p/notebook/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
+  to = "https://www.fromjason.xyz/p/freelance/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
   status = 301
 
 [[redirects]]
