@@ -4,7 +4,7 @@ date: 2023-11-07
 type: note
 phase: complete
 audience: everyone
-graphic: '188.png'
+graphic: 'Pomegranate.png'
 graphicAlt: 'illustration of skeleton'
 openGraph: 'notebook'
 sub: notebook
