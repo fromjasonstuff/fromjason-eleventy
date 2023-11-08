@@ -37,6 +37,9 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 		"./public/": "/",
 
 	});
+	
+	// Put robots.txt in root
+	eleventyConfig.addPassthroughCopy({ '/robots.txt': '/robots.txt' });
 			
 
 	// Run Eleventy when these files change:
