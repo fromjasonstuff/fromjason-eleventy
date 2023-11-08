@@ -7,7 +7,7 @@ audience: web designers
 graphic: 'logo-fromjason.svg'
 graphicAlt: 'illustration of a mask'
 openGraph: 'fromjason2'
-sub: notebook
+sub: freelance
 tags: ['11ty', 'web design']
 ---
 # {{ title }}
