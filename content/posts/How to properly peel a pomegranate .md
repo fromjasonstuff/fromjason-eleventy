@@ -26,7 +26,7 @@ Step 2: Rip open the pomegranate's body, exposing its insides.
 Step 3: Dump its guts into a bowl. 
 ![step 3](https://fromjason.xyz/img/step3.jpg)
 
-Step 4: Don't for get to ~~hide the body~~ throw away the husk. 
+Step 4: Don't forget to ~~hide the body~~ throw away the husk. 
 ![step 4](https://fromjason.xyz/img/step4.jpg)
 
 Step 5: Enjoy the fruits of your labor!
