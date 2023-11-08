@@ -3072,6 +3072,6 @@ iframe {
 }
 /* reduced margin top for better architecture. the top sentence is always associated with the image. */
 img {
-  margin: .5em auto;
+  margin: .5em auto 2em auto;
 }
           
