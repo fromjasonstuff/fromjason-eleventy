@@ -3,78 +3,35 @@ layout: layouts/base.njk
 defaultGraphic: '5.png'
 body: body-primary
 ---
-
-<!-- CSS for the elements -->
-<style>
-.ipsum-div {
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-}
-.lorem-para {
-    flex: 1;
-}
-.copy-btn {
-z-index: 9999;
-    width: 35px;
-    height: 35px;
-    cursor: pointer;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-    display: flex;
-    position: relative;
-	max-width: 100%;
-	margin-right: 10px;
-
-
-}
-.copy-icon {
-		max-width: 100%;
-    vertical-align: middle;
-    display: inline-block;
-    cursor: pointer;
-		width: 17px;
-		z-index: 99;
-}
-
-</style>
-            <header class="header">
-            <nav class="navbar">
-                {% include "partials/backbutton.njk" %}
- </nav>
-
- </header>
-
-
-            </header>
-    <article class="article">
-    <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
-
-{{ content | safe }}    
-
-   </article>
-
+<header class="header">
+   <nav class="navbar">
+      {% include "partials/backbutton.njk" %}
+   </nav>
+</header>
+</header>
+<article class="article">
+   <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
+   {{ content | safe }}    
+</article>
+<!-- Javascript --><script>
+   // This script sets up the copy functionality for each button
    
-   <!-- Javascript --><script>
-// This script sets up the copy functionality for each button
-
-// Function to copy text to clipboard
-function copyTextToClipboard(text) {
-  navigator.clipboard.writeText(text).then(function() {
-    alert('Text successfully copied to clipboard');
-  }).catch(function(err) {
-    alert('Error in copying text: ' + err);
-  });
-}
-
-// Event listener for all copy buttons
-document.querySelectorAll('.copy-btn').forEach(function(button) {
-  button.addEventListener('click', function(event) {
-    // Get the ID of the target element from the data-target attribute
-    var targetId = event.target.getAttribute('data-target');
-    var text = document.getElementById(targetId).innerText;
-    copyTextToClipboard(text);
-  });
-});
+   // Function to copy text to clipboard
+   function copyTextToClipboard(text) {
+     navigator.clipboard.writeText(text).then(function() {
+       alert('Text successfully copied to clipboard');
+     }).catch(function(err) {
+       alert('Error in copying text: ' + err);
+     });
+   }
+   
+   // Event listener for all copy buttons
+   document.querySelectorAll('.copy-btn').forEach(function(button) {
+     button.addEventListener('click', function(event) {
+       // Get the ID of the target element from the data-target attribute
+       var targetId = event.target.getAttribute('data-target');
+       var text = document.getElementById(targetId).innerText;
+       copyTextToClipboard(text);
+     });
+   });
 </script>

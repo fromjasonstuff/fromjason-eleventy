@@ -49,6 +49,38 @@
         ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
+    <!-- CSS for the page elements -->
+<style>
+.ipsum-div {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.lorem-para {
+    flex: 1;
+}
+.copy-btn {
+z-index: 9999;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    display: flex;
+    position: relative;
+	max-width: 100%;
+	margin-right: 10px;
+}
+.copy-icon {
+	max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    cursor: pointer;
+	width: 17px;
+	z-index: 99;
+}
+</style>
   </head>
   <body class="{{ body }}">
     <div class="w-layout-blockcontainer container-650px container-height w-container">

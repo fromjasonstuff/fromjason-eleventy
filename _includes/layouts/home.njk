@@ -3,13 +3,8 @@ layout: layouts/base.njk
 body: body-primary
 openGraph: 'fromjason'
 ---
-
  <header class="header">
- 
- {% include "partials/nav.njk" %}
- {% include "partials/masthead.njk" %}
-
+ 	{% include "partials/nav.njk" %}
+ 	{% include "partials/masthead.njk" %}
  </header>
-
-
 {{ content | safe }}
