@@ -21,7 +21,7 @@ sub: fromjason
 </article>
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h3>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %} from all subs</h3>
+<h3>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %} from all plots</h3>
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
