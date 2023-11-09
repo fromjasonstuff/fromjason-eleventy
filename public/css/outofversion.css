@@ -42,4 +42,8 @@ iframe {
 img {
   margin: .5em auto 2em auto;
 }
-          
+
+/* removed align from things like quotes */
+quote, .quote {
+text-align: left;
+}
