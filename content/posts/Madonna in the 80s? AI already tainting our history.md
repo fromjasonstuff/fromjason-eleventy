@@ -13,7 +13,7 @@ tags: ['AI', 'internet culture']
 ---
 # {{ title }}
 
-This [Reddit post](https://www.reddit.com/r/nostalgia/s/FSydExW52w), an ode to early Madonna, has 505 upvotes as of the time of writing this note. But the seemingly ￼innocuous ￼collection of Madonna photos from the late 70s and early 80s feels *off*. Particularly photos 7 and 8, where Madonna's face gives an almost uncanny valley feel. Maybe it's the extra arm coming from Madonna's torso in pic 8. 
+This [Reddit post](https://www.reddit.com/r/nostalgia/s/FSydExW52w), an ode to early Madonna, has 505 upvotes at the time of writing this note. But, the seemingly ￼innocuous ￼collection of Madonna photos from the late 70s and early 80s feels *off*. Particularly photos 7 and 8, where Madonna's face gives an almost uncanny valley feel. Maybe it's the extra arm coming from Madonna's torso in pic 8. 
 
 Here's an actual photo of young Madonna from the collection:
 ![Young Madonna](https://fromjason.xyz/img/IMG_2393.jpeg)
