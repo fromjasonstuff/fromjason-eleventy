@@ -29,11 +29,6 @@
   status = 301
 
 [[redirects]]
-  from = "/travel"
-  to = "/p/travel/"
-  status = 301
-  
-[[redirects]]
   from = "https://freelance.fromjason.xyz/*"
   to = "https://fromjason.xyz/p/freelance/:splat"
   status = 301
@@ -166,6 +161,10 @@
   to = "/p/stories/all/"
   status = 301
   
+[[redirects]]
+  from = "/p/notebook/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
+  to = "/p/freelance/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
+  status = 301
 
   
   
