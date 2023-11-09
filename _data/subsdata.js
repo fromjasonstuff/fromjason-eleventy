@@ -35,6 +35,18 @@ module.exports = {
             email: "inbox@jvelazquez.email",
             url: "https://fromjason.xyz/me/"
         }
+    },
+    travel: {
+        title: "Travel",
+        fulltitle: "Travel From Jason",
+        url: "https://fromjason.xyz/p/travel/",
+        language: "en",
+        description: "I went to Italy once.",
+        author: {
+            name: "Jason Velazquez",
+            email: "inbox@jvelazquez.email",
+            url: "https://fromjason.xyz/me/"
+        }
     }
 }
 
