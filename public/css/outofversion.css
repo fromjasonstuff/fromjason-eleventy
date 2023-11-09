@@ -1,0 +1,45 @@
+/* Not in Webflow template 1.1.0 */
+
+/* --  iframe */  
+
+iframe {
+	margin-top: 1em;
+}
+/* --  footnotes  */   
+
+.footnotes-list {
+	padding-left: 1em;
+}
+
+.footnotes-list li p a {
+	font-size: var(--small-font-size);
+}
+
+.footnote-ref {
+  font-family: var(--fonts--secondary-font-family);
+  text-decoration: none;
+}
+
+.footnote-ref a {
+  text-decoration: none;
+  color: var(--color--muted);
+}
+
+
+/* -- new lead combo class that sets negative margin-top. also overline for series*/    
+
+.under-title {
+	margin-top: -1em; 
+	margin-bottom: 1.25em;
+}
+
+.overline {
+	text-transform: uppercase;
+	font-size: var(--text--small-font-size);
+	margin-bottom: -2.5em;
+}
+/* reduced margin top for better architecture. the top sentence is always associated with the image. */
+img {
+  margin: .5em auto 2em auto;
+}
+          
