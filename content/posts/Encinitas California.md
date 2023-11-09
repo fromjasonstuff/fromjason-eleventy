@@ -6,7 +6,7 @@ phase: complete
 audience: everyone
 graphic: '762.png'
 graphicAlt: 'illustration of a butterfly'
-openGraph: 'fromjason'
+openGraph: 'california'
 sub: travel
 tags: ['california']
 ---
