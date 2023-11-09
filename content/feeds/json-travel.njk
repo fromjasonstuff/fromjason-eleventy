@@ -1,0 +1,28 @@
+---
+# Metadata comes from _data/subsdata.js
+permalink: /p/travel/feed/feed.json
+sub: 'travel'
+---
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "{{ subsdata.travel.fulltitle }}",
+    "language": "{{ subsdata.travel.language }}",
+    "home_page_url": "{{ subsdata.travel.url | addPathPrefixToFullUrl }}",
+    "feed_url": "{{ permalink | htmlBaseUrl(subsdata.travel.url) }}",
+    "description": "{{ subsdata.travel.description }}",
+    "author": {
+        "name": "{{ subsdata.travel.author.name }}",
+        "url": "{{ subsdata.travel.author.url }}"
+    },
+    "items": [{% set subAlltravel = collections.posts | include("data.sub", "travel") %}{%- for post in subAlltravel | reverse %}{%- set absolutePostUrl = post.url | htmlBaseUrl(subsdata.travel.url) %}{
+                "id": "{{ absolutePostUrl }}",
+                "url": "{{ absolutePostUrl }}",
+                "title": "{{ post.data.title }}",
+                "content_html":{% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}
+                {% else %}
+                    ""
+                {% endif %},
+                "date_published": "{{ post.date | dateToRfc3339 }}"
+            }
+            {% if not loop.last %},{% endif %}{%- endfor %}]
+}

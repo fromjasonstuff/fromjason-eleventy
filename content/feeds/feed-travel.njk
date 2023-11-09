@@ -1,0 +1,29 @@
+---
+# metadata comes from _data/subsdata.js
+permalink: /p/travel/feed/feed.xml
+sub: 'travel'
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ subsdata.travel.language }}">
+    <title>{{ subsdata.travel.fulltitle }}</title>
+    <subtitle>{{ subsdata.travel.description }}</subtitle>
+    <link href="{{ permalink | htmlBaseUrl(subsdata.travel.url) }}" rel="self"/>
+    <link href="{{ subsdata.travel.url | addPathPrefixToFullUrl }}"/>
+    <updated>
+        {% set subAlltravel = collections.posts | include("data.sub", "travel") %}{{ subAlltravel | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <id>{{ subsdata.travel.url }}</id>
+    <author>
+        <name>{{ subsdata.travel.author.name }}</name>
+        <email>{{ subsdata.travel.author.email }}</email>
+    </author>
+    {%- for post in subAlltravel | reverse %}
+        {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(subsdata.travel.url) }}{% endset %}
+        <entry>
+            <title>{{ post.data.title }}</title>
+            <link href="{{ absolutePostUrl }}"/>
+            <updated>{{ post.date | dateToRfc3339 }}</updated>
+            <id>{{ absolutePostUrl }}</id>
+            <content type="html">{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</content>
+        </entry>
+    {%- endfor %}
+</feed>
