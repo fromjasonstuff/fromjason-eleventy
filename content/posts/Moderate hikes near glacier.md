@@ -1,5 +1,5 @@
 ---
-title: He killed something beautiful
+title: Moderate Hikes Near Glacier National Park With Stunning Views beautiful
 date: 2021-09-20
 type: note
 phase: complete
