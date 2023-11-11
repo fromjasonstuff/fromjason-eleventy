@@ -3,8 +3,9 @@
   <head>
     <meta charset="utf-8">
     <title>{{ title }}</title>
-    <!-- One CSS file for now -->
+    <!-- Two CSS file for now. outofversion.css is for style changes I make between template versions. -->
     <link rel="stylesheet" href="{{ settings.siteRoot }}/css/one.css">
+    <link rel="stylesheet" href="{{ settings.siteRoot }}/css/outofversion.css">
     <!-- Netlify stuff -->
     <link rel="micropub" href="https://www.fromjason.xyz/.netlify/functions/micropub" />
     <!-- rel=me stuff -->
@@ -20,7 +21,7 @@
     <meta property="og:description" content="{{ description or metadata.description }}" />
     <meta property="og:url" content="https://fromjason.xyz{{ page.url }}" />
     <meta property="og:updated_time" content="{{ page.date }}" />   
-    <meta property="og:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" />
+    <meta property="og:image" content="{{ openGraphURL or site.openGraphImg }}" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" />
     <!-- Twitter meta that I'm sure will not work in the near future if not already because Elon is an idiot -->
     <meta property="twitter:title" content="{{ title or metadata.title }}" />
     <meta property="twitter:description" content="{{ description or metadata.description }}" />
@@ -90,7 +91,7 @@ z-index: 9999;
           <img src="{{ settings.siteRoot }}/img/finis.svg" loading="lazy" alt="Ornamentation with the word Finis in a banner." class="ft-img">
           <div class="copywrite">2086©
             <em>(so I don&#x27;t forget to change the year)</em>
-            From Jason <a href="/p/freelance/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/" title="About From Jason 2.0">2.2.0</a></div>
+            From Jason <a href="{{ site.versionWriteUpUrl }}" title="About latest version of {{ site.name }}">{{ site.version }}</a></div>
           <div id="dedication" class="dedication">This site is dedicated to the old web, the
             <em>weird</em>
             web, the web that screamed in horror when summoned through a land line.</div>
