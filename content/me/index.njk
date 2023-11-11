@@ -1,6 +1,6 @@
 ---
 title: Jason Velazquez
-description: This section is about me, Jason. It includes the basics, plus where to find me. Why are you looking for me? Weirdo. (Please look for me). 
+description: This section is about me, Jason. It includes a few sub pages, plus where to find me.  Why are you looking for me? Weirdo. (Please look for me). 
 graphic: '20a.png'
 graphicAlt: 'illustration of a mask'
 plot: me
@@ -14,32 +14,35 @@ eleventyComputed:
 <div class="h-card p-author">
    <h1 class="p-name">{{ title }}</h1>
    <p class="lead under-title">{{ description }}</p>
+   <p>Head to the <a href="#my-curated-lists">bottom of the page</a> for all my publicly curated lists.</p>
    {% set filterByMe = collections.me | include("data.sub", "me") %}
    {% set postslist = filterByMe %}
    {% include "mepostslist.njk" %}
    <h2>Where to find me</h2>
-   <p>Here are a few ways to reach me and follow my writing.</p>
+   <p>Here are a few ways to reach me, follow my writing.</p>
    <h3>Email</h3>
-   <p>Shoot me an email anytime about anything. I'd love to hear from you » <a href="mailto:inbox@jvelazquez.email" title="my email address">Email Jason</a></p>
-   <h3>My Socials</h3>
+   <p>Shoot me an email anytime about anything. I'd love to hear from you » <a href="mailto:inbox@jvelazquez.email" title="my email address">Email Jason</a>.</p>
+   <h3>My socials</h3>
+   <p>I'm slowly moving away from centralized social media, <i>in theory</i>. In practice, I'm still fairly active on these accounts. I'm spending more time on Mastodon these days</p>
    <ul>
       <li>Instagram: <a href="https://instagram.com/jasondotgov" rel="me" tilte="my instagram">@jasondotgov</a></li>
       <li>Threads: <a href="https://www.threads.net/@jasondotgov" rel="me" title="my threads">@jasondotgov</a></li>
       <li>TikTok: <a href="https://www.tiktok.com/@jasondotgov" rel="me" title="my tiktok">@jasondotgov</a></li>
       <li>Mastodon: <a href="https://mastodon.social/@fromjason" rel="me" title="my mastadon">@fromjason</a></li>
    </ul>
-   <h3>RSS Feeds</h3>
+   <h3>RSS feeds by plot</h3>
    <p>You can now subscribe to the indvidual plots that make up From Jason  <i>*air horn noise*</i>. Use the links below or copy / paste the plot's url into your favorite RSS reader.</p>
    <p>Note: both xml and json versions of my rss feed provide the same content and should both work in most reeders</p>
 
-   <ul>
+   <ol>
       <li>notebook: <a href="https://www.fromjason.xyz/notebook/feed/feed.xml" title="subscribe rss notebook" class="accent">xml</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="https://www.fromjason.xyz/notebook/feed/feed.json" title="subscribe rss notebook" class="accent">json</a></li>
       <li>freelance: <a href="https://www.fromjason.xyz/freelance/feed/feed.xml" title="subscribe rss freelance" class="accent">xml</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="https://www.fromjason.xyz/freelance/feed/feed.json" title="subscribe rss freelance" class="accent">json</a></li>
       <li>stories: <a href="https://www.fromjason.xyz/stories/feed/feed.xml" title="subscribe rss stories" class="accent">xml</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="https://www.fromjason.xyz/stories/feed/feed.json" title="subscribe rss stories" class="accent">json</a></li>
-   </ul>
+      <li>travel: <a href="https://www.fromjason.xyz/travel/feed/feed.xml" title="subscribe rss travel" class="accent">xml</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="https://www.fromjason.xyz/travel/feed/feed.json" title="subscribe rss travel" class="accent">json</a></li>
+   </ol>
    
-   <h3>My public bookmarks & lists</h3>
-   <p>Curated lists of stuff. For now, I'm embedding <a href="#" title="my public bookmarks and lists" rel="me">my public Rainbow.io account</a> because its easier. But, I hope to find a fast way to update and display my lists natively soon.</p>
+   <h3 id="my-curated-lists">My public bookmarks & lists</h3>
+   <p>Curated lists of stuff. For now, I'm embedding <a href="https://raindrop.io/JayVee" title="my public bookmarks and lists" rel="me">my public Rainbow.io account</a> because its easier. But, I hope to find a fast way to update and display my lists natively soon.</p>
    
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/JayVee/embed/me/no-header=true"></iframe>
 
