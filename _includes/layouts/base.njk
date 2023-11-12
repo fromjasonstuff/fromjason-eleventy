@@ -21,7 +21,7 @@
     <meta property="og:description" content="{{ description or metadata.description }}" />
     <meta property="og:url" content="https://fromjason.xyz{{ page.url }}" />
     <meta property="og:updated_time" content="{{ page.date }}" />   
-    <meta property="og:image" content="{{ openGraphURL or site.openGraphImg }}" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" />
+    <meta property="og:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}" />
     <!-- Twitter meta that I'm sure will not work in the near future if not already because Elon is an idiot -->
     <meta property="twitter:title" content="{{ title or metadata.title }}" />
     <meta property="twitter:description" content="{{ description or metadata.description }}" />
