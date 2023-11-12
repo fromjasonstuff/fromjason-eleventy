@@ -5,9 +5,6 @@
 [Settings]
   ID = "5d3e30a9-ff13-419a-9b09-5a2e08da5b7d"
   
-[functions]
-  directory = "netlify/functions"
-  
 [[redirects]]
   from = "/patreons-new-logo-design-is-good-actually"
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
@@ -166,33 +163,5 @@
   to = "/p/freelance/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
   status = 301
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
