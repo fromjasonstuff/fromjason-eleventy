@@ -8,7 +8,7 @@ graphic: '889.png'
 graphicAlt: 'illustration of a bunch of old mens heads on one body'
 openGraph: 'bravenewworld'
 sub: notebook
-tags: ['politech', 'ai']
+tags: ['politech']
 ---
 # {{ title }}
 
