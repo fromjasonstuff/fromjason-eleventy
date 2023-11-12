@@ -5,7 +5,7 @@ type: note
 phase: sorting
 audience: techies
 graphic: '889.png'
-graphicAlt: 'illustration of a bunch of old mens' heads on one body'
+graphicAlt: 'illustration of a bunch of old mens heads on one body'
 openGraph: 'bravenewworld'
 sub: notebook
 tags: ['politech', 'ai']
