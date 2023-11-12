@@ -1,5 +1,5 @@
 ---
-title: New technology same old people
+title: New technology same old people 
 date: 2023-11-12
 type: note
 phase: sorting
@@ -12,7 +12,7 @@ tags: ['politech', 'ai']
 ---
 # {{ title }}
 
-Humane, an AI hardware start-up whose name choice is as transparent as glass, has a "trust" section front-and-center on its [website](https://hu.ma.ne/aipin). It reads:
+Humane, an AI hardware start-up whose name choice is as transparent as glass, has a "trust" section front-and-center on its [website](https://hu.ma.ne/aipin). *It reads*:
 
 > At Humane, we believe you deserve the ability to own your data from the outset. That personal information should be protected. And, that having transparency as a value isn’t radical. As a privacy-first company, we build knowing privacy should be a core value and honestly—a given. Our commitment is to you and that which you value most.
 
