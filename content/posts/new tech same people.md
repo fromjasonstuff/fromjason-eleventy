@@ -24,7 +24,7 @@ You hate/love to see it— a bright-eyed start-up announces a new piece of hardw
 
 ![katienotopoulos on threads](https://fromjason.xyz/img/katienotopoulos.jpg)
 
-Over the past twenty years, they've used technology not to improve our lives, but to concur— markets, people, minds, and sometimes the economic system it depends on, or [so it seems](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/). Silicon Valley, for all its lead-with-empathy, people-first bullshit, has been some real coldhearted motherfuckers. Some have destroyed markets by burning through billions of VC funding. Others have [cultivated civil wars](https://erinkissane.com/meta-in-myanmar-full-series). They *all* rely on the type of slave labor that would make Willy Wonka blush.
+Over the past twenty years, they've used technology not to improve our lives, but to conquer— markets, people, minds, and sometimes the economic system it depends on, or [so it seems](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/). Silicon Valley, for all its lead-with-empathy, people-first bullshit, has been some real coldhearted motherfuckers. Some have destroyed markets by burning through billions of VC funding. Others have [cultivated civil wars](https://erinkissane.com/meta-in-myanmar-full-series). They *all* rely on the type of slave labor that would make Willy Wonka blush.
 
 We don't need a new Google or Apple. We never need another *Uber-for* start-up. Not after we've learned that the business model only works if labor is cheap and people need a side hustle just to survive. 
 
