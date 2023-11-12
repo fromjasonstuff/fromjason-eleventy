@@ -1,5 +1,5 @@
 ---
-title: New technology same old people. 
+title: New technology same old people
 date: 2023-11-12
 type: note
 phase: sorting
