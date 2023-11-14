@@ -6,7 +6,7 @@ phase: sorting
 audience: everyone
 graphic: '967.png'
 graphicAlt: 'illustration of a hat'
-openGraph: 'notebook'
+openGraph: 'myhat'
 sub: notebook
 tags: ['Apple']
 ---
