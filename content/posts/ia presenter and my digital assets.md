@@ -6,7 +6,7 @@ phase: sorting
 audience: everyone
 graphic: '311.png'
 graphicAlt: 'illustration of a projector'
-openGraph: 'notebook'
+openGraph: 'mydigitalassets'
 sub: notebook
 tags: ['open formats', 'design']
 ---
