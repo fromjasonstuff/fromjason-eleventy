@@ -164,7 +164,7 @@
   status = 301
 
   [[redirects]]
-  from = "/p/notebook/on-ia-presenter-and-my-mission-to-preserve-my-digital-assets/"
-  to = "//p/freelance/on-ia-presenter-and-my-mission-to-preserve-my-digital-assets/"
+  from = "https://fromjason.xyz/p/notebook/on-ia-presenter-and-my-mission-to-preserve-my-digital-assets/"
+  to = "https://fromjason.xyz/p/freelance/on-ia-presenter-and-my-mission-to-preserve-my-digital-assets/"
   status = 301
   
