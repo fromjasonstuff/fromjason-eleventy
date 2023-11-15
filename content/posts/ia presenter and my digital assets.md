@@ -7,7 +7,7 @@ audience: everyone
 graphic: '311.png'
 graphicAlt: 'illustration of a projector'
 openGraph: 'mydigitalassets'
-sub: notebook
+sub: freelance
 tags: ['open formats', 'design']
 ---
 # {{ title }}
