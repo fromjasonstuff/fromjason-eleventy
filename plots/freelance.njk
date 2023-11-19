@@ -1,0 +1,31 @@
+---
+plot: freelance
+plotKey: 3
+sub: plots
+rssDir: '/p/freelance'
+eleventyComputed:
+  title: "{{ plot }}"
+description: Freelance? In this economy?
+---
+<article class="article">
+   <p>
+      Here, I'll post guides, resources, and musings related to freelancing with a leftist & ADHD slant. I've been a freelancer for nearly a decade. I have hard opinions. I hope to help new freelancers get going.
+   </p>
+   <p>Subscribe to my Freelance plot: RSS <a href="https://fromjason.xyz/p/freelance/feed/feed.xml" class="accent" title="rss feed for freelance">xml feed</a> or <a href="https://fromjason.xyz/p/freelance/feed/feed.json" class="accent" title="rss feed for freelance">json feed</a>.</p>
+</article>
+
+   {% set filterByPlot = collections.posts | include("data.sub", plot) %}
+   {% set postsCount = filterByPlot | length %}
+   {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+   <h2>Latest {{ latestPostsCount }} note{% if latestPostsCount != 1 %}s & such{% endif %}</h2>
+   {% set postslist = filterByPlot | head(-1 * numberOfLatestPostsToShow) %}
+   {% set postslistCounter = postsCount %}
+   {% include "postslist.njk" %}
+   {% set morePosts = postsCount - numberOfLatestPostsToShow %}
+   {% if morePosts > 0 %}
+   <p style="margin-top: 1.5em;">{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/p/{{ plot }}/all/">all {{ plot }} posts</a>.</p>
+   {% endif %}
+   <h2>Series</h2>
+   {% set filterByPlotSeries = collections.all | include("data.sub", plot) | include("data.series", "titlepage") %}
+   {% set postslist = filterByPlotSeries %}
+   {% include "postslist.njk" %}
