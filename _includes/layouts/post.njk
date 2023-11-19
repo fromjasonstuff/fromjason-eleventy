@@ -39,7 +39,7 @@ defaultGraphic: '5.png'
                   <!-- Date for humans -->
                  <a class="u-url" href="{{ page.url }}" style="color: inherit;"><time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time></a>
                   <!-- Date for bots (microformat) -->
-                 <time class="dt-published" style="display: none;">{{ page.date | DateTime.fromISO }}</time>
+                 <time class="dt-published" style="display: none;">{{ page.date }}</time>
                </td>
             </tr>
             <tr>
