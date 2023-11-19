@@ -8,10 +8,12 @@ defaultGraphic: '5.png'
       {% include "partials/jumplink.njk" %}
    </nav>
 </header>
-<article class="article">
+<article class="h-entry article">
    <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
-   {{ content | safe }}
-   <h4>Metadata</h4>
+<div class="e-content">   
+{{ content | safe }}
+ </div>  
+<h4>Metadata</h4>
    <div class="metatable w-embed">
       <table>
          <thead>
@@ -33,7 +35,12 @@ defaultGraphic: '5.png'
             </tr>
             <tr>
                <td>Published</td>
-               <td><time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time></td>
+               <td>
+                  <!-- Date for humans -->
+                 <a class="u-url" href="{{ page.url }}" style="color: inherit;"><time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time></a>
+                  <!-- Date for bots (microformat) -->
+                 <time class="dt-published" style="display: none;">{{ date }}</time>
+               </td>
             </tr>
             <tr>
                <td>Type</td>
@@ -42,6 +49,10 @@ defaultGraphic: '5.png'
             <tr>
                <td>Phase</td>
                <td>{{ phase }}</td>
+            </tr>
+             <tr style="display: none;">
+               <td>Author</td>
+               <td><span class="p-author">Jason Velazquez</span></td>
             </tr>
             <tr>
                <td>Tags</td>
