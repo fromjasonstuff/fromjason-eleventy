@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-defaultGraphic: '5.png'
+defaultGraphic: 'graphic-default.png'
 body: body-primary
 ---
 <header class="header">
@@ -10,7 +10,7 @@ body: body-primary
 </header>
 </header>
 <article class="article">
-   <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
+   <img class="graphic" src="{{ settings.siteRoot}}/img/{% if pageGraphic %}{{ pageGraphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
    {{ content | safe }}    
 </article>
 <!-- Javascript --><script>

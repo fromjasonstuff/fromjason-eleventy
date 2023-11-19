@@ -29,12 +29,12 @@
     <meta property="og:description" content="{{ description or metadata.description }}" />
     <meta property="og:url" content="https://fromjason.xyz{{ page.url }}" />
     <meta property="og:updated_time" content="{{ page.date }}" />   
-    <meta property="og:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}" />
+    <meta property="og:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <!-- Twitter meta that I'm sure will not work in the near future if not already because Elon is an idiot -->
     <meta property="twitter:title" content="{{ title or metadata.title }}" />
     <meta property="twitter:description" content="{{ description or metadata.description }}" />
-    <meta property="twitter:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" />
-    <meta name="twitter:card" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}-opengraph.png" loading="lazy" alt="{{ graphicAlt }}-opengraph.png" />
+    <meta property="twitter:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
+    <meta name="twitter:card" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <!-- Other meta stuff I don't know how to categorize -->
     <meta name="generator" content="{{ eleventy.generator }}" />
     <meta name="description" content="{{ description or metadata.description }}" />
@@ -48,7 +48,7 @@
     <link href="{{ settings.siteRoot }}/img/favicon.png" rel="shortcut icon" type="image/x-icon">
     <link href="{{ settings.siteRoot }}/img/webclip.png" rel="re-icon">
     <link rel="apple-touch-icon" href="{{ settings.siteRoot }}/img/apple-touch-icon.png">
-    <link rel="icon" sizes="196x196" href="{{ settings.siteRoot }}/img/aapple-touch-icon.png">
+    <link rel="icon" sizes="196x196" href="{{ settings.siteRoot }}/img/apple-touch-icon.png">
 	<!-- Javascript provided by Webflow that I have yet to test and figure out what it is. need to do that. -->
     <script type="text/javascript">
       !function (o, c) {
@@ -96,7 +96,7 @@ z-index: 9999;
       {{ content | safe }}
       <footer class="footer">
         <div class="_400w-vflex">
-          <img src="{{ settings.siteRoot }}/img/finis.svg" loading="lazy" alt="Ornamentation with the word Finis in a banner." class="ft-img">
+          <img src="{{ settings.siteRoot }}/img/element-finis.svg" loading="lazy" alt="Ornamentation with the word Finis in a banner." class="ft-img">
           <div class="copywrite">2086©
             <em>(so I don&#x27;t forget to change the year)</em>
             From Jason <a href="{{ site.versionWriteUpUrl }}" title="About latest version of {{ site.name }}">{{ site.version }}</a></div>
