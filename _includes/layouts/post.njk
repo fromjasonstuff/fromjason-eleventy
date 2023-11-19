@@ -39,7 +39,7 @@ defaultGraphic: '5.png'
                   <!-- Date for humans -->
                  <a class="u-url" href="{{ page.url }}" style="color: inherit;"><time datetime="{{ page.date | htmlDateString }}">{{ date | readableDate }}</time></a>
                   <!-- Date for bots (microformat) -->
-                 <time class="dt-published" style="display: none;">{{ date }}</time>
+                 <time class="dt-published" style="display: none;">{{ page.date | DateTime.fromISO }}</time>
                </td>
             </tr>
             <tr>
@@ -52,14 +52,14 @@ defaultGraphic: '5.png'
             </tr>
              <tr style="display: none;">
                <td>Author</td>
-               <td><span class="p-author">Jason Velazquez</span></td>
+               <td><a href="https://www.fromjason.xyz" class="p-author h-card">Jason Velazquez</a></td>
             </tr>
             <tr>
                <td>Tags</td>
                <td>
                   {%- for tag in tags | filterTagList %}
                   {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-                  <span><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</span>
+                  <span><a href="{{ tagUrl }}" class="p-category post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</span>
                   {%- endfor %}
                </td>
             </tr>
