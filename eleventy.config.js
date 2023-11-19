@@ -41,7 +41,8 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 	
 	// Put robots.txt in root
 	eleventyConfig.addPassthroughCopy({ '/robots.txt': '/robots.txt' });
-			
+	// Put humans.txt in root
+	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });		
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
