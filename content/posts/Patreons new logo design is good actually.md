@@ -15,7 +15,7 @@ tags: ['design', 'logo design']
 
 *From [my post](https://reddit.com/r/logodesign/s/lg2YiEhKHg) in [r/logodesign](https://reddit.com/r/logodesign/s/hsCkbDSw17)*
 
-![Patreon logo](/img/images/patreon-logo.png)
+![Patreon logo](/img/image_post-patreon-logo.png)
 
 Patreon is the latest brand to get dragged by the internet for its new logo design. At the risk of catching a few strays, I'm here to defend it, just a bit, especially in the context of this sub. 
 

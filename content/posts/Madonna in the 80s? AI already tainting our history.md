@@ -16,11 +16,11 @@ tags: ['AI', 'internet culture']
 This [Reddit post](https://www.reddit.com/r/nostalgia/s/FSydExW52w), an ode to early Madonna, has 505 upvotes at the time of writing this note. But, the seemingly ￼innocuous ￼collection of Madonna photos from the late 70s and early 80s feels *off*. Particularly photos 7 and 8, where Madonna's face gives an almost uncanny valley feel. Maybe it's the extra arm coming from Madonna's torso in pic 8. 
 
 Here's an actual photo of young Madonna from the collection:
-![Young Madonna](https://fromjason.xyz/img/IMG_2393.jpeg)
+![Young Madonna](https://fromjason.xyz/img/image_post-IMG_2393.jpeg)
 
 And here's the AI-generated photos that made its way into the Reddit post:
-![Fake Madonna](https://fromjason.xyz/img/IMG_2392.jpeg)
-![Fake Madonna](https://fromjason.xyz/img/IMG_2395.jpeg)
+![Fake Madonna](https://fromjason.xyz/img/image_post-IMG_2392.jpeg)
+![Fake Madonna](https://fromjason.xyz/img/image_post-IMG_2395.jpeg)
 
 The redditor who posted the collection claims to not have noticed that two of the dozen photos were fake:
 
@@ -37,4 +37,4 @@ Google is just throwing AI generated photos into the pile with all the authentic
 History is already warped thanks to the internet. I can't see how AI helps the situation. 
 
 Unrelated, Madonna is a babe. 
-![Young Madonna](https://fromjason.xyz/img/IMG_2394.jpeg)
+![Young Madonna](https://fromjason.xyz/img/image_post-IMG_2394.jpeg)

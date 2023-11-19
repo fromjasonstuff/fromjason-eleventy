@@ -26,7 +26,7 @@ Now that you know what kind of day hiker I am, here are a few hikes around Glaci
 The effort-to-payoff ratio for this trail is in your favor. I hiked Lion Mountain Trail in Whitefish, MT (30 minutes from Glacier) to get used to the elevation and to get those hiking muscles working again after the long drive from Atlanta, GA. The view of the lake is beautiful. I even found a piece of free art at the top. 
 
 *Check it: this trail is dusty af. Don't wear your good boots unless you want to clean them after.*
-![Lion Mountain Trail Overlook](https://fromjason.xyz/img/IMG_2401.png)
+![Lion Mountain Trail Overlook](https://fromjason.xyz/img/image_post-IMG_2401.png)
 
 ## Danny On Trail
 *7.2 miles | 2,034 ft | Out-and-back*
@@ -36,7 +36,7 @@ This trail was a challenge. I foolishly assumed that the 7.2 miles of this out-a
 There's a bar and restaurant at the summit so, if you're reading this post-covid (if that will ever exist), have a beer for me. 
 
 *Check it: The elevation for this trail is not easy. No shame in taking the ski lift down, like I did. I can't remember the cost but wasn't too bad. Maybe like 10-15 bucks. Honestly I would've paid a hundred.*
-![Danny On Trail](https://fromjason.xyz/img/IMG_2402.png)
+![Danny On Trail](https://fromjason.xyz/img/image_post-IMG_2402.png)
 
 ## Hidden Lake Trail
 *5.3 miles | 1,374 ft | Out-and-back*
@@ -44,7 +44,7 @@ There's a bar and restaurant at the summit so, if you're reading this post-covid
 There's a reason why this trail is popular. The views are incredible from start to finish, and there's a good chance you'll see some wildlife. I was lucky enough to spot a Ram on the mountains and a mountain goat grazing just a few feet from me. The trail was closed from the lake overlook on due to bear activity when I was there. But, I didn't feel like I missed out. It was one of my favorite hikes. 
 
 *Check it: Parking can be a challenge at Logan Pass Visitor Center (where the trailhead is located). I had better luck early evening, around 4-5pm than the mornings.*
-![Hidden Lake Trail ](https://fromjason.xyz/img/IMG_0181.png)
+![Hidden Lake Trail ](https://fromjason.xyz/img/image_post-IMG_0181.png)
 
 ## Wildhorse Island
 This one will take a bit of planning to get there. But don't worry, I'll show you what you need to know. 
@@ -62,7 +62,7 @@ It’s about an hour's drive to get to the lake from Whitefish (1hr 30min from W
 Google Maps: [44227 A St, Big Arm, MT 59910](https://goo.gl/maps/ip6Q1okHmx2mUzZ97)  
 Apple Maps: [44227 A St, Big Arm, MT 59910](https://maps.apple.com/?address=44227%20A%20St,%20Big%20Arm,%20MT%20%2059910,%20United%20States&auid=15162802519812017722&ll=47.799324,-114.290313&lsp=9902&q=Big%20Arm%20Boat%20Rentals%20And%20Rides&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhB0CgQIChAAEiYpd4mgEb3lR0Ax19tLCQKTXMA59V7GbePmR0BBrzIk7iaSXMBQAw%3D%3D&t=mhttps://maps.apple.com/?address=44227%20A%20St,%20Big%20Arm,%20MT%20%2059910,%20United%20States&auid=15162802519812017722&ll=47.799324,-114.290313&lsp=9902&q=Big%20Arm%20Boat%20Rentals%20And%20Rides&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhB0CgQIChAAEiYpd4mgEb3lR0Ax19tLCQKTXMA59V7GbePmR0BBrzIk7iaSXMBQAw%3D%3D&t=m)  
 
-![Wildhorse National Park](https://fromjason.xyz/img/IMG_2404.png)
+![Wildhorse National Park](https://fromjason.xyz/img/image_post-IMG_2404.png)
 
 Here's a full list of the trails mentioned (minus Wildhorse, follow instructions above) with directions, reviews, and other important info: [Trails Under 10 Miles Near Glacier National Park](https://www.alltrails.com/lists/trails-under-10-miles-near-glacier-national-park)
 ---- 
