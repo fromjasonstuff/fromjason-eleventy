@@ -6,7 +6,7 @@ module.exports = {
 	permalink: "/p/{{ page.fileSlug }}/",
 	"numberOfLatestPostsToShow": "10",
 	eleventyComputed: {
-		openGraph: data => data.plot,
+		openGraph: data => "opengraph-" + data.plot + ".png",
 		logo: data => "logo-" + data.plot + ".svg"
 	}
 };
