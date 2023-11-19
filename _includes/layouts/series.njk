@@ -1,21 +1,12 @@
 ---
 layout: layouts/base.njk
-permalink: "/{{ title | slugify }}/"
 defaultGraphic: 'default-graphic.png'
 ---
-            <header class="header">
-                {% include "partials/backbutton.njk" %}
-                 {% include "partials/jumplink.njk" %}
-            </header>
-            
+<header class="header">
+   {% include "partials/backbutton.njk" %}
+   {% include "partials/jumplink.njk" %}
+</header>
 <article class="article">
-            
- <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
- 
-
-{{ content | safe }}
-
-
-
-
-</article>            
+   <img class="graphic" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
+   {{ content | safe }}
+</article>

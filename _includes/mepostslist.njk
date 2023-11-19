@@ -1,0 +1,10 @@
+<div class="auto-list-block-2">
+   <div reversed class="auto-list-2">
+      {% for post in postslist %}
+      <div class="auto-list-item-3" style="margin-top: 1em;">
+         <a href="{{ post.url }}" class="list-item-link truncate">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+         <br><span class="small muted">{{ post.data.description }}</span>
+      </div>
+      {% endfor %}
+   </div>
+</div>

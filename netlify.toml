@@ -5,15 +5,166 @@
 [Settings]
   ID = "5d3e30a9-ff13-419a-9b09-5a2e08da5b7d"
   
-[functions]
-  directory = "netlify/functions"
-  
 [[redirects]]
   from = "/patreons-new-logo-design-is-good-actually"
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
   status = 301
   
 [[redirects]]
-  from = "/not-a-real-url-test"
-  to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
+  from = "/notebook"
+  to = "/p/notebook/"
   status = 301
+
+[[redirects]]
+  from = "/freelance"
+  to = "/p/freelance/"
+  status = 301
+  
+[[redirects]]
+  from = "/stories"
+  to = "/p/stories/"
+  status = 301
+
+[[redirects]]
+  from = "https://freelance.fromjason.xyz/*"
+  to = "https://fromjason.xyz/p/freelance/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "https://stories.fromjason.xyz/*"
+  to = "https://fromjason.xyz/p/stories/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "https://notebook.fromjason.xyz/*"
+  to = "https://fromjason.xyz/p/notebook/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/notebook/*"
+  to = "https://fromjason.xyz/p/notebook/:splat"
+  status = 301
+  
+[[redirects]]
+  from = "/freelance/*"
+  to = "https://fromjason.xyz/p/freelance/:splat"
+  status = 301
+  
+[[redirects]]
+  from = "/stories/*"
+  to = "https://fromjason.xyz/p/stories/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/stories/*"
+  to = "https://fromjason.xyz/p/stories/:splat"
+  status = 301
+  
+[[redirects]]
+  from = "/yuck-leopard/"
+  to = "/p/stories/s/oddities/yuck-leopard/"
+  status = 301
+
+[[redirects]]
+  from = "/drunk-baby/"
+  to = "/p/stories/s/oddities/drunk-baby/"
+  status = 301
+  
+[[redirects]]
+  from = "/irate-ivan/"
+  to = "/p/stories/s/oddities/irate-ivan/"
+  status = 301
+
+[[redirects]]
+  from = "/photog-phil/"
+  to = "/p/stories/s/oddities/photog-phil/"
+  status = 301
+  
+[[redirects]]
+  from = "/shame-fish/"
+  to = "/p/stories/s/oddities/shame-fish/"
+  status = 301
+  
+[[redirects]]
+  from = "/that-look-lion/"
+  to = "/p/stories/s/oddities/that-look-lion/"
+  status = 301
+  
+[[redirects]]
+  from = "/colophon/"
+  to = "/me/colophon/"
+  status = 301
+  
+[[redirects]]
+  from = "/current-projects/"
+  to = "/me/now/"
+  status = 301
+
+[[redirects]]
+  from = "/projects"
+  to = "/me/now/"
+  status = 301
+
+[[redirects]]
+  from = "/lets-keep-in-touch"
+  to = "/me/"
+  status = 301
+  
+[[redirects]]
+  from = "/p/stories/colophon/"
+  to = "/me/colophon/"
+  status = 301
+
+[[redirects]]
+  from = "/about-me/"
+  to = "/me/"
+  status = 301
+
+[[redirects]]
+  from = "/how-to-reach-me/"
+  to = "/me/"
+  status = 301
+  
+[[redirects]]
+  from = "/lorem-ipsum-2-0/"
+  to = "/me/lorem-ipsum-2-0/"
+  status = 301
+
+[[redirects]]
+  from = "/lorem-ipsum-2-0/"
+  to = "/me/lorem-ipsum-2-0/"
+  status = 301
+  
+[[redirects]]
+  from = "/all-posts-from-everywhere/"
+  to = "/all/"
+  status = 301
+  
+[[redirects]]
+  from = "/notebook/all-posts/"
+  to = "/p/notebook/all/"
+  status = 301
+
+[[redirects]]
+  from = "/freelance/all-posts/"
+  to = "/p/freelance/all/"
+  status = 301
+  
+[[redirects]]
+  from = "/stories/all-posts/"
+  to = "/p/stories/all/"
+  status = 301
+  
+[[redirects]]
+  from = "/p/notebook/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
+  to = "/p/freelance/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/"
+  status = 301
+
+  [[redirects]]
+  from = "/p/notebook/on-ia-presenter-and-my-mission-to-preserve-my-digital-assets/"
+  to = "/p/freelance/on-ia-presenter-and-my-mission-to-preserve-my-digital-assets/"
+  status = 301
+  

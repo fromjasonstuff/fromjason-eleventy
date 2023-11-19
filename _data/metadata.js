@@ -3,6 +3,8 @@ module.exports = {
 	url: "https://fromjason.xyz",
 	language: "en",
 	description: "A digital garden for a physical meat bag.",
+	openGraph: "https://fromjason.xyz/img/fromjason-opengraph.png",
+	robots: "/robots.txt",
 	author: {
 		name: "Jason Velazquez",
 		email: "inbox@jvelazquez.email",

@@ -1,0 +1,28 @@
+---
+# Metadata comes from _data/subsdata.js
+permalink: /p/notebook/feed/feed.json
+sub: 'notebook'
+---
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "{{ subsdata.notebook.fulltitle }}",
+    "language": "{{ subsdata.notebook.language }}",
+    "home_page_url": "{{ subsdata.notebook.url | addPathPrefixToFullUrl }}",
+    "feed_url": "{{ permalink | htmlBaseUrl(subsdata.notebook.url) }}",
+    "description": "{{ subsdata.notebook.description }}",
+    "author": {
+        "name": "{{ subsdata.notebook.author.name }}",
+        "url": "{{ subsdata.notebook.author.url }}"
+    },
+    "items": [{% set subAllnotebook = collections.posts | include("data.sub", "notebook") %}{%- for post in subAllnotebook | reverse %}{%- set absolutePostUrl = post.url | htmlBaseUrl(subsdata.notebook.url) %}{
+                "id": "{{ absolutePostUrl }}",
+                "url": "{{ absolutePostUrl }}",
+                "title": "{{ post.data.title }}",
+                "content_html":{% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}
+                {% else %}
+                    ""
+                {% endif %},
+                "date_published": "{{ post.date | dateToRfc3339 }}"
+            }
+            {% if not loop.last %},{% endif %}{%- endfor %}]
+}

@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const markdownIt = require('markdown-it');
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
 
@@ -37,6 +38,9 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 		"./public/": "/",
 
 	});
+	
+	// Put robots.txt in root
+	eleventyConfig.addPassthroughCopy({ '/robots.txt': '/robots.txt' });
 			
 
 	// Run Eleventy when these files change:

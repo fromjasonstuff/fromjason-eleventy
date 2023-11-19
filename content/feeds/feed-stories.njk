@@ -1,0 +1,29 @@
+---
+# metadata comes from _data/subsdata.js
+permalink: /p/stories/feed/feed.xml
+sub: 'stories'
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ subsdata.stories.language }}">
+    <title>{{ subsdata.stories.fulltitle }}</title>
+    <subtitle>{{ subsdata.stories.description }}</subtitle>
+    <link href="{{ permalink | htmlBaseUrl(subsdata.stories.url) }}" rel="self"/>
+    <link href="{{ subsdata.stories.url | addPathPrefixToFullUrl }}"/>
+    <updated>
+        {% set subAllstories = collections.posts | include("data.sub", "stories") %}{{ subAllstories | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <id>{{ subsdata.stories.url }}</id>
+    <author>
+        <name>{{ subsdata.stories.author.name }}</name>
+        <email>{{ subsdata.stories.author.email }}</email>
+    </author>
+    {%- for post in subAllstories | reverse %}
+        {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(subsdata.stories.url) }}{% endset %}
+        <entry>
+            <title>{{ post.data.title }}</title>
+            <link href="{{ absolutePostUrl }}"/>
+            <updated>{{ post.date | dateToRfc3339 }}</updated>
+            <id>{{ absolutePostUrl }}</id>
+            <content type="html">{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</content>
+        </entry>
+    {%- endfor %}
+</feed>

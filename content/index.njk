@@ -4,64 +4,33 @@ eleventyNavigation:
   key: from jason
   order: 1
 numberOfLatestPostsToShow: 5
+rssDir: '/p/notebook'
 title: from jason
 description: A digital garden for a physical meat bag.
 logo: 'fromjason-1.svg'
 openGraph: 'fromjason'
 sub: fromjason
-
 ---
 
-
-          <article class="article">
-            
-<h2>What's up nerds, I'm Jason.</h2>
-
-<p>Welcome. I trust you found the place okay? Coming way out here to the digital wilderness, I bet you're tired and hungry, huh? Well, this is the internet. I can't feed you or anything. Weirdos. But, I'm happy to show you around.</p>
-
-<p>This is my space. I designed it myself. Some may refer to it as a digital garden. It's where I store my writings, projects, thoughts, internet oddities, failed dreams, and new hopes. It's ever-changing, and at times, ill-defined. And that's fine by me.</p>
-
-<p>Feel free to poke around. I'm glad you're here.</p>
-
-            </article>
-            
-
-<div class="auto-list-block">
+<article class="h-card article">
+<h2>What's up nerds, I'm <span class="p-given-name">Jason</span>.</h2>
+<p class="p-note">I'm a digital freelancer, writer, uncle, <a href="https://www.washingtonpost.com/nation/2018/12/05/rudy-giulianis-typo-became-an-anti-trump-message-he-blamed-twitter-this-atlanta-man-pranked-him/" title="My Rudy Giuliani trolling">internet troublemaker</a>, and fond admirer of the French Goodbye.</p>
+<p><a rel="me" class="u-url" href="https://www.fromjason.xyz/">From Jason</a> is my <a href="/p/freelance/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/">digital garden</a>— a personal website where I tend to <a hef="/p/notebook/" title="my notebook">my writing</a>, <a href="/me/now/" title="me, now">projects</a>, <a href="/p/stories/s/oddities/" title="oddities series">oddities</a>, interesting finds, failed dreams, and new hopes.</p>
+<p>I built this site from the ashes of Twitter and Facebook, using <a href="https://indieweb.org/principles" title="indie web principles">Indie Web</a> tenets for my mortar. What is made, stands as a rejection of corporate social media silos and signals my full participation in the <a href="https://indieweb.org" title="indieweb wiki">Indie Web</a>. Plus, chicks dig personal websites, bro. Scientific fact.</p>
+<p>Welcome. Feel free to <a href="https://www.fromjason.xyz/all/" title="all posts">poke around</a>, subscribe to one of my RSS feeds (<a href="https://www.fromjason.xyz/p/notebook/feed/feed.xml" title="notebook RSS">here's my notebook</a>), and <a href="https://www.fromjason.xyz/me/" title="me page">contact me</a> directly. I'm glad you're here.</p>
+</article>
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h3>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %} from all subs</h3>
-
+<h3>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %} from all plots</h3>
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
-
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p style="margin-top: 1.5em;">{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/all-posts-from-everywhere/">all posts</a>.</p>
+<p style="margin-top: 1.5em;">{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/all/">all posts</a>.</p>
 {% endif %}
-
-
-</div>
-
-<div class="auto-list-block">
-
 <h3>More, other, & additional, and etcetera, and more.</h3>
-
-<!-- This filters posts with sub: notebook in the front matter. -->
-
-  <ul role="list" class="auto-list">
-
-{% set subDomMore = collections.all | include("data.sub", "more") %}
-
-{% for post in subDomMore %}
-
-<li class="auto-list-item">
-    <a href="{{ post.url }}">
-        {{ post.data.title }}
-    </a>
-</li>
-{%- endfor %}
-
-</ul>
-
-</div>
+<!-- This filters posts with "me" in the front matter. -->
+{% set filterByMe = collections.me | include("data.sub", "me") %}
+{% set postslist = filterByMe %}
+{% include "mepostslist.njk" %}

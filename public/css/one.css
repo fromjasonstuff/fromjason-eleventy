@@ -2655,7 +2655,7 @@ blockquote {
 }
 
 .auto-list-block, .manual-list-block {
-  margin-top: 2em;
+  margin-top: 1em;
   display: block;
 }
 
@@ -3030,33 +3030,4 @@ blockquote {
             }
             
             
-/* Not in Webflow template 1.1.0 */
 
-/* --  iframe */  
-
-iframe {
-	margin-top: 1em;
-}
-/* --  footnotes  */   
-
-.footnotes-list {
-	padding-left: 1em;
-}
-
-.footnotes-list li p a {
-	font-size: var(--small-font-size);
-}
-
-.footnote-ref {
-  font-family: var(--fonts--secondary-font-family);
-  text-decoration: none;
-}
-
-.footnote-ref a {
-  text-decoration: none;
-  color: var(--color--muted);
-}
-
-
-/* --  */    
-          

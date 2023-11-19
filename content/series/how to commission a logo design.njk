@@ -1,0 +1,28 @@
+---
+title: How to commission a logo design
+description: A practical guide for non-designer freelancers on how to achieve a logo design that works for you.
+sub: freelance
+series: titlepage
+seriesID: commission logo design
+---
+<p class="overline accent">Series</p>
+<h1>{{ title }}</h1>
+<p class="lead under-title">{{ description }}</p>
+
+<p>
+If you're a freelancer starting your new business, you'll need a logo. The problem is most people don't know how to project manage a logo design. They are often left with designs that don't fit their needs and file formats they don't understand.
+</p>
+<p>
+The How to Commission a Logo Design series attempts to solve this problem.
+</p>
+
+<h2>Table of Contents</h2>
+<div class="auto-list-block">
+
+{% set seriesIDposts = collections.posts | include("data.seriesID", "commission logo design") %}
+
+{% set postslist = seriesIDposts %}
+
+{% include "seriespostslist.njk" %}
+
+</div>
