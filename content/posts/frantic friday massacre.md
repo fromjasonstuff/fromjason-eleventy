@@ -12,6 +12,12 @@ tags: ['politech']
 ---
 # {{ title }}
 
+Update: The Verge is reporting that [Altman is in talks](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo) with the board to come back as CEO, is "ambivalent" about retuning without governing changes to the company. 
+
+*Lmao*. What an embarrassing fiasco this all is. It's not even Monday yet. 
+
+---
+
 From [Axios](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown):
 > Sam Altman's firing as OpenAI CEO was not the result of "malfeasance or anything related to our financial, business, safety, or security/privacy practices" but rather a "breakdown in communications between Sam Altman and the board," per an internal memo from chief operating officer Brad Lightcap seen by Axios.
 
