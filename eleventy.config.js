@@ -1,6 +1,17 @@
 const { DateTime } = require("luxon");
+const markdownIt = require('markdown-it');
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
+const markdownItAttrs = require('markdown-it-attrs');
+
+const markdownItOptions = {
+  html: true,
+  breaks: true,
+  linkify: true
+};
+
+const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs)
+eleventyConfig.setLibrary('md', markdownLib);
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
