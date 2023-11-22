@@ -12,5 +12,7 @@ graphicAlt: 'illustration of a stabbed heart'
 tags: ['poem','haiku']
 ---
 Database in love
+
 Multi-relational
+
 Polyamorous 
