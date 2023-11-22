@@ -15,7 +15,7 @@ permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify
 ---
 # {{ title }}
 
-{{ description }}
+Introduction to the [digital content initiative series](https://www.fromjason.xyz/p/freelance/s/digital-content-initiative/).
 
 It started in the summer— this nagging sense that what I create doesn't belong to me. My Tiktoks, Tweets, Medium posts, Substack newsletters, Instagram stories, etcetera— those are all *my* creations. I was in the room when I made'em. So why does it all feel inaccessible?
 

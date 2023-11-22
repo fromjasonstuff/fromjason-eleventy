@@ -15,7 +15,7 @@ permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify
 ---
 # {{ title }}
 
-{{ description }}
+Outlined objectives for the [digital content initiative series](https://www.fromjason.xyz/p/freelance/s/digital-content-initiative/)
 
 My primary objectives are to convert all writing files into archival formats (txt, md), and consolidate the collection into single iCloud folder (iA Writer app folder). I then want to design a process to maintain my collection using the principles outlined in this document. I hope to preserve my collection of personal and professional writing that outlives me and Microsoft Word. 
 

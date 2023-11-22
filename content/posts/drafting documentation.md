@@ -15,7 +15,7 @@ permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify
 ---
 # {{ title }}
 
-{{ description }}
+Unfinished notes and incomplete thoughts for my [digital content initiative series](https://www.fromjason.xyz/p/freelance/s/digital-content-initiative/).
 
 #### Attempt to define `phase` values
 Identifies how "polished" the concept is. The phase value options are also loosely defined at the moment. I need to flush out a better system. 

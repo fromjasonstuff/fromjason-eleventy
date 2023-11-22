@@ -15,7 +15,7 @@ permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify
 ---
 # {{ title }}
 
-{{ description }}
+Outline of current and potential software for my [digital content initiative](https://www.fromjason.xyz/p/freelance/s/digital-content-initiative/)
 
 To meet my goals, I'll need software willing to keep my files accessible in open formats. This realization came while testing a novel presentation app called iA Writer. 
 

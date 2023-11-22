@@ -15,7 +15,7 @@ permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify
 ---
 # {{ title }}
 
-{{ description }}
+Potential methods to achieve the goals for my [digital content initiative](https://www.fromjason.xyz/p/freelance/s/digital-content-initiative/)
 
 ### Front matter
 Each file has a set of YAML-compliant keys and values that act as a type of metadata called front matter. My files' front matter  helps me to sort, filter, categorize, and process to the web. Furthermore, front matter helps me identify which of my writings I've published, abandoned (more likely forgotten), or require further editing regardless of publish status. 
