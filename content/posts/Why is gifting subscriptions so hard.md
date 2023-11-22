@@ -37,4 +37,4 @@ In such a world, I would create a dedicated page on [From Jason](https://fromjas
 
 Take it a step further, SaaS gift links could show how far in advance a particular user is paid up. Gift givers could then choose which subscription to gift based on a person's needs. 
 
-Why doesn't this exist? Or does it and I wasted 500 words? Let me know your thoughts. Reply to this post on [my Mastodon](https://mastodon.social/@fromjason) or via [electronic mail](mailto:inbox@jvelazquez.email). 
+Why doesn't this exist? Or does it and I wasted 500 words? Let me know your thoughts. Reply to this post on [my Mastodon post](https://mastodon.social/@fromjason/111455679004425194) or via [electronic mail](mailto:inbox@jvelazquez.email). 
