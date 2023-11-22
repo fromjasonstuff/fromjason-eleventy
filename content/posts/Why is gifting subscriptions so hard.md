@@ -15,9 +15,9 @@ tags: ['SaaS']
 
 As a freelancer, some years are better than others. The last two years have been difficult for me financially, so I'm always thinking of ways to better weather the storm. 
 
-I had this idea to ask my family to gift me subscriptions this Christmas for the online tools I use most. A month of Webflow, a year of micro.blog, or Notion would be a cherished gift because it's one less expense to worry about. Even a few months of Apple Music would ease some of my anxieties. Music is good for the soul or, as Dead Prez would say, "One thing about music, when it hit you feel no pain." Gifting subscriptions, at least right now, are the type of rare gifts worth more than their retail values. 
+I had this idea to ask my family to gift me subscriptions this Christmas for the online tools I use most. A month of Webflow, a year of micro.blog, or Notion would be a cherished gift because it's one less expense to worry about. Even a few months of Apple Music would ease some of my anxieties. Music is good for the soul or, as [Dead Prez would say](https://music.apple.com/us/album/hip-hop/219077856?i=219078030),  “*One thing about music, when it hit you feel no pain*.” Gifting subscriptions, at least for me right now, are the type of rare gifts worth more than their retail values. And, yeah, asking for specific gifts can feel a bit awkward, but I don't need socks this year. Throw me a month of Raindrop.io, dear sibling. 
 
-But to my surprise, the act of gifting subscriptions doesn't really exist for most SaaS. You can buy an Apple Music gift card, but that's really where it ends. Why?
+But to my surprise, the act of gifting subscriptions doesn't really exist for most software as a service (SaaS). You can buy an Apple Music gift card, but that's mostly where it ends. Why?
 
 I'm old and cynical enough to know that new ideas are rare. If none of these outfits are offering gifted subscriptions, there's probably a reason for it— some obscure financial metric that shareholders don't like. Or maybe it's the result of shortsighted executives. Who knows. 
 
