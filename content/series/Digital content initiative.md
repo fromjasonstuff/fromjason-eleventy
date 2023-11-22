@@ -1,0 +1,22 @@
+---
+title: Digital content initiative
+description: Initiative to and methods for preserving my digital content and reclaiming my digital identity
+site: fromJason
+sub: freelance
+date: 2023-11-22
+series: titlepage
+seriesID: digital content initiative
+audience: everyone
+graphic: '293.png'
+graphicAlt: 'illustration of a dragon crest'
+tags: ['indie web']
+---
+# {{ title }}
+
+{{ description }}
+
+This series outlines an initiative to take back a sense of ownership for the things I create and post to the internet. It provides methods for consolidating my writing files under one, open format roof. While the focus of this initiative is currently limited to my writing files, my hope is to expand the scope over time. 
+
+Consider these documents my attempt at learning in public. You are reading a first draft, complete with typos, clumsy prose, and unsourced jabber. It will improve over time, but I think there's some decent stuff in here already. 
+
+The methods outlined are also a work in progress, and require iterative improvements. I'll continue to update this document as I better understand my writing workflow and efficiency needs. 
