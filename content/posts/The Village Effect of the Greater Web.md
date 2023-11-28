@@ -13,7 +13,7 @@ tags: ['indie web']
 ---
 # {{ title }}
 
-The internet is vast and open. It represents the best account we have of human knowledge. So why does it feel so cramped in here? Why are so many of us confined to a handful of apps? I turned to M. Knight Shyamalan's [The Village](https://en.wikipedia.org/wiki/The_Village_(2004_film)) for some answers. Why? Because we're having fun!
+The internet is a vast and open plain. It represents the best account we have of the human condition (it's also really fun and interesting once you know your way around). So why does it feel so cramped in here? Why are so many of us confined to a handful of apps? I turned to M. Knight Shyamalan's [The Village](https://en.wikipedia.org/wiki/The_Village_(2004_film)) for some answers. Why? Because we're having fun!
 
 *Warning: This post is another "forest as a metaphor for the web" exploration. If you are sensitive to the further beating of this horse, proceed with caution.*
 
