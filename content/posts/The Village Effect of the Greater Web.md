@@ -15,7 +15,7 @@ tags: ['indie web']
 
 The internet is a vast and open plain. It represents the best account we have of the human condition (it's also really fun and interesting once you know your way around). So why does it feel so cramped in here? Why are so many of us confined to a handful of apps? I turned to M. Night Shyamalan's [The Village](https://en.wikipedia.org/wiki/The_Village_(2004_film)) for some answers. Why? Because we're having fun!
 
-*Warning: This post is another "forest as a metaphor for the web" exploration. If you are sensitive to the further beating of this horse, proceed with caution.*
+*Warning: This post is another “forest as a metaphor for the web” exploration. If you are sensitive to the further beating of this horse, proceed with caution.*
 
 Meta, Google, TikTok, and Twitter. Some refer to this collective as the “corporate web,” while others gift it a more sinister term— **The Dark Forest**.
 
@@ -54,11 +54,11 @@ But beyond the horizon— out of the cozy web, past The Dark Forest, and over th
 
 Oh. By the way. You know JavaScript, right?
 
-## Post script 
+## Postscript 
 
 If you're wondering where all the foliage metaphors for the web come from, read [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html) by Mark Bernstein (1998). Not only does Bernstein give us an excellent framework for content discovery, this piece highlights just how absent our contemporary hypertext curators are from this algorithm-powered world. 
 
-If I continue my post as a series (I might), I'll explore the problems of modern curation as it relates to the web. TTFN
+If I continue my post as a series (I just might), I'll explore the problems of modern curation as it relates to the web. TTFN. 
 
 ## Other sources, inspirations, and further reading
 
