@@ -54,4 +54,32 @@ But beyond the horizon— out of the cozy web, past The Dark Forest, and over th
 
 Oh. By the way. You know JavaScript, right?
 
+## Post script 
+
+If you're wondering where all the foliage metaphors for the web come from, read [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html) by Mark Bernstein (1998). Not only does Bernstein give us an excellent framework for content discovery, this piece highlights just how absent our contemporary hypertext curators are from this algorithm-powered world. 
+
+If I continue my post as a series (I might), I'll explore the problems of modern curation as it relates to the web. TTFN
+
+## Other sources, inspirations, and further reading
+
+If you're interested in learning what's beyond the “dark forest,” I recommend reading these posts by some really smart folks. 
+
+[The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
+
+[The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+
+[Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
+
+[The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+
+[Hunting the Nearly-Invisible Personal Website](https://cheapskatesguide.org/articles/personal-website-hunting.html)
+
+[The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
+
+[We're all lurkers now](https://embedded.substack.com/p/were-all-lurkers-now)
+
+[I have joined the IndieWeb](https://blog.rubenwardy.com/2023/10/10/hello-indieweb/)
+
+[My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden/)
+
 ￼
