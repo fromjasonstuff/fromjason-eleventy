@@ -67,7 +67,7 @@ None of us, least of all the DALL-E dildos, are escaping unscathed.
 
 And yeah, I played with generative AI. It was fun for a month. My niece and I made a shark biting a guy's head off. It was like magic to her. She'll remember it forever. But even a six-year-old knows the difference between something her uncle showed her on an iPad and the beautiful stick figures she makes for me. The first thing she said to my sister was, “Look what the robot made, mommy.” And it was *her* prompt!
 
-I'm not here to shame anyone who uses AI for work. Honestly, I'm not. Get a leg up while you can because shit is about to get ugly for the working class real quick. It the grifters and peddlers that irk me. It's the demanding of artistic accolades for administrative work. 
+I'm not here to shame anyone who uses AI for work. Honestly, I'm not. Get a leg up while you can because shit is about to get ugly for the working class real quick. It's the grifters and peddlers that irk me. It's the demanding of artistic accolades for administrative work. 
 
 I make websites for my whole-ass living. I watched an AI do what pays my bills using a doodle and some text as a reference. Seriously. You draw a rectangle with a few extra lines, and in 30 seconds, you get a *working* website. It had a fucking contact form. The drawing doesn't even have to be good, either. Wait until my niece hears about this! 
 
