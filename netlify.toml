@@ -9,6 +9,26 @@
   from = "/patreons-new-logo-design-is-good-actually"
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
   status = 301
+
+[[redirects]]
+  from = "/p/stories/s/"
+  to = "/p/stories/"
+  status = 301
+
+[[redirects]]
+  from = "/p/notebook/s/"
+  to = "/p/notebook/"
+  status = 301
+
+[[redirects]]
+  from = "/p/travel/s/"
+  to = "/p/travel/"
+  status = 301
+
+[[redirects]]
+  from = "/p/freelance/s/"
+  to = "/p/freelance/"
+  status = 301
   
 [[redirects]]
   from = "/notebook"
