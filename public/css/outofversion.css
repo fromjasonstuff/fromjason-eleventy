@@ -55,6 +55,7 @@ text-align: left;
 @media screen and (max-width: 479px) {
 img {
  width: 100%;
- margin: 1em -1.5em;
+ margin: 1em 0;
+ padding: 0 -1.5em;
 }
 }
