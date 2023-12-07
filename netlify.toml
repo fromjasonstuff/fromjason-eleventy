@@ -56,10 +56,10 @@
   to = "https://fromjason.xyz/p/stories/:splat"
   status = 301
   force = true
-  
+
 [[redirects]]
   from = "https://notebook.fromjason.xyz/*"
-  to = "https://fromjason.xyz/p/notebook/:splat"
+  to = "https://www.fromjason.xyz/p/notebook/:splat"
   status = 301
   force = true
   
