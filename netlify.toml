@@ -47,7 +47,7 @@
 
 [[redirects]]
   from = "https://freelance.fromjason.xyz/*"
-  to = "https://fromjason.xyz/p/freelance/:splat"
+  to = "https://www.fromjason.xyz/p/freelance/:splat"
   status = 301
   force = true
   
