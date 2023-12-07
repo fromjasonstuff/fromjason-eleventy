@@ -58,7 +58,7 @@
   force = true
 
 [[redirects]]
-  from = "notebook.fromjason.xyz/*"
+  from = "https://notebook.fromjason.xyz/*"
   to = "https://www.fromjason.xyz/p/notebook/:splat"
   status = 301
   force = true
