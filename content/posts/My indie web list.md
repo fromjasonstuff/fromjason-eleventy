@@ -12,7 +12,7 @@ tags: ['indie web', 'interesting links']
 ---
 # My Indie Web list
 
-[Jump to the list](#the-list)
+Note 12/10/2023: I am in thr process of revamping my bookmarks and curation. if you came here hoping for a big list of cool sites, you'll want to come back in a couple days. Id say Monday. I have some fun stuff I'm finishing up. For now, most of my lists are disabled. 
 
 At night before bed, I'll bounce around the indie web for a couple hours. I used to spend that time on TikTok, but I've slowly moved away from trad-social for a few months now. 
 
