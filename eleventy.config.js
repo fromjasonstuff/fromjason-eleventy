@@ -46,6 +46,10 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 	// Put myfeed.rss in root
 	eleventyConfig.addPassthroughCopy({ '/myfeed.rss.njk': '/myfeed.rss' });
 
+
+
+	// Put myfeed.rss in root
+	eleventyConfig.addPassthroughCopy({ '/kz.html': '/kz.html' });
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
