@@ -53,15 +53,17 @@ In short, the very thing Mastodonians hope for— credibility through corporate 
 
 ## What the open web means to the average user
 
-Zuckerberg wants, and has tried to achieve, a Meta-exclusive suite of interpolated apps. If ActivityPub federates the open web, MetaPub interpolates walled gardens. 
-
-By intertwining Instagram, Threads and Facebook, would make it harder to [break up Meta](https://www.bangkokpost.com/world/1682732/breakup-isnt-the-answer-facebooks-zuckerberg-says) under anti-trust. 
+Mark Zuckerberg wants, and has tried to achieve, a Meta-exclusive suite of interpolated apps. By intertwining Instagram, Threads, and Facebook, Zuckerberg makes it harder to [break up his empire](https://www.bangkokpost.com/world/1682732/breakup-isnt-the-answer-facebooks-zuckerberg-says) under anti-trust. 
 
 From Casey Newton’s *[Why WhatsApp and Instagram are just names now](https://web.archive.org/web/20221206185804/https://www.getrevue.co/profile/caseynewton/issues/why-whatsapp-and-instagram-are-just-names-now-156738) (2019)*:
 
 > If the Federal Trade Commission ever planned to compel Facebook to spin out WhatsApp and Instagram — a big if, I know — you can imagine the company explaining that there was no longer such a thing as “WhatsApp” or “Instagram.” Going forward, those names will refer only to their respective graphical user interfaces. Behind the curtain, there is only Facebook. It’s a characteristically savvy — and ruthless — move from Zuckerberg and his lieutenants.
 
-Up until now, Meta (then Facebook) and its efforts to interpolate its suite of messaging apps [have been met with scrutiny](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023) from the EU and US regulators. Lucky for Zuck, though, Mastodon could help Meta realize his goal while appearing to embrace the open web. Along the way, Meta gains the privilege to define what ActivityPub is and isn’t to its billions of users. 
+Up until now, Meta (then Facebook) and its efforts to interpolate its suite of messaging apps [have been met with scrutiny](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023) from the EU and US regulators. Lucky for Zuck, though, Mastodon is the perfect cover. Adopting ActivityPub today, could help Meta thwart anti-trust or [DMA](https://digital-markets-act.ec.europa.eu/index_en) laws down the road. 
+
+Along the way, Meta gets to signal an embrace of the open web, and gains the privilege of redefining the term for its billions of users. By the time Instagram, or a standalone Reels, joins the fedi-party, ActivityPub could look unrecognizable on Meta's side of the wall. Who's to say what protocol serves which interpolation? But we know how this ends. Meta is not now, nor has it ever been a bastion of a free and open internet.
+
+As sure as ActivityPub federates the open web, "MetaPub” would interpolate Zuckerberg's collection of walled gardens. And that's an invite-only platform your server will never receive a code for. 
 
 ## The medium is the message 
 
@@ -81,6 +83,8 @@ The medium *is* the message. I’ll see you at the next post.
 
 ---
 *Edit: Updated "Official Culture" source to include the direct work. Adjusted various formatting, fix grammatical errors, and restructure a couple sentence for better clarity.*
+
+*Edit: Add more insight for the anti-trust section for better clarity*
 
 [^1]: I get it. Mastodon and Threads are not merging into a single platform or company. But this, to me, is the crux of the issue when I observe the discourse on Mastodon. So many of us are so hyper-focused on the technology, we overlook the practical matters of human behavior. And I don’t mean the type of humans who write a README doc for fun. I mean *normal* people (joking). Whether interpolation is technically a “merger” is irrelevant to the average user. In fact, the safest bet for a non-technical user who cannot follow documentation is to assume that Meta *will* use their user data for nefarious purposes. And to be fair, it absolutely will if presented with a sliver of opportunity. Very few of us foresaw what Facebook was doing when we all had like buttons on our blogs for a summer. It’s not impossible for Meta to find a way to monetize Mastodon’s user data. Even if that isn’t its primary objective. 
 
