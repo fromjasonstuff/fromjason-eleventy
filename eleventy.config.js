@@ -1,7 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require("markdown-it-anchor");
-const markdownItFootnote = require("markdown-it-footnote");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -14,6 +13,21 @@ const pluginImages = require("./eleventy.config.images.js");
 const lodash = require("lodash");
 
 module.exports = function(eleventyConfig) {
+
+ // set markdown footnote processor
+  let markdownIt = require("markdown-it");
+  let markdownItFootnote = require("markdown-it-footnote");
+  
+  let options = {
+    html: true, // Enable HTML tags in source
+    breaks: true,  // Convert '\n' in paragraphs into <br>
+    linkify: true // Autoconvert URL-like text to links
+  };
+  
+  // configure the library with options
+  let markdownLib =  markdownIt(options).use(markdownItFootnote);
+  // set the library to process markdown files
+  config.setLibrary("md", markdownLib);
 
 eleventyConfig.addFilter("include", (arr, path, value) => {
 
@@ -122,8 +136,7 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 			level: [2,3,4],
 			slugify: eleventyConfig.getFilter("slugify")
 		});
-		mdLib.use(markdownItFootnote);
-	});
+		
 	
 
 
