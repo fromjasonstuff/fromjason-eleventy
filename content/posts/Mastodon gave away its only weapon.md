@@ -7,7 +7,7 @@ date: 2023-12-17
 type: essay
 phase: sorting
 audience: Fediverse
-graphic: ’1111.png'
+graphic: 1111.png
 graphicAlt: 'illustration of a three heads'
 tags: [‘Mastodon’]
 ---
