@@ -56,7 +56,7 @@ This behavior changes for both types of users when they believe a merger between
 
 So, it is possible that for every Threads user who discovers Mastodon through Meta’s ActivityPub implementation and not through, say, Mastodon evangelists, the incentive for early adopters to make the switch *decreases*. 
 
-Twitter’s “normie” users are then more inclined to migrate to Threads because that’s where the early adopter signal is strongest. Upon closer inspection, these users may feel a familiarity that Mastodon cannot compete. Threads’ steady flow of feature announcements will only entice Twitter users further. For remaining Twitter users where associating with Meta is, as a matter of principle, a dealbreaker, Mastodon is no longer a viable option. Such users will search for something new where early adopter signaling and familiarity are strongest (my money is on BlueSky[^7]). 
+Twitter’s “normie” users are then more inclined to migrate to Threads because that’s where the early adopter signal is strongest. Upon closer inspection, these users may feel a familiarity that Mastodon cannot compete with. Threads’ steady flow of feature announcements will only entice the users further. For the remaining Twitter users, where associating with Meta is, as a matter of principle, a dealbreaker, Mastodon is no longer a viable option. Such users will search for something new where early adopter signaling and familiarity are strongest (my money is on BlueSky[^7]). 
 
 In short, the very thing Mastodonians hope for— credibility through corporate interpolation— would sooner kill the platform than help it grow.
 
