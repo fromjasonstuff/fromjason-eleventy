@@ -28,6 +28,7 @@ module.exports = function(eleventyConfig) {
   let markdownLib =  markdownIt(options).use(markdownItFootnote);
   // set the library to process markdown files
   config.setLibrary("md", markdownLib);
+};
 
 eleventyConfig.addFilter("include", (arr, path, value) => {
 
