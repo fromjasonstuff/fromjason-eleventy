@@ -17,6 +17,10 @@ module.exports = function(eleventyConfig) {
 
 eleventyConfig.addFilter("include", (arr, path, value) => {
 
+let markdownLibrary = markdownIt().use(markdownItFootnote);
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // Rest of your configuration...
  
 // The filter for the sub collections like notebook, freelance etc.
     value = lodash.deburr(value).toLowerCase();
