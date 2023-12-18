@@ -80,7 +80,7 @@ Another year or so passes, and Meta now has Threads and Instagram humming along 
 
 Mastodon is still alive, barely. It didn’t convert as many ex-Twitter users as fediverse leaders had hoped, and the Mastodon’s non-profit arm exhausted its cash reserves keeping up with the Joneses. Donations are a little light this year. But who's to say why.
 
-Mastodon.social is no longer the largest instance. In fact, it’s not even in the top three. Mozilla is number one. A couple crypto bros out of Japan manage the second and third-largest servers. Both have recently blocked mastodon.social because of a dispute over new interpolated features. The VC-funded instances wanted all the cool new features that appear to work find across the Meta-suite, but somehow break on this side of ActivityPub.
+Mastodon.social is no longer the largest instance. In fact, it’s not even in the top three. Mozilla is number one. A couple crypto bros out of Japan manage the second and third-largest servers. Both have recently blocked mastodon.social because of a dispute over new interpolated features. The VC-funded instances wanted all the cool new features that appear to work fine across the Meta-suite, but somehow break on this side of ActivityPub.
 
 Meta is like, “Yeah, bro, mastodon.social is *fucking up*. Between you an me, and The Verge, our users don’t love this limited feature set when interacting with that instance. Those guys aren’t even end-to-end encrypted like our WhatsApp interpolation with Signal. It uses the Matrix protocol, you know. Open-sourced, too. Does Mastodon hate Americans? What gives?”
 
