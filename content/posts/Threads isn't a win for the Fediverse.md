@@ -61,9 +61,9 @@ From Casey Newton’s *[Why WhatsApp and Instagram are just names now](https://w
 
 Up until now, Meta (then Facebook) and its efforts to interpolate its suite of messaging apps [have been met with scrutiny](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023) from the EU and US regulators. Lucky for Zuck, though, Mastodon is the perfect cover. Adopting ActivityPub today, could help Meta thwart anti-trust or [DMA](https://digital-markets-act.ec.europa.eu/index_en) laws down the road. 
 
-Along the way, Meta gets to signal an embrace of the open web, and gains the privilege of redefining the term for its billions of users. By the time Instagram, or a standalone Reels, joins the fedi-party, ActivityPub could look unrecognizable on Meta's side of the wall. Who's to say what protocol serves which interpolation? But we know how this ends. Meta is not now, nor has it ever been a bastion of a free and open internet.
+Along the way, Meta gets to signal an embrace of the open web, and gains the privilege of redefining the term for its billions of users. By the time Instagram, or a standalone Reels, joins the fedi-party, ActivityPub could look unrecognizable on Meta's side of the wall. Who's to say what protocol serves which interpolation? But we know how this ends. Meta is not now, nor has it ever been a bastion of a free and open internet. History won't gaze upon Big Tech with kind eyes, but only so long as they aren't the victors.
 
-As sure as ActivityPub federates the open web, "MetaPub” would interpolate Zuckerberg's collection of walled gardens. And that's an invite-only platform your server will never receive a code for. 
+As sure as ActivityPub federates the open web today, a "MetaPub” would interpolate Zuckerberg's collection of walled gardens. And that's an invite-only platform your server will never receive a code for. 
 
 ## The medium is the message 
 
