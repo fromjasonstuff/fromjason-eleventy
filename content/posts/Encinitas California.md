@@ -12,7 +12,7 @@ tags: ['california']
 ---
 # {{ title }}
 
-The air is sweet on Neptune Avenue.  Blooming Star Jasmine and gnarled cacti creep through my senses as I start my ascent up the pedestrian-friendly road. A man carrying a surfboard approaches. He leaves a damp trail behind him. I give a faint wave hello, but he keeps forward, too exhausted from a day of surfing to notice me. I don’t take it too personally, though. The vibe here is decidedly carefree, and I’m helplessly infected by it. 
+The air is sweet on Neptune Avenue.  Blooming Star Jasmine and gnarled cacti creep through my senses as I start my ascent up the pedestrian-friendly road. A man carrying a surfboard approaches. He leaves a damp trail behind him. I give a faint wave hello, but he keeps forward, too exhausted from a day of surfing to notice me. I don’t take it too personally, though. The vibe here is decidedly carefree, and I’m helplessly infected by it[^1]. 
 
 As I pass my third Mercedes Sprinter Van, I fantasize about living life off capital gains. The road levels off, and a neat line of ocean interrupts the chaotic row of architecture. I’m at the top of the bluff. I peak down and over the railing and spot a gaggle of surfers lying on their boards. It’s a fascinating lifestyle, but I’m entirely uninterested in participating. There are easier ways to catch a rush that doesn’t involve another knee injury. Perhaps, something with a chile-salted rim.
 
@@ -101,3 +101,5 @@ Windan Sea Beach.
 After a few days of overcast, the sun reappears. It’s my last day in Southern California. We head over to Children’s Pool Beach and check out the seals and sea lions. A few are flopping around on the rocks, but most take the opportunity to soak up the sun. I spot one seal lying remarkably still. I stare at him. “Is he dead?” I ask. A young boy walking by shoots me a look of concern, then continues on. Three minutes pass. No movement. Five, maybe seven minutes later, and still not even a rise of the chest. We’re now concerned, and I’m thinking of who, if anyone, I should call. A vet? The zoo? I am unprepared for this. Just then, a seagull pokes the seal in the belly, and the seal pops up. Whew, I thought. “You scared us, dude!” I give him a wave, but he ignores me and flops back down onto the rock. That will be the last time I wave to anyone without a shirt on. 
 
 *If you have questions or want to give me a shout, hit me up on my [Instagram](https://www.instagram.com/jasondotgov/). I’d love to hear from you. Thank you for spending time with me. Talk with you soon.*
+
+[^1]: This is a test footnote.
