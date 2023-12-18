@@ -1,6 +1,6 @@
 ---
 title: Mastodon gave away its only weapon (part 1)
-description: Meta waged a war on Mastodon last week, and few Fediverse leaders seem bothered by it. But Mastodon is playing a zero-sum game it can’t win.
+description: Meta waged a war on Mastodon last week, and few Fediverse leaders seem to think it's a big deal. But Mastodon is playing a zero-sum game it can’t win.
 site: fromJason
 sub: notebook
 date: 2023-12-17
@@ -52,7 +52,7 @@ From *[Kill Zone, Sai Krishna Kamepalli, Raghuram G. Rajan, and Luigi Zingales, 
 
 The study then suggests that novel technology attracts early adopters, “techies.” The “normies,” for lack of a better term, will watch what “techies” do before deciding because moving costs are higher for non-technical users.
 
-This behavior changes for both types of users when they believe a merger between the “entrant” platform and the “incumbent” platform is imminent[^6]. “Techies” no longer perceive value in the entrant’s platform once its flagship offering debuts on the incumbent’s platform. *Side note: that’s why Meta copies the features of small startups. But we’ll get to that in a later post.* “Normie” users are less inclined to bear the cost of moving if it is unnecessary. 
+This behavior changes for both types of users when they believe a merger between the “entrant” and the “incumbent” is imminent[^6]. “Techies” no longer perceive value in the entrant once its flagship offering debuts on the incumbent’s platform. *Side note: that’s why Meta copies the features of small startups. But we’ll get to that in a later post.* “Normie” users are less inclined to bear the cost of moving if it is unnecessary. 
 
 So, it is possible that for every Threads user who discovers Mastodon through Meta’s ActivityPub implementation and not through, say, Mastodon evangelists, the incentive for early adopters to make the switch *decreases*. 
 
