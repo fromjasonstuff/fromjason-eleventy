@@ -172,7 +172,12 @@
   from = "/freelance/all-posts/"
   to = "/p/freelance/all/"
   status = 301
-  
+
+[[redirects]]
+  from = "/p/notebook/mastodon-gave-away-its-only-weapon-part-1/"
+  to = "/p/notebook/"
+  status = 301
+
 [[redirects]]
   from = "/stories/all-posts/"
   to = "/p/stories/all/"
