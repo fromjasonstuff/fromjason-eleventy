@@ -9,7 +9,7 @@ phase: sorting
 audience: Fediverse
 graphic: ’1111.png'
 graphicAlt: 'illustration of a three heads'
-tags: [‘Mastodon’, ‘Meta’]
+tags: [‘Mastodon’]
 ---
 # {{ title }}
 
