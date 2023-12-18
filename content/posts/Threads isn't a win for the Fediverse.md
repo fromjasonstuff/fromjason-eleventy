@@ -1,6 +1,6 @@
 ---
 title: The medium is the message— Threads isn't a win for the Fediverse 
-description: In an effort to gain users, Mastodon gave away its ethos and messaging.
+description: In an effort to gain mass appeal, Mastodon lost its ethos, voice, and the hope for a more open web.
 site: fromJason
 sub: notebook
 date: 2023-12-18
@@ -21,10 +21,11 @@ By allowing Threads to interpolate with the Fediverse, Mastodon has risked the v
 
 Meta was allowed to extract the marketing benefits of federated social media while discarding its ethos. If you ever encounter a 1920's French Situationist, ask them how movements die. 
 
-Summary of Official Culture:
+On **Official Culture**:
 
 > Official culture is the culture that receives social legitimation or institutional support in a given society. Official culture is usually identified with bourgeoisie culture. For revolutionary Guy Debord, official culture is a "rigged game", where conservative powers forbid subversive ideas to have direct access to the public discourse and where such ideas are integrated only after being trivialized, and sterilized.
-
+> 
+> *(Summarization of The Situationist's manifesto: [Report on the Construction of Situations](https://www.cddc.vt.edu/sionline/si/report.html) by Guy Debord. [Summary](https://en.wikipedia.org/wiki/Report_on_the_Construction_of_Situations) by Wikipedia.)*
 
 ### Where will Twitter users go?
 
@@ -34,11 +35,13 @@ However, the opposite effect seems, at least, just as possible.
 
 *Kill Zone* studies anti-trust behavior by big tech towards startups. It identifies early adopters, or “techies,” as playing a “crucial role in the success of an innovation.”
 
-From *[Kill Zone, Sai Krishna Kamepalli, Raghuram G. Rajan, and Luigi Zingales, (2020)](https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_202019.pdf)*:
+On **early adopters** and **ordinary users**:
 
 > Techies choose their favored platform mainly for its technical characteristics and have the incentive to uncover the underlying quality of each rival platform. The mass of early techie adopters, in turn, drives the adoption by ordinary non-techie customers for two reasons. First, the mass of techie adopters offers a signal about the fundamental quality improvement brought about by the new platform. Second, this mass creates a network externality for ordinary customers, who have to choose whether to adopt the new platform. 
+> 
+> *From [Kill Zone, Sai Krishna Kamepalli, Raghuram G. Rajan, and Luigi Zingales, University of Chicago (2020)](https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_202019.pdf)*
 
-The study then suggests that novel technology attracts early adopters, “techies.” The “normies,” for lack of a better term, will watch what “techies” do before committing because moving costs are higher for non-technical users.
+The study reveals that novel technology attracts early adopters, “techies.” The “normies,” for lack of a better term, will watch what “techies” do before committing because moving costs are higher for non-technical users.
 
 This behavior changes for both types of users when they believe a merger between the “entrant” and the “incumbent” is imminent[^1]. “Techies” no longer perceive value in the entrant once its flagship offering debuts on the incumbent’s platform. *Side note: that’s why Meta copies the features of small startups. But we’ll get to that in a later post.* “Normie” users are less inclined to bear the cost of moving if it is unnecessary. 
 
@@ -75,6 +78,9 @@ We are never obligated to extend the practice of our beliefs to bad-faith actors
 You can't throw Che Guevara on an eighty-dollar tee shirt and hope the working conditions in which that shirt was produced improve. Just as you can't interpolate with a notoriously ruthless monopoly and hope its users embrace the open web. 
 
 The medium *is* the message. I’ll see you at the next post. 
+
+---
+*Edit: Updated "Official Culture" source to include the direct work. Adjusted various formatting, fix grammatical errors, and restructure a couple sentence for better clarity.*
 
 [^1]: I get it. Mastodon and Threads are not merging into a single platform or company. But this, to me, is the crux of the issue when I observe the discourse on Mastodon. So many of us are so hyper-focused on the technology, we overlook the practical matters of human behavior. And I don’t mean the type of humans who write a README doc for fun. I mean *normal* people (joking). Whether interpolation is technically a “merger” is irrelevant to the average user. In fact, the safest bet for a non-technical user who cannot follow documentation is to assume that Meta *will* use their user data for nefarious purposes. And to be fair, it absolutely will if presented with a sliver of opportunity. Very few of us foresaw what Facebook was doing when we all had like buttons on our blogs for a summer. It’s not impossible for Meta to find a way to monetize Mastodon’s user data. Even if that isn’t its primary objective. 
 
