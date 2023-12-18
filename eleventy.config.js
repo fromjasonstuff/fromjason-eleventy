@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItFootnote = require("markdown-it-footnote");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -41,14 +42,8 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 	// Put robots.txt in root
 	eleventyConfig.addPassthroughCopy({ '/robots.txt': '/robots.txt' });
 	// Put humans.txt in root
-	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });
-	// Put myfeed.rss in root
-	eleventyConfig.addPassthroughCopy({ '/myfeed.rss.njk': '/myfeed.rss' });
+	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });		
 
-
-
-	// Put myfeed.rss in root
-	eleventyConfig.addPassthroughCopy({ '/kz.html': '/kz.html' });
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
@@ -121,7 +116,8 @@ eleventyConfig.addFilter("include", (arr, path, value) => {
 			level: [2,3,4],
 			slugify: eleventyConfig.getFilter("slugify")
 		});
-		
+		mdLib.use(markdownItFootnote);
+	});
 	
 
 
