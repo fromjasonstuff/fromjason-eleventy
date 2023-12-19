@@ -1,0 +1,19 @@
+# Silos and gates— Threads isn't a win for the Fediverse (part 2)
+
+Federation at all costs won't lead us to the promise land. Today, corporate media silos stand as monuments against the open web— tall and ridged with an oppressive shadow. 
+
+The structure is always more malleable than it suggests, however. Delving deeper, we see the accommodative force which allows silos to form gates. Gates provide a glimpse into a closed society. For the first time in years, rays of sun dart between the wrought iron bars, and we extend our arms through to feel its warmth. For a moment, excitement is in the air, and we allow ourselves to feel hopeful.
+
+But one swallow does not a summer make. In times where people become resistant to the status-quo, an accommodation is offered by the very structure we hope to topple. For those who only know the good times through folklore, the sudden appearance of a gate feels like meaningful change has occurred. It's only when the gatekeepers arrive that we realize it was a rouse all along. The gate was merely an accommodation. A superficial modification which deftly crafted to avoid any load barring walls. In fact, the silo is as strong and oppressive as it ever was. It just accommodated the changing winds with a little ventilation 
+
+## The email analogy 
+
+The first time it "clicked” for me was when I heard the Fediverse described as email. It was serval years ago, so regrettably I can't provide the specific source. But it goes something like this: 
+
+With email, we can sign up for the service we want, but our ability to communicate with people is platform agnostic. In other words, Gmail users can email Outlook users. Hotmail users can forward a funny meme to AOL users, so forth and so on. With social media, communication is "centralized.” Instagram users can't communicate with Twitter users unless one of those people switches services. 
+
+The analogy is succinct and clever way to explain a complex technology to the layman. It's also a really bad way to introduce ActivityPub to new users, if we neglect to expound on the analogy or supplement it with another. 
+
+Don't get me wrong, I'm grateful to everyone who's donated their time to provide good faith evangelism for the open web. This is not a matter of intent. 
+
+Where folks lose me is when we turn the analogy into something aspirational for the open web. Or when we omit the part where contemporary email services are pretty horrible and not "decentralized” under any honest assessment. 
