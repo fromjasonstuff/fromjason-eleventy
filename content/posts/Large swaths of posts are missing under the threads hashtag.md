@@ -9,7 +9,7 @@ phase: sorting
 audience: everyone
 graphic: 'postremoved.png'
 graphicAlt: 'screenshot post removed '
-tags: ['Mastodon']
+tags: ['Mammoth']
 ---
 # {{ title }}
 
