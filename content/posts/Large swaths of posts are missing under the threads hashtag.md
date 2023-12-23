@@ -2,7 +2,7 @@
 title: Posts critical of Threads and Meta missing on Mammoth app
 description: There were big chunks of posts missing under the threads hashtag feed. Some are still missing. Many of these posts were critical to the Threads / Mastodon interpolation. 
 site: fromJason
-sub: 
+sub: notebook
 date: 2023-12-23
 type: note
 phase: sorting
