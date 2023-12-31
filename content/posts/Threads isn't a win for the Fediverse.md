@@ -15,9 +15,9 @@ tags: [‘Mastodon’]
 
 **Series part 1: The medium is the message** [Read Part 2](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/) when you're done.
 
-Meta needs the Fediverse more than the Fediverse needs Meta. I say this in the sense that the Fediverse never needed Meta at all. In fact, the Threads / Mastodon interpolation is a net negative for "federated social media” and the "open web.” In the end, Meta will have fundamentally changed what those two terms mean. And the Mastodon collective will have fumbled what it needed most for mass appeal— continued validation of the influential adopter.
+Meta needs the Fediverse more than the Fediverse needs Meta. I say this in the sense that the Fediverse never needed Meta at all. In fact, the Threads / Mastodon interoperation is a net negative for "federated social media” and the "open web.” In the end, Meta will have fundamentally changed what those two terms mean. And the Mastodon collective will have fumbled what it needed most for mass appeal— continued validation of the influential adopter.
 
-By allowing Threads to interpolate with the Fediverse, Mastodon has risked the very thing that made it appealing— open web federation. This claim may seem paradoxical, sure, but only as much as interpolating with a closed system under uncertain terms. Twitter users who've perhaps already considered where to migrate must now reevaluate their choices. While some fedi-supporters feel the chips now fall in their favor, studied user behavior suggests a different outcome. 
+By allowing Threads to federate with the Fediverse, Mastodon has risked the very thing that made it appealing— open web federation. This claim may seem paradoxical, sure, but only as much as integrating with a closed system under uncertain terms. Twitter users who've perhaps already considered where to migrate must now reevaluate their choices. While some fedi-supporters feel the chips now fall in their favor, studied user behavior suggests a different outcome. 
 
 Meta was allowed to extract the marketing benefits of federated social media while discarding its ethos. If you ever encounter a 1920's French Situationist, ask them how movements die. 
 
@@ -29,7 +29,7 @@ On **Official Culture**:
 
 ### Where will Twitter users go?
 
-There’s a perception circulating the Fediverse that interpolating Threads with Mastodon lends credibility to ActivityPub’s mission for an open web. This clout will then, somehow, translate into more converted Mastodon users. 
+There’s a perception circulating the Fediverse that interoperating Threads with Mastodon lends credibility to ActivityPub’s mission for an open web. This clout will then, somehow, translate into more converted Mastodon users. 
 
 However, the opposite effect seems, at least, just as possible. 
 
@@ -49,21 +49,21 @@ So, it is possible that for every Threads user who discovers Mastodon through Me
 
 Twitter’s “normie” users are then more inclined to migrate to Threads because that’s where the early adopter signal is strongest. Upon closer inspection, these users may feel a familiarity that Mastodon cannot compete with. Threads’ steady flow of feature announcements will only entice the users further. For the remaining Twitter users, where associating with Meta is, as a matter of principle, a dealbreaker, Mastodon is no longer a viable option. Such users will search for something new where early adopter signaling and familiarity are strongest (my money is on BlueSky[^2]). 
 
-In short, the very thing Mastodonians hope for— credibility through corporate interpolation— would sooner kill the platform than help it grow.
+In short, the very thing Mastodonians hope for— credibility through corporate interoperation— would sooner kill the platform than help it grow.
 
 ## What the open web means to the average user
 
-Mark Zuckerberg wants, and has tried to achieve, a Meta-exclusive suite of interpolated apps. By intertwining Instagram, Threads, and Facebook, Zuckerberg makes it harder to [break up his empire](https://www.bangkokpost.com/world/1682732/breakup-isnt-the-answer-facebooks-zuckerberg-says) under anti-trust. 
+Mark Zuckerberg wants, and has tried to achieve, a Meta-exclusive suite of interoperated apps. By intertwining Instagram, Threads, and Facebook, Zuckerberg makes it harder to [break up his empire](https://www.bangkokpost.com/world/1682732/breakup-isnt-the-answer-facebooks-zuckerberg-says) under anti-trust. 
 
 From Casey Newton’s *[Why WhatsApp and Instagram are just names now](https://web.archive.org/web/20221206185804/https://www.getrevue.co/profile/caseynewton/issues/why-whatsapp-and-instagram-are-just-names-now-156738) (2019)*:
 
 > If the Federal Trade Commission ever planned to compel Facebook to spin out WhatsApp and Instagram — a big if, I know — you can imagine the company explaining that there was no longer such a thing as “WhatsApp” or “Instagram.” Going forward, those names will refer only to their respective graphical user interfaces. Behind the curtain, there is only Facebook. It’s a characteristically savvy — and ruthless — move from Zuckerberg and his lieutenants.
 
-Up until now, Meta (then Facebook) and its efforts to interpolate its suite of messaging apps [have been met with scrutiny](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023) from the EU and US regulators. Lucky for Zuck, though, Mastodon is the perfect cover. Adopting ActivityPub today, could help Meta thwart anti-trust or [DMA](https://digital-markets-act.ec.europa.eu/index_en) laws down the road. 
+Up until now, Meta (then Facebook) and its efforts to integrate its suite of messaging apps [have been met with scrutiny](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023) from the EU and US regulators. Lucky for Zuck, though, Mastodon is the perfect cover. Adopting ActivityPub today, could help Meta thwart anti-trust or [DMA](https://digital-markets-act.ec.europa.eu/index_en) laws down the road. 
 
-Along the way, Meta gets to signal an embrace of the open web, and gains the privilege of redefining the term for its billions of users. By the time Instagram, or a standalone Reels, joins the fedi-party, ActivityPub could look unrecognizable on Meta's side of the wall. Who's to say what protocol serves which interpolation? But we know how this ends. Meta is not now, nor has it ever been a bastion of a free and open internet. History won't gaze upon Big Tech with kind eyes, but only so long as they aren't the victors.
+Along the way, Meta gets to signal an embrace of the open web, and gains the privilege of redefining the term for its billions of users. By the time Instagram, or a standalone Reels, joins the fedi-party, ActivityPub could look unrecognizable on Meta's side of the wall. Who's to say what protocol serves which interoperation? But we know how this ends. Meta is not now, nor has it ever been a bastion of a free and open internet. History won't gaze upon Big Tech with kind eyes, but only so long as they aren't the victors.
 
-As sure as ActivityPub federates the open web today, a "MetaPub” would interpolate Zuckerberg's collection of walled gardens. And that's an invite-only platform your server will never receive a code for. 
+As sure as ActivityPub federates the open web today, a "MetaPub” would connect Zuckerberg's collection of walled gardens. And that's an invite-only platform your server will never receive a code for. 
 
 ## The medium is the message 
 
@@ -77,7 +77,7 @@ Put another way, Mastodon’s strong anti-corporate narrative resonated with peo
 
 We are never obligated to extend the practice of our beliefs to bad-faith actors. In fact, we are obligated to protect the underpinnings that allow us to express those beliefs; doing so does not make us hypocrites, even if tech pundits who know better [suggest otherwise](https://daringfireball.net/linked/2023/06/19/not-that-kind-of-open). 
 
-You can't throw Che Guevara on an eighty-dollar tee shirt and hope the working conditions in which that shirt was produced improve. Just as you can't interpolate with a notoriously ruthless monopoly and hope its users embrace the open web. 
+You can't throw Che Guevara on an eighty-dollar tee shirt and hope the working conditions in which that shirt was produced improve. Just as you can't interoperate with a notoriously ruthless monopoly and hope its users embrace the open web. 
 
 The medium *is* the message. I’ll see you at [the next post](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/). 
 
@@ -86,6 +86,6 @@ The medium *is* the message. I’ll see you at [the next post](https://www.fromj
 
 *Edit: Add more insight for the anti-trust section for better clarity*
 
-[^1]: I get it. Mastodon and Threads are not merging into a single platform or company. But this, to me, is the crux of the issue when I observe the discourse on Mastodon. So many of us are so hyper-focused on the technology, we overlook the practical matters of human behavior. And I don’t mean the type of humans who write a README doc for fun. I mean *normal* people (joking). Whether interpolation is technically a “merger” is irrelevant to the average user. In fact, the safest bet for a non-technical user who cannot follow documentation is to assume that Meta *will* use their user data for nefarious purposes. And to be fair, it absolutely will if presented with a sliver of opportunity. Very few of us foresaw what Facebook was doing when we all had like buttons on our blogs for a summer. It’s not impossible for Meta to find a way to monetize Mastodon’s user data. Even if that isn’t its primary objective. 
+[^1]: I get it. Mastodon and Threads are not merging into a single platform or company. But this, to me, is the crux of the issue when I observe the discourse on Mastodon. So many of us are so hyper-focused on the technology, we overlook the practical matters of human behavior. And I don’t mean the type of humans who write a README doc for fun. I mean *normal* people (joking). Whether interoperation is technically a “merger” is irrelevant to the average user. In fact, the safest bet for a non-technical user who cannot follow documentation is to assume that Meta *will* use their user data for nefarious purposes. And to be fair, it absolutely will if presented with a sliver of opportunity. Very few of us foresaw what Facebook was doing when we all had like buttons on our blogs for a summer. It’s not impossible for Meta to find a way to monetize Mastodon’s user data. Even if that isn’t its primary objective. 
 
 [^2]: I think Bluesky is set to take a surprising chunk of Twitter users, and I think Jack Dorsey knows it. When TwitterX experiences another mass exodus, Bluesky will open its doors after a comically long invite-only period. The announcement will dominate the news cycle as a companion piece to Twitter’s continued demise. To sweeten the pot, Jack will probably announce a new feature. If you forgot about Bluesky, that’s perhaps by design. It’s ￼biding its time, waiting for someone to slip up. To be clear, I’m not a well-wisher. Dorsey is a fucking dork (derogatory).
