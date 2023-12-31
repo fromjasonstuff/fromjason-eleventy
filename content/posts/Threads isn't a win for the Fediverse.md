@@ -13,7 +13,7 @@ tags: [‘Mastodon’]
 ---
 # {{ title }}
 
-**Series part 1: The medium is the message**
+**Series part 1: The medium is the message** [Read Part 2](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/) when you're done.
 
 Meta needs the Fediverse more than the Fediverse needs Meta. I say this in the sense that the Fediverse never needed Meta at all. In fact, the Threads / Mastodon interpolation is a net negative for "federated social media” and the "open web.” In the end, Meta will have fundamentally changed what those two terms mean. And the Mastodon collective will have fumbled what it needed most for mass appeal— continued validation of the influential adopter.
 
@@ -79,7 +79,7 @@ We are never obligated to extend the practice of our beliefs to bad-faith actors
 
 You can't throw Che Guevara on an eighty-dollar tee shirt and hope the working conditions in which that shirt was produced improve. Just as you can't interpolate with a notoriously ruthless monopoly and hope its users embrace the open web. 
 
-The medium *is* the message. I’ll see you at the next post. 
+The medium *is* the message. I’ll see you at [the next post](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/). 
 
 ---
 *Edit: Updated "Official Culture" source to include the direct work. Adjusted various formatting, fix grammatical errors, and restructure a couple sentence for better clarity.*
