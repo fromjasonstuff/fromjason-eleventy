@@ -31,7 +31,7 @@ If successful, Meta would usher in a new social media era as the first lords of 
 
 Indie developers could gain a much-needed revenue stream through an ad-share program, which would be great if it weren't Meta writing the checks. We saw what happened to small businesses and aggregator websites. We saw what almost happened to corporate media after Facebook launched Instant Articles.
 
-Every day, users would pay the highest price. We'd be left with little more than the illusion of choice, resembling something approaching Proctor & Gamble's generic competitive strategy. We may gain the *technical* ability to move platforms with our followers and content in hand, but only so much as non-Meta affiliated social media exist. And perhaps not even then.
+Everyday-users would pay the highest price. We'd be left with little more than the illusion of choice, resembling something approaching Proctor & Gamble's generic competitive strategy. We may gain the *technical* ability to move platforms with our followers and content in hand, but only so much as non-Meta affiliated social media exist. And perhaps not even then.
 
 Meta must create a new market out of thin air to accomplish this monumental pivot. Such a feat could prove risky without something to compel indie developers and server admins to use Meta's shiny new infrastructure. That something could be regulation. Targeted lobbying has made it difficult for start-ups to compete in social media. Four new bills are floating around Congress. Each bill resembles Mark Zuckerberg's four-point plan. 
 
