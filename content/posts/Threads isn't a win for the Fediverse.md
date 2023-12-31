@@ -13,7 +13,7 @@ tags: [‘Mastodon’]
 ---
 # {{ title }}
 
-**Series part 1: The medium is the message** [Read Part 2](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/) when you're done.
+**Series part 1: The medium is the message** You can [read part 2](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/) when you're done.
 
 Meta needs the Fediverse more than the Fediverse needs Meta. I say this in the sense that the Fediverse never needed Meta at all. In fact, the Threads / Mastodon interoperation is a net negative for "federated social media” and the "open web.” In the end, Meta will have fundamentally changed what those two terms mean. And the Mastodon collective will have fumbled what it needed most for mass appeal— continued validation of the influential adopter.
 
