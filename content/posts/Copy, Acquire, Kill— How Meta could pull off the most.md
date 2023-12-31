@@ -23,11 +23,11 @@ Put on your tinfoil hats, kids. Papa's got a story.
 
 Over the past four years, Mark Zuckerberg has made moves that imply he's positioning Meta as a sort of **Platform as a Service** provider for social media companies.
 
-This theory is in good company. Here's a 2019 tweet from "a member of Facebook's inner circle" reported by the Mostly Cloudy Newsletter[^1]:
+This theory is in good company. Here's a 2019 tweet from "a member of Facebook's inner circle” reported by the Mostly Cloudy Newsletter[^1]:
 
 > I'm going to make a prediction: in five years, >25% of Facebook Inc's revenue will comes from selling cloud services to other UGC companies to meet global compliance needs.
 
-If successful, Meta would usher in a new social media era as the first lords of the "social web." The aftermath could mean that Meta gains an unprecedented concentration of power over what we see, who we interact with, and where developers can build digital communities. 
+If successful, Meta would usher in a new social media era as the first lords of the "social web.” The aftermath could mean that Meta gains an unprecedented concentration of power over what we see, who we interact with, and where developers can build digital communities. 
 
 Indie developers could gain a much-needed revenue stream through an ad-share program, which would be great if it weren't Meta writing the checks. We saw what happened to small businesses and aggregator websites. We saw what almost happened to corporate media after Facebook launched Instant Articles.
 
@@ -67,7 +67,7 @@ A recent conference hosted by DTI (again with the name) announced guests from "t
 
 That's... *bleak*. Where have all the techno-optimists gone?
 
-It's unclear which participants shared concerns, as statements were anonymous. Perhaps DTI implemented Chatham House Rules. The event also notes that it can't provide an investigation and appeals process because the Data Transfer Initiative is "a small organization." I hope Meta sprung for lunch. 
+It's unclear which participants shared concerns, as statements were anonymous. Perhaps DTI implemented Chatham House Rules. The event also notes that it can't provide an investigation and appeals process because the Data Transfer Initiative is "a small organization.” I hope Meta sprung for lunch. 
 
 The ACCESS Act was introduced in 2019 and reintroduced in 2022 and 2023. It would make data portability required by law. The bill is still under revision.
 
@@ -83,15 +83,15 @@ It might look a lot like the now-defunct app\.net.
 
 App\.net was a microblogging platform that tried to compete with Twitter. app\.net had a robust API that allowed 3rd party developers to build on its infrastructure. What made the start-up unique was that its founders encouraged developers to create social media platforms with their branding, features, and experiences.
 
-threads\.net would market itself similarly but with a few key differences— interpolation, content ownership, and a revenue split program. These flagship features make the platform attractive to small developers and server admins.
+Threads\.net would market itself similarly but with a few key differences— interpolation, content ownership, and a revenue split program. These flagship features make the platform attractive to small developers and server admins.
 
-threads\.net's potential flagship features:
+Threads\.net's potential flagship features:
 
 1. **Interpolation**: All third-party apps are interpolated. Users can engage, follow, and migrate between apps easily. 
 2. **Content Ownership**: Unlike app\.net, third-party developers and users "own" their published data. Each third-party platform has a distinct URL where content lives.
 3. **Ad revenue split**: threads\.net offers a turnkey ad delivery system. Qualifying third-party developers and admins can enroll in a revenue split program. If approved, they gain a dependable revenue stream.
 
-An ad-revenue split would likely gain enthusiastic participation in the tech community. Most indie devs scrape by for years, and that's if they're lucky. The poor saps who receive VC funding get to watch their best featured copied on Instagram.
+An ad-revenue split would likely gain enthusiastic participation in the tech community. Most indie devs scrape by for years, and that's if they're lucky. The poor saps who receive VC funding get to watch their best feature copied on Instagram.
 
 The interpolation and data storage features would also be widely supported. Martin Reece, creator of Micro.blog wrote about app\.net in his online book. He suggested that what the start-up got wrong was its centralization.
 
@@ -119,13 +119,13 @@ There are some immediately apparent reasons why Meta is interested in Mastodon. 
 
 ## A thousand little nodes
 
-My guess is Meta's plans are an open secret amongst the tech elite. A swarm of new micro blogging nodes are already buzzing around ActivityPub with great enthusiasm— Flipboard, Mozilla, Tumblr, Medium, and Post.News, Pebble (previously T2), WordPress, Vivaldi, and Mammoth, to name a few. Some are even well-funded. None seem to have a viable monetization strategy. Shareholders can't buy a third house with the spirit of the open web, you guys.
+My guess is Meta's plans are an open secret amongst the tech elite. A swarm of new micro blogging nodes are already buzzing around ActivityPub with great enthusiasm— Flipboard, Mozilla, Tumblr, Medium, Post.News, Pebble (previously T2), WordPress, Vivaldi, and Mammoth, to name a few. Some are even [well-funded](https://techcrunch.com/2023/02/28/mozilla-leads-mastodon-app-mammoths-pre-seed-funding/amp/ ). None seem to have a viable monetization strategy. Shareholders can't buy a third house with the spirit of the open web, you guys.
 
 As Meta pushes forward, we'll see more of these little nodes. Each will offer something unique, and Threads will be careful not to overlap. Post.news interpolating with a no-news Threads is perfect, don't you think?
 
 But here's the question— why ActivityPub?
 
-This is a tougher nut to crack. On the one hand, the protocol is a perfect fit for Meta's threads\.net ambitions. But wouldn't the Data Transfer Project Initiative meet those needs as well? Perhaps. But DTI's "mission" isn't necessarily social, and I think Meta wants to keep it that way. 
+This is a tougher nut to crack. On the one hand, the protocol is a perfect fit for Meta's threads\.net ambitions. But wouldn't the Data Transfer Project Initiative meet those needs as well? Perhaps. But DTI's "mission” isn't necessarily social, and I think Meta wants to keep it that way. 
 
 Look, there are lots of good people with the best intentions at every level of that project- er, initiative. But surely, Meta will use DTI to migrate Mastodon users over to threads\.net at some point. By isolating the social graph portability to ActivityPub, Meta can swap the protocol out with something proprietary once it ditches the Fediverse.  
 
@@ -139,13 +139,15 @@ Meta could've offered those services years ago. Instead, it routinely gives away
 
 But he can't *not* grow the company. Wall Street won't allow it. And he can't grow it through acquisition because of anti-trust. He's stuck.
 
-After Cambridge Analytica, Meta couldn't buy a WordPress blog from Theme Forrest without the government up their ass. Zuck's biggest fear is anti-trust breaking up Instagram and WhatsApp. If he can remove the "Gatekeeper" characterization, he might have a chance to save his empire.
+After Cambridge Analytica, Meta couldn't buy a WordPress blog from Theme Forrest without the government up their ass. Zuck's biggest fear is anti-trust breaking up Instagram and WhatsApp. If he can remove the "Gatekeeper” characterization, he might have a chance to save his empire.
 
 Infrastructure is Zuckerberg's only play. It's a good one, too. Effectively, four companies currently run the cloud. Barriers to entry are high, and infrastructure is costly. Just ask Meta. In the last four years, they've [spent billions](https://www.datacenterfrontier.com/hyperscale/article/11427952/facebook-showcases-its-40-million-square-feet-of-global-data-centers) on non-Metaverse, non-AI data center expansion[^2].
 
-Today, all your favorite apps run on Amazon Web Services. Soon, all your social media will run on threads\.net. 
+Today, all your favorite apps run on Amazon Web Services. Soon, all your social media will run on threads\.net.[^3]
 
 
-[^1]: The tweet has since been deleted but [exists as an embed](https://mostlycloudy.substack.com/p/mostly-cloudy-why-regulating-social)on the Mostly Cloudy Newsletter post.
+[^1]: The tweet has since been deleted but [exists as an embed](https://mostlycloudy.substack.com/p/mostly-cloudy-why-regulating-social) on the Mostly Cloudy Newsletter post.
 
 [^2]: Since 2019, Meta grew from 15 to 21 data centers across the globe, with at least three more reportedly in construction. This activity is in *addition* to any Metaverse needs, as Meta signed a long-term contract with Amazon Web Services for its virtual reality computing. In February 2023, Data Center Frontier [reported Meta halted at least three data center projects](https://www.datacenterfrontier.com/hyperscale/article/21548840/meta-will-abandon-some-data-center-builds-run-servers-longer). Its architects achieved a breakthrough that extended the lifespans of its servers. Meta decided to include those updates in new centers, so it delayed construction. The improvements did **not** extend to AI-based servers.
+
+[^3]: Or maybe the Metaverse? Who knows. Hit me up on Mastodon with a good name: [@fromjason@mastodon.social](https://mastodon.social/@fromjason)
