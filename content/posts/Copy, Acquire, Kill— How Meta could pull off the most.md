@@ -105,7 +105,7 @@ Meta's vision for threads\.net won't be a cakewalk, though. This market doesn't 
 
 ## Copy, Acquire, and Kill
 
-In some ways, app\.net failed where Mastodon succeeded. Eugene Rochko, Mastodon's CEO, has helped cultivate and impossibly vibrant social commons. He did it with zero ads, a decentralized network, and interoperable servers. If Meta could copy Mastodon's strategy, scale the ecosystem, and then monetize, it could pivot, *and* kill Mastodon at the same time.  
+In some ways, app\.net failed where Mastodon succeeded. Eugene Rochko, Mastodon's CEO, has helped cultivate an impossibly vibrant social commons. He did it with zero ads, a decentralized network, and interoperable servers. If Meta could copy Mastodon's strategy, scale the ecosystem, and then monetize, it could pivot, *and* kill Mastodon at the same time.  
 
 The biggest lie in the Fediverse is that Mastodon is too small for Meta to care about. By all accounts and reason, that's simply not true. Zuck is in this impossible position because of how often and indiscriminately he kills off start-ups. Universities have *studied it.*
 
