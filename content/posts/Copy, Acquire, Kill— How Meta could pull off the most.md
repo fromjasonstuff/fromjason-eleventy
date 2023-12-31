@@ -75,7 +75,7 @@ The RESTRICT Act, SAFE TECH Act, and Kids Online Safety Act also float around Co
 
 The final versions of these bills could be a public good. Or, it could make starting your own social media company only possible with supplemental infrastructure. My bet is on whatever history would suggest.
 
-## threads\.net is the new app\.net but with ads and interpolation
+## threads\.net is the new app\.net but with ads and interoperable
 
 Consider a scenario where Meta leadership believed its business model was no longer viable long-term. What would their first step look like? 
 
@@ -83,17 +83,17 @@ It might look a lot like the now-defunct app\.net.
 
 App\.net was a microblogging platform that tried to compete with Twitter. App\.net had a robust API that allowed 3rd party developers to build on its infrastructure. What made the start-up unique was that its founders encouraged developers to create social media platforms with their own branding, features, and experiences.
 
-Threads\.net would market itself similarly but with a few key differences— interpolation, content ownership, and a revenue split program. These flagship features make the platform attractive to small developers and server admins.
+Threads\.net would market itself similarly but with a few key differences— interoperability, content ownership, and a revenue split program. These flagship features make the platform attractive to small developers and server admins.
 
 Threads\.net's potential flagship features:
 
-1. **Interpolation**: All third-party apps are interpolated. Users can engage, follow, and migrate between apps easily. 
+1. **Interoperability ‌**: All third-party apps are connected, or “federated”. Users can engage, follow, and migrate between apps easily. 
 2. **Content Ownership**: Unlike app\.net, third-party developers and users "own” their published data. Each third-party platform has a distinct URL where content lives.
 3. **Ad revenue split**: threads\.net offers a turnkey ad delivery system. Qualifying third-party developers and admins can enroll in a revenue split program. If approved, they gain a dependable revenue stream.
 
 An ad-revenue split would likely gain enthusiastic participation in the tech community. Most indie devs scrape by for years, and that's if they're lucky. The poor saps who receive VC funding get to watch their best feature copied on Instagram.
 
-The interpolation and data storage features would also be widely supported. Martin Reece, creator of Micro.blog wrote about app\.net in his online book. He suggested that what the start-up got wrong was its centralization.
+The interoperable and data storage features would also be widely supported. Martin Reece, creator of Micro.blog wrote about app\.net in his online book. He suggested that what the start-up got wrong was its centralization.
 
 From *Indie Microblogging*: 
 
@@ -105,7 +105,7 @@ Meta's vision for threads\.net won't be a cakewalk, though. This market doesn't 
 
 ## Copy, Acquire, and Kill
 
-In some ways, app\.net failed where Mastodon succeeded. Eugene Rochko, Mastodon's CEO, has helped cultivate and impossibly vibrant social commons. He did it with zero ads, a decentralized network, and interpolated servers. If Meta could copy Mastodon's strategy, scale the ecosystem, and then monetize, it could pivot, *and* kill Mastodon at the same time.  
+In some ways, app\.net failed where Mastodon succeeded. Eugene Rochko, Mastodon's CEO, has helped cultivate and impossibly vibrant social commons. He did it with zero ads, a decentralized network, and interoperable servers. If Meta could copy Mastodon's strategy, scale the ecosystem, and then monetize, it could pivot, *and* kill Mastodon at the same time.  
 
 The biggest lie in the Fediverse is that Mastodon is too small for Meta to care about. By all accounts and reason, that's simply not true. Zuck is in this impossible position because of how often and indiscriminately he kills off start-ups. Universities have *studied it.*
 
@@ -121,7 +121,7 @@ There are some immediately apparent reasons why Meta is interested in Mastodon. 
 
 My guess is Meta's plans are an open secret amongst the tech elite. A swarm of new micro blogging nodes are already buzzing around ActivityPub with great enthusiasm— Flipboard, Mozilla, Tumblr, Medium, Post.News, Pebble (previously T2), WordPress, Vivaldi, and Mammoth, to name a few. Some are even [well-funded](https://techcrunch.com/2023/02/28/mozilla-leads-mastodon-app-mammoths-pre-seed-funding/amp/ ). None seem to have a viable monetization strategy. Shareholders can't buy a third house with the spirit of the open web, you guys.
 
-As Meta pushes forward, we'll see more of these little nodes. Each will offer something unique, and Threads will be careful not to overlap. Post.news interpolating with a no-news Threads is perfect, don't you think?
+As Meta pushes forward, we'll see more of these little nodes. Each will offer something unique, and Threads will be careful not to overlap. Post.news interoperable with a no-news Threads is perfect, don't you think?
 
 But here's the question— why ActivityPub?
 
