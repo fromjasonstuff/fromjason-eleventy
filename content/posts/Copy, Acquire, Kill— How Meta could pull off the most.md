@@ -57,7 +57,7 @@ The Data Transfer Project, or Data Transfer Initiative (no one can keep the name
 
 The project (or initiative) has some big names attached to it—Google, Microsoft, and then Meta in 2019. Twitter may have dropped out recently, as it's no longer included in press coverage.
 
-All involved with DTP/DPI frame their efforts as a step towards users' controlling their own data. Not so much the *type* of data big tech may collect on us or what it's allowed to do with it. Just the swapping part. There are a lot of folks jumping from Instagram to Microsoft these days?
+All involved with DTP/DTI frame their efforts as a step towards users' controlling their own data. Not so much the *type* of data big tech may collect on us or what it's allowed to do with it. Just the swapping part. There are a lot of folks jumping from Instagram to Microsoft these days?
 
 On Meta's engineering website, the company [writes in length](https://engineering.fb.com/2019/12/02/security/data-transfer-project/) about the mission's importance and protocol's ease of use. But the tone for the project shifts within the context of the Fediverse. 
 
