@@ -81,14 +81,14 @@ Consider a scenario where Meta leadership believed its business model was no lon
 
 It might look a lot like the now-defunct app\.net. 
 
-App\.net was a microblogging platform that tried to compete with Twitter. app\.net had a robust API that allowed 3rd party developers to build on its infrastructure. What made the start-up unique was that its founders encouraged developers to create social media platforms with their branding, features, and experiences.
+App\.net was a microblogging platform that tried to compete with Twitter. App\.net had a robust API that allowed 3rd party developers to build on its infrastructure. What made the start-up unique was that its founders encouraged developers to create social media platforms with their own branding, features, and experiences.
 
 Threads\.net would market itself similarly but with a few key differences— interpolation, content ownership, and a revenue split program. These flagship features make the platform attractive to small developers and server admins.
 
 Threads\.net's potential flagship features:
 
 1. **Interpolation**: All third-party apps are interpolated. Users can engage, follow, and migrate between apps easily. 
-2. **Content Ownership**: Unlike app\.net, third-party developers and users "own" their published data. Each third-party platform has a distinct URL where content lives.
+2. **Content Ownership**: Unlike app\.net, third-party developers and users "own” their published data. Each third-party platform has a distinct URL where content lives.
 3. **Ad revenue split**: threads\.net offers a turnkey ad delivery system. Qualifying third-party developers and admins can enroll in a revenue split program. If approved, they gain a dependable revenue stream.
 
 An ad-revenue split would likely gain enthusiastic participation in the tech community. Most indie devs scrape by for years, and that's if they're lucky. The poor saps who receive VC funding get to watch their best feature copied on Instagram.
@@ -97,7 +97,7 @@ The interpolation and data storage features would also be widely supported. Mart
 
 From *Indie Microblogging*: 
 
-> The app\.net team got so much right — the early crowdfunding, the well-designed API, the developer story — that I didn't notice what they had left out until much later. **All data lived at `app\.net` URLs, and when the platform was gone, all the posts and data went with it. There was no way to own your content.**
+> The app\.net team got so much right — the early crowdfunding, the well-designed API, the developer story — that I didn't notice what they had left out until much later. **All data lived at `app.net` URLs, and when the platform was gone, all the posts and data went with it. There was no way to own your content.**
 
 Server admins would have their choice of third-party apps if they chose not to develop. For the adventurous, Meta would likely provide tools, resources, and UI kits for developing bespoke threads\.net apps. Thanks to [Llama](https://ai.meta.com/llama/), Meta's open-source AI development tool, almost anyone can build their very own social media platform. Perhaps even large influencers with the means and desire to create a branded experience.
 
@@ -105,7 +105,7 @@ Meta's vision for threads\.net won't be a cakewalk, though. This market doesn't 
 
 ## Copy, Acquire, and Kill
 
-In some ways, app\.net failed where Mastodon succeeded. Eugene Rochko, Mastodon's CEO, has helped cultivate and impossibly vibrate social commons. He did it with zero ads, a decentralized network, and interpolated servers. If Meta could copy Mastodon's strategy, scale the ecosystem, and then monetize, it could pivot, *and* kill Mastodon at the same time.  
+In some ways, app\.net failed where Mastodon succeeded. Eugene Rochko, Mastodon's CEO, has helped cultivate and impossibly vibrant social commons. He did it with zero ads, a decentralized network, and interpolated servers. If Meta could copy Mastodon's strategy, scale the ecosystem, and then monetize, it could pivot, *and* kill Mastodon at the same time.  
 
 The biggest lie in the Fediverse is that Mastodon is too small for Meta to care about. By all accounts and reason, that's simply not true. Zuck is in this impossible position because of how often and indiscriminately he kills off start-ups. Universities have *studied it.*
 
@@ -113,7 +113,7 @@ Meta's **Copy, Acquire, and Kill** strategy is well documented. In 2020, Mark Zu
 
 Representative Pramila Jayapal:
 
-> "Your company uses data to spy on competitors and to copy, acquire, and kill rivals," Jayapal added. "You've used Facebook's power to threaten smaller competitors and to ensure that you always get your way."
+> "Your company uses data to spy on competitors and to copy, acquire, and kill rivals,” Jayapal added. "You've used Facebook's power to threaten smaller competitors and to ensure that you always get your way."
 
 There are some immediately apparent reasons why Meta is interested in Mastodon. None of which relate to building a better social media for regular folks. Mastodon has experienced server admins and nine million users that Meta can siphon after it fully invades the platform. 
 
@@ -127,7 +127,7 @@ But here's the question— why ActivityPub?
 
 This is a tougher nut to crack. On the one hand, the protocol is a perfect fit for Meta's threads\.net ambitions. But wouldn't the Data Transfer Project Initiative meet those needs as well? Perhaps. But DTI's "mission” isn't necessarily social, and I think Meta wants to keep it that way. 
 
-Look, there are lots of good people with the best intentions at every level of that project- er, initiative. But surely, Meta will use DTI to migrate Mastodon users over to threads\.net at some point. By isolating the social graph portability to ActivityPub, Meta can swap the protocol out with something proprietary once it ditches the Fediverse.  
+Look, there are lots of good people with the best intentions at every level of that project- er, initiative. But surely, Meta will use DTI to migrate Mastodon users over to threads\.net at some point. By isolating the social graph portability to ActivityPub, Meta can swap the protocol out with something proprietary (and more restrictive) once it ditches the Fediverse.  
 
 In the end, ActivityPub still exists, but its platforms are a virtual wasteland. Some version of Mastodon lives on through threads\.net. But at what cost?
 
