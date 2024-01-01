@@ -12,8 +12,6 @@ graphicAlt: 'illustration of a flower ￼reef'
 ---
 # {{ title }}
 
-**This post is number 3 of a series. You can read the first post [The medium is the message— Threads isn't a win for the Fediverse](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/), and the second post [Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)**
-
 [Discursive dominance](https://en.wikipedia.org/wiki/Discursive_dominance) is “the ultimate emergence of one discourse as dominant among competing ones in their struggle for dominance.” Once discursive dominance is secured, objectives are easier to achieve. It’s why lobbyists exist. It’s why we’ve experienced so much synthetic chatter on Mastodon in the last year. 
 
 To win discursive dominance, we must continue writing, sharing and compiling information. We must *fix the information loop* on our feeds (more on that below). Some of the best indie bloggers in the world are on Mastodon daily. Why, for the love of all that is holy, aren’t we writing about how we feel and what we see?
@@ -84,3 +82,5 @@ What we consume as individuals becomes far more revealing in the aggregate, but 
 The only way to stop the manipulation of the information loop is to overwhelm the channels with sincere speech from members of the digital community. This requires full action from Posters, Amplifiers, and Aggregators on every platform they participate. If you identify with one of those roles, your participation is a form of action and can absolutely cultivate change.
 
 In other words— Don’t stop talking. Don’t stop sharing. Don’t stop writing. It’s what we need the most right now.
+
+**This post is number 3 of a series. You can read the first post [The medium is the message— Threads isn't a win for the Fediverse](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/), and the second post [Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)**
