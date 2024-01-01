@@ -12,6 +12,8 @@ graphicAlt: 'illustration of a flower ￼reef'
 ---
 # {{ title }}
 
+**This post is number 3 of a series. You can read the first post [The medium is the message— Threads isn't a win for the Fediverse](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/), and the second post [Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)**
+
 [Discursive dominance](https://en.wikipedia.org/wiki/Discursive_dominance) is “the ultimate emergence of one discourse as dominant among competing ones in their struggle for dominance.” Once discursive dominance is secured, objectives are easier to achieve. It’s why lobbyists exist. It’s why we’ve experienced so much synthetic chatter on Mastodon in the last year. 
 
 To win discursive dominance, we must continue writing, sharing and compiling information. We must *fix the information loop* on our feeds (more on that below). Some of the best indie bloggers in the world are on Mastodon daily. Why, for the love of all that is holy, aren’t we writing about how we feel and what we see?

@@ -13,6 +13,10 @@ tags: ['threads']
 ---
 # {{ title }}
 
+**This post is number 2 of a series. You can read the first post [The medium is the message— Threads isn't a win for the Fediverse](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/), and the third post [How do we stop Meta in 2024? We fix the information loop](https://fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)**
+
+[The medium is the message— Threads isn't a win for the Fediverse](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/)
+
 Meta's sudden interest in ActivityPub and Mastodon doesn't make much sense. There are a few impossibly consistent talking points floating through the Fediverse. Each tries to explain away the oddity of Meta's presence. 
 
 I don't buy *any of it*. This is a plan years in the making. And we're watching Meta's biggest hurdle play out in real-time.
@@ -74,6 +78,8 @@ The ACCESS Act was introduced in 2019 and reintroduced in 2022 and 2023. It woul
 The RESTRICT Act, SAFE TECH Act, and Kids Online Safety Act also float around Congress. Each addresses one point in Zuckerberg's four-point plan. 
 
 The final versions of these bills could be a public good. Or, it could make starting your own social media company only possible with supplemental infrastructure. My bet is on whatever history would suggest.
+
+Update: *Since this post, I’ve discovered [The Facebook Receipts](https://facebook-receipts.the-citizens.com), a project “designed to expose Facebook’s activity in Washington D.C. and around the globe as it attempts to influence legislation and regulation.” It’s worth a look.*
 
 ## threads\.net is the new app\.net but with ads and interoperable
 
