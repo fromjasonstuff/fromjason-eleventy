@@ -12,7 +12,7 @@ graphicAlt: 'illustration of a flower ￼reef'
 ---
 # {{ title }}
 
-[Discursive dominance](https://en.wikipedia.org/wiki/Discursive_dominance) is “the ultimate emergence of one discourse as dominant among competing ones in their struggle for dominance.” Once discursive dominance is achieved, objectives are easier to achieve. It’s why lobbyists exist. It’s why we’ve experienced so much synthetic chatter on Mastodon in the last year. 
+[Discursive dominance](https://en.wikipedia.org/wiki/Discursive_dominance) is “the ultimate emergence of one discourse as dominant among competing ones in their struggle for dominance.” Once discursive dominance is secured, objectives are easier to achieve. It’s why lobbyists exist. It’s why we’ve experienced so much synthetic chatter on Mastodon in the last year. 
 
 To win discursive dominance, we must continue writing, sharing and compiling information. We must *fix the information loop* on our feeds (more on that below). Some of the best indie bloggers in the world are on Mastodon daily. Why, for the love of all that is holy, aren’t we writing about how we feel and what we see?
 
