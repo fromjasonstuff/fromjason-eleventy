@@ -42,7 +42,7 @@ The only way we can tease out the bad actors is to start highlighting the differ
 
 For example, what if we, as part of an unorganized, diverse group speaking out against Meta, each published a disclosure. That disclosure states that I have not received any payment from Meta. I have not met with Meta or any of its affiliates. I have not, and do not represent any corporate interests when I speak about Meta and the company’s actions. *That’s* a distinction worth amplifying, in my opinion. But, I digress. 
 
-My guess is, anyone who wrote about their frustrations with Meta has been met with the type of pushback that makes you not want to write about the topic again. That is *by design*. The battle, right now at least, is one of public opinion. Fighting that battle can be taxings. We need more posters, amplifiers, and aggregators engaged and ready to sub in. 
+My guess is, anyone who wrote about their frustrations with Meta has been met with the type of pushback that makes you not want to write about the topic again. That is *by design*. The battle, right now at least, is one of public opinion. Fighting that battle can be taxing. We need more posters, amplifiers, and aggregators engaged and ready to sub in. 
 
 ## Posters, Amplifiers, and Aggregators make the information loop
 
@@ -62,7 +62,7 @@ It’s not so much that algorithms *always* equal “bad.” Many users clearly 
 
 A natural information loop is perhaps less prevalent on platforms like Threads and Twitter, where algorithms influence behavior and taint motivations. Modern algorithms are why grindset accounts and the worst hot-takes reign supreme on Threads. The incentive is not to inform but to provide content the algorithm “likes.” 
 
-When bad faith actors manipulate information channels and co-opt the communication roles, their actions create a fracture in the information loop. Community members then experience a decreased ability to separate sincere sentiment from synthetic chatter. Without a consensus, peoples’ ability to organize against bad-faith actors isis stifled.
+When bad faith actors manipulate information channels and co-opt the communication roles, their actions create a fracture in the information loop. Community members then experience a decreased ability to separate sincere sentiment from synthetic chatter. Without a consensus, peoples’ ability to organize against bad-faith actors is stifled.
 
 Within typical corporate social media platforms, algorithms automate the information channel manipulation. Bad actors only need to learn what the algorithm favors through trial and error. 
 
