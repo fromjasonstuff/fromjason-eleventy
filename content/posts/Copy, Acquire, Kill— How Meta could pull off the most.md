@@ -156,4 +156,6 @@ Today, all your favorite apps run on Amazon Web Services. Soon, all your social 
 
 [^2]: Since 2019, Meta grew from 15 to 21 data centers across the globe, with at least three more reportedly in construction. This activity is in *addition* to any Metaverse needs, as Meta signed a long-term contract with Amazon Web Services for its virtual reality computing. In February 2023, Data Center Frontier [reported Meta halted at least three data center projects](https://www.datacenterfrontier.com/hyperscale/article/21548840/meta-will-abandon-some-data-center-builds-run-servers-longer). Its architects achieved a breakthrough that extended the lifespans of its servers. Meta decided to include those updates in new centers, so it delayed construction. The improvements did **not** extend to AI-based servers.
 
+**This post is number 2 of a series. You can read the first post [The medium is the message— Threads isn't a win for the Fediverse](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/), and the third post [How do we stop Meta in 2024? We fix the information loop](https://fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)**
+
 [^3]: Or maybe the Metaverse? Who knows. Hit me up on Mastodon with a good name: [@fromjason@mastodon.social](https://mastodon.social/@fromjason)
