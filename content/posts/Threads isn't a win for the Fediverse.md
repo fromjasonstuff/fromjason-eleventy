@@ -13,8 +13,6 @@ tags: [‘Mastodon’]
 ---
 # {{ title }}
 
-**This is the first post of a series. You can read the next two posts [Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/), and [How do we stop Meta in 2024? We fix the information loop](https://fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)**
-
 Meta needs the Fediverse more than the Fediverse needs Meta. I say this in the sense that the Fediverse never needed Meta at all. In fact, the Threads / Mastodon interoperation is a net negative for "federated social media” and the "open web.” In the end, Meta will have fundamentally changed what those two terms mean. And the Mastodon collective will have fumbled what it needed most for mass appeal— continued validation of the influential adopter.
 
 By allowing Threads to federate with the Fediverse, Mastodon has risked the very thing that made it appealing— open web federation. This claim may seem paradoxical, sure, but only as much as integrating with a closed system under uncertain terms. Twitter users who've perhaps already considered where to migrate must now reevaluate their choices. While some fedi-supporters feel the chips now fall in their favor, studied user behavior suggests a different outcome. 
@@ -80,6 +78,8 @@ We are never obligated to extend the practice of our beliefs to bad-faith actors
 You can't throw Che Guevara on an eighty-dollar tee shirt and hope the working conditions in which that shirt was produced improve. Just as you can't interoperate with a notoriously ruthless monopoly and hope its users embrace the open web. 
 
 The medium *is* the message. I’ll see you at [the next post](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/). 
+
+**This is the first post of a series. You can read the next two posts [Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/), and [How do we stop Meta in 2024? We fix the information loop](https://fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)**
 
 ---
 *Edit: Updated "Official Culture" source to include the direct work. Adjusted various formatting, fix grammatical errors, and restructure a couple sentence for better clarity.*
