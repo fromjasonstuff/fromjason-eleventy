@@ -4,7 +4,7 @@ description: Meta's Threads.net sure looks a lot like App.net. Is Meta due for a
 site: fromJason
 sub: notebook
 date: 2023-12-30
-type: note
+type: essay
 phase: sorting
 audience: Fediverse
 graphic: 'threadsdotnet.png'
