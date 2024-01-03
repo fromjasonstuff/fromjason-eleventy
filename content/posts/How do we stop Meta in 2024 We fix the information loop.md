@@ -4,7 +4,7 @@ description: To win discursive dominance, we must continue writing, sharing, and
 site: fromJason
 sub: notebook
 date: 2024-01-01
-type: note
+type: essay
 phase: sorting
 audience: fediverse
 graphic: '1058.png'
