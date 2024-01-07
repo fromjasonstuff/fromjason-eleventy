@@ -51,7 +51,11 @@ let markdownLibrary = markdownIt().use(markdownItFootnote);
 	// Put draft.txt in root
 	eleventyConfig.addPassthroughCopy({ '/draft.txt': '/draft.txt' });	
 	// Put humans.txt in root
-	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });		
+	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });	
+       // Passthrough bsky well known
+	eleventyConfig.addPassthroughCopy({ '/.well-known/atproto-did.njk': '/.well-known/atproto-did' });
+
+	
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
