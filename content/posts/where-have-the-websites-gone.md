@@ -1,5 +1,5 @@
 ---
-title: Where have all the websites gone?
+title: Where have all the websites gone
 sub: notebook
 date: 2024-01-08
 type: note
@@ -20,7 +20,7 @@ You copy the link to the best of the bunch, the story that made you laugh the ha
 
 ## For you, but not by us.
 
-For better or worse, the web doesn’t work like that anymore. No one clicks a webpage hoping to learn which cat *can have a cheeseburger*. Weirdos, maybe. *Sickos*. 
+For better or worse, the web doesn’t work like that anymore. No one clicks a webpage hoping to learn which cat *can haz cheeseburger*. Weirdos, maybe. *Sickos*. 
 
 No, we get our content from a For You Page now— algorithmically selected videos and images made by our favorite creators, produced explicitly for our preferred platform. Which platform doesn’t matter much. So long as it’s one of the big five. Creators churn out content for all of them. 
 
@@ -28,9 +28,9 @@ It’s a technical marvel, that internet. Something so mindblowingly impressive 
 
 ## Where *did* all the websites go? 
 
-A tweet went viral this Thanksgiving when a Twitter user posed a question to their followers. A peek at the comments, and I could only assume the tweet struck a nerve. It certainly did with me. Its why I wrote this piece. 
+A tweet went viral this Thanksgiving when a Twitter user posed a question to their followers. A peek at the comments, and I could only assume the tweet struck a nerve. It certainly did with me. It's why I wrote this piece. 
 
-[Where did all the websites go tweet](https://fromjason.xyz/img/image-wheredidallthewebsitesgo.jpg)
+![tweet](https://fromjason.xyz/img/image-wheredidallthewebsitesgo.jpg)
 
 Everyone had their own answer. Some comments blamed the app-ification of the web. "*Everything is an app now!*," one user replied. Others point to the death of Adobe Flash and how so many sites and games died along with it. Everyone agrees that websites have indeed vanished, and we all miss the days we were free to visit them. 
 
@@ -70,6 +70,6 @@ Here’s the best part. You can be that curator right now, at this very moment. 
 
 Open a Linktree account or whatever. And instead of adding your other social media accounts, add three links to your favorite blog posts. Or, add links to a few artists with their own sites. Or your favorite aggregator sites. It doesn’t matter what you include, so long as we make portals to other digital green spaces that exist outside of Instagram.
 
-**Then, throw that list into your link-in-bio**. I just [swapped my IG link](https://www.instagram.com/jasondotgov/) to my home page to a post listing my favorite blogging platforms. Most, if not all, are from “indie” developers. And who knows, maybe someone clicks on it and the web gains a new writer. How cool would that be? 
+**Then, throw that list into your link-in-bio**. I just [swapped my IG link](https://www.instagram.com/jasondotgov/) from my home page to a post listing my favorite blogging platforms. Most, if not all, are from “indie” developers. And who knows, maybe someone clicks on it and the web gains a new writer. How cool would that be? 
 
 So what do ya say? Let's make a bunch of open web *portals* for 2024! I guess I set this up for a two-parter, haven’t I? I’ll see you at the next post. 
