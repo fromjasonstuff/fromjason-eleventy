@@ -5,7 +5,7 @@ date: 2024-01-08
 type: note
 phase: sorting
 audience: everyone
-graphic: '60.png'
+graphic: 60.png
 graphicAlt: 'illustration of a hand pointing'
 ---
 
