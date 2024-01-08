@@ -8,8 +8,7 @@ type: note
 phase: sorting
 audience: everyone
 graphic: ’60.png'
-graphicAlt: 'illustration of a hand ‘pointing
-tags: [‘small web']
+graphicAlt: 'illustration of a hand pointing'
 ---
 # {{ title }}
 
