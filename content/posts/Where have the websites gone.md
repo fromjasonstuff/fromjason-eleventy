@@ -30,7 +30,7 @@ It’s a technical marvel, that internet. Something so mindblowingly impressive 
 
 A tweet went viral this Thanksgiving when a Twitter user posed a question to their followers. A peek at the comments, and I could only assume the tweet struck a nerve. It certainly did with me. Its why I wrote this piece. 
 
-[Where did all the websites go tweet](https://fromjason.xyz/img/image-wheredidallthewebsitesgo.jpg)
+![Where did all the websites go tweet](https://fromjason.xyz/img/image-wheredidallthewebsitesgo.jpg)
 
 Everyone had their own answer. Some comments blamed the app-ification of the web. "*Everything is an app now!*," one user replied. Others point to the death of Adobe Flash and how so many sites and games died along with it. Everyone agrees that websites have indeed vanished, and we all miss the days we were free to visit them. 
 
