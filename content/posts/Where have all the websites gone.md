@@ -1,7 +1,6 @@
 ---
 title: Where have all the websites gone?
-description:Remember the aggregator sites of the early 2010s? We can get them back.
-site: fromJason
+description: Remember the aggregator sites of the early 2010s? We can get them back. 
 sub: notebook
 date: 2024-01-08
 type: note
