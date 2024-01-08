@@ -1,12 +1,11 @@
 ---
-title: Where have all the websites gone?
-description: Remember the aggregator sites of the early 2010s? We can get them back. 
+title: Where have all the websites gone
 sub: notebook
 date: 2024-01-08
 type: note
 phase: sorting
 audience: everyone
-graphic: ’60.png'
+graphic: '60.png'
 graphicAlt: 'illustration of a hand pointing'
 ---
 # {{ title }}
