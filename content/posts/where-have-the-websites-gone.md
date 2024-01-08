@@ -1,5 +1,5 @@
 ---
-title: Where have all the websites gone
+title: Where have all the websites gone?
 sub: notebook
 date: 2024-01-08
 type: note
