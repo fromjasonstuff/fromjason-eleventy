@@ -13,7 +13,7 @@ graphicAlt: 'illustration of a hand pointing'
 
 It’s Tuesday morning. The year is 2009. You’re just waking up after a long and boozy New Year’s Eve with friends. Your head rings, and your mouth is the type of dry that makes you question your adulthood. You feel something scratch against your arm. Did you take a lover last night? Sort of. It’s a pizza box. Meat lovers. 
 
-You reach for your phone. There’s no TikTok or Snapchat yet. Facebook and Instagram are a thing, but they exist as a type of social syndicator— a place to see what your friends were up to last night. You already know as much. The occasional whiff of rank vodka keeps your memory jogged. You tap the browser icon and start typing a web￼ address, perhaps appending `www` as a precautionary ￼relic. *Who got drunker than me*, you wonder. After a brief page load, you arrive at textsfromlastnight\.com. “*I cant get the smell of ass out of my nose*,” reads the top post. 
+You reach for your phone. There’s no TikTok or Snapchat yet. Facebook and Instagram are a thing, but they exist as a type of social syndicator— a place to see what your friends were up to last night. You already know as much. The occasional whiff of rank vodka keeps your memory jogged. You tap the browser icon and start typing a web￼address, perhaps appending `www` as a precautionary relic. *Who got drunker than me*, you wonder. After a brief page load, you arrive at textsfromlastnight\.com. “*I cant get the smell of ass out of my nose*,” reads the top post. 
 
 You scroll, pausing only for the occasional forward to your best friend, who undoubtedly hurts as much as you. You both laugh at the crass misfortunes of others and quietly hope you hadn’t somehow made it onto the front page yourself. 
 
