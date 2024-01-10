@@ -8,6 +8,7 @@ type: note
 phase: sorting
 audience: everyone
 graphic: 'postremoved.png'
+noCoffee: true
 graphicAlt: 'screenshot post removed '
 tags: ['Mammoth']
 ---
