@@ -7,10 +7,21 @@
     <link rel="stylesheet" href="{{ settings.siteRoot }}/css/one.css">
     <link rel="stylesheet" href="{{ settings.siteRoot }}/css/outofversion.css">
     <!-- Netlify stuff -->
-
-
-
-
+    <link rel="micropub" href="https://www.fromjason.xyz/.netlify/functions/micropub" />
+    <!-- rel=me stuff -->
+    <link rel="me" href="https://github.com/fromjasonstuff" />
+    <link rel="me" href="https://mastodon.social/@fromjason" />
+    <link rel="me" href="https://instagram.com/jasondotgov" />
+    <link rel="me" href="https://www.threads.net/@jasondotgov" />
+    <link rel="me" href="https://www.tiktok.com/@jasondotgov" />
+    <link rel="me" href="https://pixelriot.io/" />
+    <!-- Microsub server (Apature) -->
+    <link rel="microsub" href="https://aperture.p3k.io/microsub/905" />
+    <!-- IndieAuth -->
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+    <!-- Webmentions -->
+    <link rel="webmention" href="https://webmention.io/www.fromjason.xyz/webmention" />
     <!-- Open graph stuff -->
     <meta property="og:site_name" content="from jason" />
     <meta property="og:type" content="{{ data.type or 'Digital Garden'}}" />
