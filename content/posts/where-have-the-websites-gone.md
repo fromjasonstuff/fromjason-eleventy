@@ -61,7 +61,7 @@ We used to know how to do this. Not long ago, we were good at separating the sig
 
 Somewhere between the late 2000’s aggregator sites and the contemporary For You Page, we lost our ability to *curate* the web. Worse still, we’ve outsourced our discovery to corporate algorithms. Most of us did it in exchange for an endless content feed. By most, I mean upwards of 90% who don’t make content on a platform as understood by the [90/9/1 rule](https://en.wikipedia.org/wiki/1%25_rule). And that’s okay! Or, at least, it makes total sense to me. Who wouldn’t want a steady stream of dopamine shots?
 
-The rest of us, [posters, amplifiers, and aggregators](https://www.fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/), traded our discovery autonomy for a chance at fame and fortune. Not all, but enough to change the social web landscape. 
+The rest of us, [posters, amplifiers, and aggregators](https://www.fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/), traded our discovery autonomy for a chance at fame and fortune. Not all, but enough to change the [social web](https://socialwe.blog) landscape. 
 
 But that gold at the end of the rainbow isn’t for us. “Creator funds” pull from a fixed pot. It’s a line item in a budget that doesn’t change, whether one hundred or one million hands dip inside it. Executives in polished cement floor offices, who you’ll never meet, *choose* their winners and losers. And I’m guessing it’s not a meritocracy-based system. They pick their tokens, round up their shills, and stuff Apple Watch ads between them.
 
