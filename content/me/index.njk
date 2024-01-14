@@ -14,7 +14,6 @@ eleventyComputed:
 <div class="h-card p-author">
    <h1 class="p-name">{{ title }}</h1>
    <p class="lead under-title">{{ description }}</p>
-   <p>Head to the <a href="#my-curated-lists">bottom of the page</a> for all my publicly curated lists.</p>
    {% set filterByMe = collections.me | include("data.sub", "me") %}
    {% set postslist = filterByMe %}
    {% include "mepostslist.njk" %}
@@ -28,7 +27,6 @@ how I did Facebook. I'm spending most of my time on Mastodon these days.</p>
    <ul>
       <li>Instagram: <a href="https://instagram.com/jasondotgov" rel="me" tilte="my instagram">@jasondotgov</a></li>
       <li>Threads: <a href="https://www.threads.net/@jasondotgov" rel="me" title="my threads">@jasondotgov</a></li>
-      <li><strike>TikTok</strike>: Haven't been active in a couple months so its just about time. *gulp*</li>
       <li>Mastodon: <a href="https://mastodon.social/@fromjason" rel="me" title="my mastadon">@fromjason</a></li>
    </ul>
    <h3 id="rss-feeds-by-plot">RSS feeds by plot</h3>
