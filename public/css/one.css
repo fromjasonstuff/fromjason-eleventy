@@ -2945,7 +2945,7 @@ blockquote {
             }
           }
           
-/* --  truncated auto list items */          
+/* --  truncated auto list items          
           
    .truncate {
               max-width: 620px;
@@ -2985,7 +2985,7 @@ blockquote {
                 text-overflow: ellipsis;
               }
             }        
-          
+       */    
 /* -- hr horizontal line */   
 
  hr {
