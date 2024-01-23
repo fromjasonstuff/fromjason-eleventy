@@ -4,7 +4,13 @@
 
 [Settings]
   ID = "5d3e30a9-ff13-419a-9b09-5a2e08da5b7d"
-  
+
+[[redirects]]
+  from = "https://hyper.fromjason.xyz/*"
+  to = "https://publish.obsidian.md/serve?url=mysite.com/my-notes/:splat"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/patreons-new-logo-design-is-good-actually"
   to = "/freelance/patreon-s-new-logo-design-is-good-actually/"
