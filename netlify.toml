@@ -6,8 +6,8 @@
   ID = "5d3e30a9-ff13-419a-9b09-5a2e08da5b7d"
 
 [[redirects]]
-  from = "https://fromjason.xyz/hyper/*"
-  to = "https://publish.obsidian.md/serve?url=fromjason.xyz/hyper/:splat"
+  from = "/hyper/*"
+  to = "https://publish.obsidian.md/streetcarttacos/:splat"
   status = 200
   force = true
 
