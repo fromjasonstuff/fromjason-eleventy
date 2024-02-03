@@ -6,7 +6,7 @@
   ID = "5d3e30a9-ff13-419a-9b09-5a2e08da5b7d"
 
 [[redirects]]
-  from = "wiki.fromjason.xyz/*"
+  from = "wiki.fromjason.xyz/p/*"
   to = "https://publish.obsidian.md/hypertextgarden/:splat"
   status = 200
   force = true
