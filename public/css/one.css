@@ -2175,7 +2175,7 @@ textarea.w-select {
 
 :root {
   --fonts--primary-font-family: "Volume Tc", Georgia, sans-serif;
-  --color--primary: #121A56;
+  --color--primary: #2c251d;
   --base--desktop-font-size: 19px;
   --base--tablet-font-size: 18px;
   --base--mobile-hoz-font-size: 17px;
@@ -2188,12 +2188,12 @@ textarea.w-select {
   --headers--h6-font-size: 1.1em;
   --text--para-font-size: 1em;
   --color--muted: #736b63;
-  --color--accent: #901714;
+  --color--accent: #171F58;
   --text--lead-font-size: 1.1em;
   --text--display-font-size: 2.37em;
   --text--small-font-size: .8em;
   --text--list-item-font-size: 1.05em;
-  --color--accent-muted: #733331;
+  --color--accent-muted: #0B187E;
   --fonts--secondary-font-family: "Volume Tc Sans", Verdana, sans-serif;
   --text-darker-browned\<deleted\|variable-fb567385-3dac-c090-aef8-53204fa926a7\>: rgba(62, 52, 42, .82);
   --color--secondary: #faf9f5;
