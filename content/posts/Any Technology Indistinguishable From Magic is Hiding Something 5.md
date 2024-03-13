@@ -11,7 +11,7 @@ graphic: 222.png
 ---
 # {{ title }}
 
-Somewhere between the [death of our favorite aggregator websites ](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) and the world surviving a pandemic, the modern internet was reduced to four companies in a trench coat. On the left breast pocket of that trenchcoat is a name tag that reads “*The Cloud*.” Under that name tag is an older name tag that reads “*The Internet*.” And under *that* name tag is a frayed embroidery that reads, “*ARPANET (non-commercial use only, motherfuckers)*,” in a lovely script typeface and craftsmanship you just don’t see nowadays. 
+Somewhere between the [death of our favorite aggregator websites](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) and the world surviving a pandemic, the modern internet was reduced to four companies in a trench coat. On the left breast pocket of that trenchcoat is a name tag that reads “*The Cloud*.” Under that name tag is an older name tag that reads “*The Internet*.” And under *that* name tag is a frayed embroidery that reads, “*ARPANET (non-commercial use only, motherfuckers)*,” in a lovely script typeface and craftsmanship you just don’t see nowadays. 
 
 Anyway, I digress.
 
