@@ -1,14 +1,13 @@
 ---
 title: Any Technology Indistinguishable From Magic is Hiding Something￼
-description: Somewhere between the death of our favorite aggregator websites and the world surviving a pandemic, the modern internet was reduced to four companies in a trench coat. 
 site: fromJason
 sub: notebook
 date: 2024-03-12
 type: note
 phase: sorting
 audience: everyone
-graphic: ’222.png'
-graphicAlt: 'illustration of a snake looking at a mirror‘
+graphic: 222.png
+
 ---
 # {{ title }}
 
