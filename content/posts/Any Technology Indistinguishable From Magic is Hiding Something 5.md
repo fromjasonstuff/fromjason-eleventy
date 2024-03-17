@@ -11,15 +11,13 @@ graphic: 222.png
 ---
 # {{ title }}
 
-Somewhere between the [death of our favorite aggregator websites](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) and the world surviving a pandemic, the modern internet was reduced to four companies in a trench coat. On the left breast pocket of that trenchcoat is a name tag that reads “*The Cloud*.” Under that name tag is an older name tag that reads “*The Internet*.” And under *that* name tag is a frayed embroidery that reads, “*ARPANET (non-commercial use only, motherfuckers)*,” in a lovely script typeface and craftsmanship you just don’t see nowadays. 
+Somewhere between the [death of our favorite aggregator websites](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) and the world surviving a pandemic, the modern internet was reduced to four companies in a trench coat. On the breast pocket of that trenchcoat is a name tag that reads “*The Cloud*.” Under that name tag is an older name tag that reads “*The Internet*.” And under *that* name tag is a frayed embroidery that reads, “*ARPANET (non-commercial use only, motherfuckers)*,” in a lovely script typeface and craftsmanship you just don’t see nowadays. 
 
-Anyway, I digress.
-
-Google, Amazon, Microsoft, and Meta (**GAMM**) now own most of the steel and glass that makes the internet go vroom. Google, Amazon, and Microsoft control seventy-five percent of the cloud computing market. Meta and Google own half of the fiber optic cables supplying internet services across continents. Most of our favorite productivity apps, retail websites, and social media platforms are beholden to proprietary infrastructure controlled by these four corporations. They own the most heavily trafficked server networks, all the GPUs, and gigawatts, and whatever. 
+Google, Amazon, Microsoft, and Meta (**GAMM**) now own most of the steel and glass that makes the internet go vroom. Google, Amazon, and Microsoft control seventy-five percent of the cloud computing market[^1]. Meta and Google own half of the fiber optic cables supplying internet services across continents[^2]. Most of our favorite productivity apps, retail websites, and social media platforms are beholden to proprietary infrastructure controlled by these four corporations. They own the most heavily trafficked server networks, all the GPUs, and gigawatts, and whatever. 
 
 They call it the cloud, but really, *that’s just the internet*. 
 
-So, what we know as the cloud doesn’t actually exist. It’s a euphemism that obfuscates the consolidation of critical infrastructure. The cloud is metaphysical porn for wild-eyed technocrats in Allbirds who say things like “I’m making a dent in the universe” without a whisper of irony. It’s bullshit. It’s fugazi. There is no spoon, Neo. 
+So, what we know as the cloud doesn’t actually exist. It’s a euphemism that obfuscates the consolidation of critical infrastructure. The cloud is metaphysical porn for wild-eyed technocrats in Allbirds who say things like, “I’m making a dent in the universe” without a whisper of irony. It’s bullshit. It’s fugazi. There is no spoon, Neo. 
 
 The cloud is a lie.
 
@@ -27,13 +25,13 @@ So, now that GAMM owns all this infrastructure, but no one really knows they own
 
 ## The future of the web is consumption
 
-Web 3.0 probably won’t involve the blockchain or NFTs in any meaningful way. We all may or may not one day join the metaverse and wear clunky goggles on our faces for the rest of our lives. And it feels increasingly unlikely that our graphic designers, artists, and illustrators will suddenly change their job titles to "prompt artist" anytime soon.
+Web 3.0 probably won’t involve the blockchain or NFTs in any meaningful way. We all may or may not one day join the metaverse and wear clunky goggles on our faces for the rest of our lives. And it feels increasingly unlikely that our graphic designers, artists, and illustrators will suddenly change their job titles to "prompt artist” anytime soon.
 
 But none of that really matters. We keep waiting for the next iteration of the web, or the internet, but the future is now, baby. We’re living it at this very moment. It snuck through the backdoor when no one was looking. 
 
 Over a decade or more, while our politicians were busy sub-tweeting fascists for clout, GAMM was buying up all the infrastructure it could carry. The old sync-and-share business model wasn’t working for them anymore, so they turned the internet into a network of expensive, gas-guzzling computing power. 
 
-It makes sense. The production cost of data storage plummeted by 94% in just ten years. You can't sell 50GB plans to college kids who own M2 Macbook Pros with a terabyte of solid-state storage. That's not how you build hundred-year empires.  
+It makes sense. The production cost of data storage plummeted by 94% in just ten years[^3]. You can't sell 50GB plans to college kids who own M2 Macbook Pros with a terabyte of solid-state storage. That's not how you build hundred-year empires.  
 
 So what did GAMM do? They convinced us that our notetaking apps require an internet connection and forty thousand dollar GPUs located on a server three hundred miles away. That's the future they've made for us. 
 
@@ -47,13 +45,13 @@ The presumptive beneficiaries of this new land of milk and honey are so drunk wi
 
 Right now, there's a four-way chess match in which each competitor will take a position of openness or security depending on which ideology helps them gain more market share. 
 
-Amazon controls 35% of the cloud computing market and has created a tight seal around its customer base. So, Meta and Google started preaching the importance of data portability. The Data Portability Initiative is a red herring protocol that does little more than allow Meta and Google to compare notes on the data they have on us. But the message is, of course, "user empowerment." [El oh fucking el](https://micro.fromjason.xyz/2024/01/13/threads-now-lets.html). 
+Amazon controls 35% of the cloud computing market and has created a tight seal around its customer base. So, Meta and Google started preaching the importance of data portability. The [Data Transfer Initiative](https://dtinit.org/) is a red herring protocol that does little more than allow Meta and Google to compare notes on the data they have on us. But the message is, of course, "user empowerment.” [El oh fucking el](https://micro.fromjason.xyz/2024/01/13/threads-now-lets.html). 
 
 If either Google or Meta's market positions change, you better believe they will pivot to security fearmongering while lifting that drawbridge. 
 
 Amazon is mostly quiet as the frontrunner in the cloud computing market. Microsoft, however, may've earned itself a hundred-year reign with OpenAI. So, its job is just to scare us into believing that AI has the power to bring about the apocalypse and that Microsoft is the only company that can control it. There's no way OpenAI survives any of this, by the way—not as an independent company anyway. Without Microsoft running ChatGPT on its servers, OpenAI has no product. 
 
-Google and Meta want the tech world to believe that building a sufficient moat for its respective AI businesses is impossible. Google went so far as to "leak" a [frantic internal memo](https://micro.fromjason.xyz/2024/01/17/a-quick-rant.html). In it, an employee claims that open-source AI is "eating its lunch" and that they might as well release their code to the public. 
+Google and Meta want the tech world to believe that building a sufficient moat for its respective AI businesses is impossible. Google went so far as to leak a [frantic internal memo](https://micro.fromjason.xyz/2024/01/17/a-quick-rant.html). In it, an employee claims that open-source AI is "eating its lunch” and that they might as well release their code to the public. 
 
 This framing is a half-truth, and it's purposefully deceptive. Yes, if everyone open-sources its AI models, they cannot build a moat on proprietary software. However, Google's memo fails to mention that it already has the infrastructure to run computing-hungry AI models and that infrastructure is wildly expensive to build. That's why four companies own most of it. The real moat is the fields of data centers, specialized GPUs, and hundreds of miles of deep-sea fiber optic cables. 
 
@@ -63,7 +61,7 @@ No one has a more grandiose vision for the internet than Mark Zuckerberg. The du
 
 Whatever. The metaverse is not the story here. And whether or not Zuck actually believes the bullshit he preaches about his virtual reality hellscape isn’t relevant. 
 
-What matters is that Meta is likely the most sophisticated cloud computing company on the planet. Facebook cut its teeth on a barebones web before the cloud market even existed. Zuck has open-sourced more cloud architecture than most companies could ever hope to develop in a lifetime. Amazon Web Services doesn’t gain 35% of the cloud computing market without Facebook’s contributions. 
+What matters is that Meta is likely the most sophisticated cloud computing company on the planet. Facebook cut its teeth on a barebones web before the cloud market even existed. Zuck has open-sourced more cloud architecture than most companies could ever hope to develop in a lifetime. Amazon Web Services doesn’t gain a third of the cloud computing market without Facebook’s contributions. 
 
 So, I think it’s a mistake to write off Zuck as some tech-bro idiot chasing his tail. He’s not Elon Musk. Mark Zuckerberg is a capable businessman who understands the industry better than most tech founders. 
 
@@ -106,3 +104,8 @@ Who’s to say how a cloud computing oligopoly will affect our everyday lives? B
 Google, Amazon, Microsoft, and Meta already control so much of what we see and don’t see. If they can suppress an active genocide on the platform layer, imagine what they can do when they control the whole kit and kaboodle.
 
 So, if we want a true indie web, we must be prepared to fight for it. Hope is not enough. 
+
+
+[^1]: [Cloud Market Gets its Mojo Back; AI Helps Push Q4 Increase in Cloud Spending to New Highs](https://www.srgresearch.com/articles/cloud-market-gets-its-mojo-back-q4-increase-in-cloud-spending-reaches-new-highs)
+[^2]: [Internet For The People](https://www.versobooks.com/products/2674-internet-for-the-people)
+[^3]: [Historical cost of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?tab=table&time=2002..latest)
