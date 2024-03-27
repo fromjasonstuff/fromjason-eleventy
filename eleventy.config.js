@@ -15,12 +15,38 @@ const lodash = require("lodash");
 
 module.exports = function(eleventyConfig) {
 
+ // Add a global data variable for current year
+  eleventyConfig.addGlobalData("currentYear", new Date().getFullYear());
+  
+// Add shortcode for page's publish year as justYear
+eleventyConfig.addFilter("justYear", (dateString) => {
+  dateObj = new Date(dateString);
+  return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy');
+});
+
+// Define a custom date filter
+  eleventyConfig.addFilter("date", function(date, format) {
+    const d = new Date(date);
+    let formattedDate = '';
+
+    // Define formatting based on the specified format
+    switch(format) {
+      case 'YYYY':
+        formattedDate = d.getFullYear().toString();
+        break;
+      case 'MMM':
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        formattedDate = months[d.getMonth()];
+        break;
+      // Add more cases for different formats as needed
+    }
+
+    return formattedDate;
+  });
+
+
 eleventyConfig.addFilter("include", (arr, path, value) => {
 
-let markdownLibrary = markdownIt().use(markdownItFootnote);
-  eleventyConfig.setLibrary("md", markdownLibrary);
-
-  // Rest of your configuration...
  
 // The filter for the sub collections like notebook, freelance etc.
     value = lodash.deburr(value).toLowerCase();
@@ -45,17 +71,9 @@ let markdownLibrary = markdownIt().use(markdownItFootnote);
 	
 	// Put robots.txt in root
 	eleventyConfig.addPassthroughCopy({ '/robots.txt': '/robots.txt' });
-	// Put draft.html in root
-	eleventyConfig.addPassthroughCopy({ '/draft.html': '/draft.html' });		
-
-	// Put draft.txt in root
-	eleventyConfig.addPassthroughCopy({ '/draft.txt': '/draft.txt' });	
 	// Put humans.txt in root
-	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });	
-       // Passthrough bsky well known
-	eleventyConfig.addPassthroughCopy({ '/.well-known/atproto-did.njk': '/.well-known/atproto-did' });
+	eleventyConfig.addPassthroughCopy({ '/humans.txt.njk': '/robots.txt' });		
 
-	
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
