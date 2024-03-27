@@ -33,7 +33,7 @@ module.exports = {
 	},
 	site: {
 		name: "from jason",
-		description: "A digital garden for a meatbag.",
+		description: "Odes & Satires, and other matters of stuff & things.",
 		url: "https://fromjason.xyz",
 		language: data => `${primaryLanguage}`,
 		version: "2.3.0",
