@@ -10,7 +10,7 @@ openGraph: 'fromjason'
                   <h1 style="margin-top: 0.65em;" class="display">{{ plotInfo[plotID].name or title or site.name }}</h1>
                   <p style="margin-top: 0.1em;" class="lead enter-text">{{ plotInfo[plotID].description or description or site.description }}</p>
                    <div class="followCTA--box">
-                   <a class="followCTA" href="{% if plotID %}{{ plotRssXmlUrl }}{% else %}{{ mainRssXmlUrl }}{% endif %}" title="rss feed for {{ plotTitle or mainTitle }}" target="_blank">follow feed</a>
+                   <a class="followCTA" href="{% if plotID %}{{ plotInfo[plotID].rssDir + 'feed.xml' }}{% else %}{{ site.rssDir }}{% endif %}" title="rss feed for {{ plotTitle or mainTitle }}" target="_blank">follow feed</a>
                    <!--<a class="companionCTA" href="#">Learn how</a>-->
                    </div>
                </div>
