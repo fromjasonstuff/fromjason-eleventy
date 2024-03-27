@@ -7,6 +7,9 @@ type: note
 phase: sorting
 audience: everyone
 graphic: 222.png
+tags:
+- technocrats
+- the web
 
 ---
 # {{ title }}
