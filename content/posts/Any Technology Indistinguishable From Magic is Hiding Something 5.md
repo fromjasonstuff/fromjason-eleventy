@@ -3,7 +3,7 @@ title: Any Technology Indistinguishable From Magic is Hiding Something￼
 site: fromJason
 sub: notebook
 date: 2024-03-12
-type: note
+type: essay
 phase: sorting
 audience: everyone
 graphic: 222.png
