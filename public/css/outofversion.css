@@ -38,10 +38,6 @@ iframe {
 	font-size: var(--text--small-font-size);
 	margin-bottom: -2.5em;
 }
-/* reduced margin top for better architecture. the top sentence is always associated with the image. */
-img {
-  margin: .5em auto 2em auto;
-}
 
 /* removed align from things like quotes */
 quote, .quote {
@@ -61,4 +57,16 @@ img {
 }
 a:focus, a:focus-visible {
     font-style: normal !important;
+}
+
+.followCTA--box {
+	margin-top: .25em;
+	  font-family: var(--fonts--secondary-font-family);
+}
+
+.followCTA {
+	  font-family: var(--body--secondary-font);
+	  font-size: var(--font-size--small);
+	  text-decoration: none;
+	  color: var(--brand--red-ink) !important;
 }
