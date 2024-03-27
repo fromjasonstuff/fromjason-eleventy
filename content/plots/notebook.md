@@ -1,5 +1,6 @@
 ---
 plotID: "p001"
+openGraph: 'opengraph-notebook.png'
 eleventyComputed:
   eleventyNavigation:
     key: "{{ plotInfo[plotID].name }}"

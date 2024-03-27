@@ -1,5 +1,6 @@
 ---
 plotID: "p003"
+openGraph: 'opengraph-stories.png'
 ---
 ## Welcome to my digital garden's stories plot. 
 

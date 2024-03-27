@@ -1,5 +1,6 @@
 ---
 plotID: "p002"
+openGraph: 'opengraph-freelance.png'
 ---
 ## Welcome to my digital garden's freelance plot. 
 

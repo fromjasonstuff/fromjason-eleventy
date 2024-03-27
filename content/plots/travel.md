@@ -1,5 +1,6 @@
 ---
 plotID: "p004"
+openGraph: 'opengraph-travel.png'
 ---
 ## Welcome to my digital garden's travel plot. 
 
