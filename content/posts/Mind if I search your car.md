@@ -8,7 +8,8 @@ graphic: '200.png'
 graphicAlt: 'illustration of a car'
 openGraph: 'mindifi'
 sub: notebook
-tags: ['privacy', 'technology']
+tags:
+- technocrats
 ---
 
 # {{ title }}

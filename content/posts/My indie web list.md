@@ -8,7 +8,8 @@ graphic: '51.png'
 graphicAlt: 'illustration of a old time globe'
 openGraph: 'fromjason'
 sub: notebook
-tags: ['indie web', 'interesting links']
+tags:
+- the web
 ---
 # My Indie Web list
 

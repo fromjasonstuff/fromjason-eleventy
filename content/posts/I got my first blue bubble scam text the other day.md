@@ -9,7 +9,8 @@ phase: sorting
 audience: everyone
 graphic: '22.png'
 graphicAlt: 'illustration of a bird with envelop in beak'
-tags: ['Apple']
+tags:
+- gadgets
 ---
 # {{ title }}
 

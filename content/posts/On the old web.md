@@ -7,7 +7,8 @@ audience: everyone
 graphic: '9.png'
 graphicAlt: 'illustration of a tree'
 sub: notebook
-tags: ['digital garden', 'blog']
+tags:
+- the web
 ---
 
 # {{ title }}

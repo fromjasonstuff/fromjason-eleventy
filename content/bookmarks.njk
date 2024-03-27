@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+permalink: "/bookmarks.html"
+collectionId: "39821750" 
+---
+
+<h1>Bookmarks from Child Collection</h1>
+{% set collectionBookmarks = raindropBookmarks[collectionId] %}
+{% if collectionBookmarks %}
+    <ul>
+        {% for bookmark in collectionBookmarks %}
+            <li>
+                <a href="{{ bookmark.bookmarkUrl }}">{{ bookmark.title }}</a>
+                <p>From: {{ bookmark.rootSiteUrl }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No bookmarks found in this collection.</p>
+{% endif %}

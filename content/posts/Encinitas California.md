@@ -8,7 +8,8 @@ graphic: '762.png'
 graphicAlt: 'illustration of a butterfly'
 openGraph: 'california'
 sub: travel
-tags: ['california']
+tags:
+- places
 ---
 # {{ title }}
 

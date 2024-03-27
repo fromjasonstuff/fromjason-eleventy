@@ -8,7 +8,8 @@ graphic: 'lipsum.png'
 graphicAlt: 'illustration of lion holding a sign that says Lipsum'
 openGraph: 'freelance'
 sub: freelance
-tags: ['web design', 'typography']
+tags:
+- web dev
 ---
 # I made a Lorem Ipsum page
 

@@ -8,7 +8,8 @@ graphic: 'Pomegranate.png'
 graphicAlt: 'illustration of skeleton'
 openGraph: 'notebook'
 sub: notebook
-tags: ['life hacks']
+tags:
+- personal
 ---
 # {{ title }}
 

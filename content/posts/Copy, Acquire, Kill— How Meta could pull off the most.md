@@ -9,7 +9,8 @@ phase: sorting
 audience: Fediverse
 graphic: 'threadsdotnet.png'
 graphicAlt: 'illustration of a elephant carrying a heavy trunk'
-tags: ['threads']
+tags:
+- technocrats
 ---
 # {{ title }}
 

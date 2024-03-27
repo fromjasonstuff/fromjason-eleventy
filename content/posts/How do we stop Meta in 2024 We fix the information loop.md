@@ -9,6 +9,8 @@ phase: sorting
 audience: fediverse
 graphic: '1058.png'
 graphicAlt: 'illustration of a flower ￼reef'
+tags: 
+- technocrats
 ---
 # {{ title }}
 

@@ -1,14 +1,15 @@
 ---
-# metadata comes from _data/subsdata.js
-permalink: /p/notebook/feed/feed.xml
+# metadata comes from _data/eleventyComputed.js
+plotID: "p001"
+permalink: "/p/notebook/feed/feed.xml"
 sub: 'notebook'
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ subsdata.notebook.language }}">
-    <title>{{ subsdata.notebook.fulltitle }}</title>
-    <subtitle>{{ subsdata.notebook.description }}</subtitle>
-    <link href="{{ permalink | htmlBaseUrl(subsdata.notebook.url) }}" rel="self"/>
-    <link href="{{ subsdata.notebook.url | addPathPrefixToFullUrl }}"/>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ plotInfo[plotID].language }}">
+    <title>{{ plotInfo[plotID].name }} {{ site.name }}</title>
+    <subtitle>{{ plotInfo[plotID].description }}</subtitle>
+    <link href="/p/notebook/feed/feed.xml" />
+    <link href="/p/notebook/"/>
     <updated>
         {% set subAllnotebook = collections.posts | include("data.sub", "notebook") %}{{ subAllnotebook | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
     <id>{{ subsdata.notebook.url }}</id>

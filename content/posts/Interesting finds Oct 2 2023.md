@@ -7,7 +7,8 @@ audience: everyone
 graphic: '8.png'
 graphicAlt: 'illustration of a tree'
 sub: notebook
-tags: ['manifestos', 'interesting links']
+tags:
+- hypertext
 ---
 # {{ title }}
 

@@ -4,12 +4,13 @@ description: Why do we confine ourselves to a handful of apps when the web is so
 site: fromJason
 sub: notebook
 date: 2023-11-27
-type: note
+type: essay
 phase: sorting
 audience: everyone
 graphic: '20.png'
 graphicAlt: 'illustration of a scarecrow'
-tags: ['indie web']
+tags:
+- the web
 ---
 # {{ title }}
 

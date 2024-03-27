@@ -9,6 +9,8 @@ type: series
 seriesID: 'oddities'
 seriesKey: 2
 permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify }}/"
+tags:
+- oddities
 ---
 
 <h1 class="display secondary">

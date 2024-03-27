@@ -9,6 +9,8 @@ phase: sorting
 audience: everyone
 graphic: '218.png'
 graphicAlt: 'illustration of a two feathers making an X'
+tags:
+- technocrats
 ---
 # {{ title }}
 

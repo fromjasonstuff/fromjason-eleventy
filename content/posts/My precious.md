@@ -8,7 +8,8 @@ graphic: '403.png'
 graphicAlt: 'illustration of a eye inside of a pyramid ￼'
 openGraph: '403'
 sub: notebook
-tags: ['politech']
+tags:
+- technocrats
 ---
 # {{ title }}
 

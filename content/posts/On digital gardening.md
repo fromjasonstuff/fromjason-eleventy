@@ -8,7 +8,8 @@ graphic: '317.png'
 graphicAlt: 'illustration of a tree'
 openGraph: 'ondigitalgardening'
 sub: notebook
-tags: ['digital garden']
+tags:
+- the web
 ---
 
 # {{ title }}

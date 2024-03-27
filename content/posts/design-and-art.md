@@ -7,7 +7,8 @@ phase: sorting
 audience: freelancers
 graphic: '6.png'
 graphicAlt: 'illustration of a tree'
-tags: ['design', 'art']
+tags:
+- design
 ---
 # Design & art
 

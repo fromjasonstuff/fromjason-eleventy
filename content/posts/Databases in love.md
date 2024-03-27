@@ -9,7 +9,8 @@ phase: complete
 audience: everyone
 graphic: '103.png'
 graphicAlt: 'illustration of a stabbed heart'
-tags: ['poem','haiku']
+tags:
+- fiction
 ---
 <div style="margin-top: 50px; margin-bottom: 100px;">
 Database in love

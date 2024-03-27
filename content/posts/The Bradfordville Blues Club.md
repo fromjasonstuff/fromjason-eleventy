@@ -9,7 +9,8 @@ phase: edited
 audience: everyone
 graphic: '208.png'
 graphicAlt: 'illustration of a guitar'
-tags: ['hidden gem']
+tags:
+- places
 ---
 # {{ title }}
 

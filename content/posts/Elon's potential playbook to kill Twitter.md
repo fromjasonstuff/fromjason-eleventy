@@ -9,8 +9,8 @@ audience: everyone
 graphic: '7.png'
 graphicAlt: 'illustration of a tree'
 openGraph: 'elonreceivedplaybook'
-tags: ['politech', 'twitter']
-
+tags:
+- technocrats
 ---
 # Elon received playbook to kill Twitter
 

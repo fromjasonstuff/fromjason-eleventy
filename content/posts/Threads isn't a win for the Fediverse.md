@@ -9,7 +9,9 @@ phase: sorting
 audience: Fediverse
 graphic: 519.png
 graphicAlt: 'illustration of a three heads'
-tags: [‘Mastodon’]
+tags:
+- technocrats
+- social web
 ---
 # {{ title }}
 

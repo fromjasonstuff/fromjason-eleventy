@@ -7,7 +7,8 @@ phase: sorting
 audience: everyone
 graphic: '527.png'
 graphicAlt: 'illustration of a tree'
-tags: ['social media', 'Meta']
+tags:
+- social web
 ---
  
 # Meta doesn't hate news, just anything that moves us off the app

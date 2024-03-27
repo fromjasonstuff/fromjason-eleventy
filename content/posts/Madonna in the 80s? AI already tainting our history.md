@@ -9,7 +9,9 @@ graphic: '381.png'
 graphicAlt: 'illustration of a tree'
 openGraph: 'notebook'
 sub: notebook
-tags: ['AI', 'internet culture']
+tags:
+- ai
+- internet culture
 ---
 # {{ title }}
 

@@ -8,7 +8,8 @@ phase:
 audience: freelancers
 graphic: '3.png'
 graphicAlt: 'illustration of a crown'
-tags: ['design', 'logo design']
+tags:
+- design
 ---
 
 # {{ title }}

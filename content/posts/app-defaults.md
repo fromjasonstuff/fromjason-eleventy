@@ -8,7 +8,8 @@ graphic: '50.png'
 graphicAlt: 'illustration of a star'
 openGraph: 'notebook'
 sub: notebook
-tags: ['interesting links']
+tags:
+- hypertext
 ---
 # {{ title }}
 

@@ -7,7 +7,8 @@ audience: everyone
 graphic: '22.png'
 graphicAlt: 'illustration of a tree'
 sub: notebook
-tags: ['podcasts']
+tags:
+- internet culture
 ---
 
 # {{ title }}

@@ -11,8 +11,9 @@ phase: developing
 audience: freelancers
 graphic: '403.png'
 graphicAlt: 'illustration of a crown'
-tags: ['project management', 'logo design']
 permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify }}.html"
+tags:
+- project managment
 ---
 # {{ title }}
 

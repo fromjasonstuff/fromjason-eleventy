@@ -10,8 +10,10 @@ phase: developing
 audience: freelancers
 graphic: '403.png'
 graphicAlt: 'illustration of a star'
-tags: ['project management', 'logo design']
 permalink: "/p/{{ sub | slugify }}/s/{{ seriesID | slugify }}/{{ title | slugify }}.html"
+tags: 
+- project management
+- design
 ---
 # {{ title }}
 

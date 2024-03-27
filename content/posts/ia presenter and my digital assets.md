@@ -1,14 +1,15 @@
 ---
 title: On iA Presenter and my mission to preserve my digital assets
 date: 2023-11-15
-type: note
+type: essay
 phase: sorting
 audience: everyone
 graphic: '311.png'
 graphicAlt: 'illustration of a projector'
 openGraph: 'mydigitalassets'
 sub: freelance
-tags: ['open formats', 'design']
+tags:
+- HappyDigitalSpaces
 ---
 # {{ title }}
 

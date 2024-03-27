@@ -7,7 +7,8 @@ audience: designers
 graphic: '329.png'
 graphicAlt: 'illustration of an instrument'
 sub: notebook
-tags: ['design', 'interesting links']
+tags:
+- hypertext
 ---
 # Interesting finds: Design articles I still think about
 

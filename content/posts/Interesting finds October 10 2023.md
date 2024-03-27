@@ -7,7 +7,8 @@ phase: complete
 audience: everyone
 graphic: '8.png'
 graphicAlt: 'illustration of a tree'
-tags: ['interesting links']
+tags:
+- hypertext
 ---
  
 # Interesting finds, October 10, 2023

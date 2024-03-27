@@ -9,7 +9,8 @@ phase: sorting
 audience: freelancers
 graphic: '501.png'
 graphicAlt: 'illustration of a hand handing a blank card'
-tags: ['SaaS']
+tags:
+- software
 ---
 # {{ title }}
 

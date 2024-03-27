@@ -8,7 +8,8 @@ graphic: '312a.png'
 graphicAlt: 'illustration of a old time camera'
 openGraph: 'fromjason'
 sub: notebook
-tags: ['Apple', 'technology']
+tags:
+- technology
 ---
 # This event was shot on iPhone and edited on Mac
 

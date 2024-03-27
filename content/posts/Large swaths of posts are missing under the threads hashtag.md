@@ -10,7 +10,8 @@ audience: everyone
 graphic: 'postremoved.png'
 noCoffee: true
 graphicAlt: 'screenshot post removed '
-tags: ['Mammoth']
+tags:
+- misc
 ---
 # {{ title }}
 

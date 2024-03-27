@@ -8,7 +8,8 @@ audience: everyone
 graphic: '400.png'
 graphicAlt: 'cluster of stars'
 sub: stories
-tags: ['short story']
+tags:
+- fiction
 ---
 
 # {{ title }}

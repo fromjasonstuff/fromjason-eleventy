@@ -8,7 +8,9 @@ graphic: '967.png'
 graphicAlt: 'illustration of a hat'
 openGraph: 'myhat'
 sub: notebook
-tags: ['Apple']
+tags:
+- ai
+- gadgets
 ---
 # {{ title }}
 

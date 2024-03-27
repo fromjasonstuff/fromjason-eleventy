@@ -3,11 +3,14 @@ title: Where have all the websites gone?
 description: It feels like all the cool websites from the late 2000s are gone. But maybe we are looking at this the wrong way. Maybe it is us who vanished. 
 sub: notebook
 date: 2024-01-08
-type: note
+type: essay
 phase: sorting
 audience: everyone
 graphic: '60.png'
 graphicAlt: 'illustration of a hand pointing'
+tags:
+- the web
+- social web
 ---
 # {{ title }}
 
@@ -73,4 +76,4 @@ Open a Linktree account or whatever. And instead of adding your other social med
 
 **Then, throw that list into your link-in-bio**. I just [swapped my IG link](https://www.instagram.com/jasondotgov/) from my home page to a post listing my favorite blogging platforms. Most, if not all, are from “indie” developers. And who knows, maybe someone clicks on it and the web gains a new writer. How cool would that be? 
 
-So what do ya say? Let's make a bunch of open web *portals* for 2024! I guess I set this up for a two-parter, haven’t I? I’ll see you at the [next post](https://www.fromjason.xyz/p/notebook/any-technology-indistinguishable-from-magic-is-hiding-something/). 
+So what do ya say? Let's make a bunch of open web *portals* for 2024! I guess I set this up for a two-parter, haven’t I? I’ll see you at the next post. 

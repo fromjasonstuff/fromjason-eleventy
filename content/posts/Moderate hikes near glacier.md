@@ -8,7 +8,8 @@ graphic: '532.png'
 graphicAlt: 'illustration of a bald eagle'
 openGraph: 'fromjason'
 sub: travel
-tags: 'National Parks'
+tags:
+- places
 ---
 # {{ title }}
 

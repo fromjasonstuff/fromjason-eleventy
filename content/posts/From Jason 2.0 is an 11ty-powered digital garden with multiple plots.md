@@ -8,7 +8,8 @@ graphic: 'logo-fromjason.svg'
 graphicAlt: 'illustration of a mask'
 openGraph: 'fromjason2'
 sub: freelance
-tags: ['11ty', 'web design']
+tags:
+- web dev
 ---
 # {{ title }}
 

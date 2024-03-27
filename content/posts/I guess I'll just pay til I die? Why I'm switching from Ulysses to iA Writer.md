@@ -1,13 +1,14 @@
 ---
 title: I guess I'll just pay til I die? Why I'm switching from Ulysses to iA Writer
 date: 2023-10-09
-type: note
+type: essay
 phase: sorting
 audience: writers
 graphic: '520.png'
 graphicAlt: 'illustration of a tree'
 sub: notebook
-tags: ['writing']
+tags:
+- HappyDigitalSpaces
 ---
 
 # {{ title }}

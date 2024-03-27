@@ -7,7 +7,8 @@ audience: everyone
 graphic: '523.png'
 graphicAlt: 'illustration of a tree'
 sub: notebook
-tags: ['privacy', 'technology', 'politech']
+tags:
+- gadgets
 ---
 # {{ title }}
 

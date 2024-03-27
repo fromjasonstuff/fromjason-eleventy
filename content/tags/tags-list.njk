@@ -2,10 +2,12 @@
 title: All tags
 description: From notebook, freelance, & stories.
 permalink: /tags/
-layout: layouts/home.njk
-logo: 'graphic-77.png'
+layout: layouts/base.njk
+logo: '77.png'
 ---
-
+<article class="article">
+<h1>{{ title }}</h1>
+<p class="lead under-title">{{ description }}</p>
 <div class="auto-list-block">
 <ul class="auto-list">
 {% for tag in collections.all | getAllTags | filterTagList %}
@@ -14,3 +16,4 @@ logo: 'graphic-77.png'
 {% endfor %}
 </ul>
 </div>
+</article>

@@ -8,7 +8,9 @@ graphic: '194.png'
 graphicAlt: 'illustration of a skull'
 openGraph: 'openai'
 sub: notebook
-tags: ['politech']
+tags:
+- technocrats
+- ai
 ---
 # {{ title }}
 

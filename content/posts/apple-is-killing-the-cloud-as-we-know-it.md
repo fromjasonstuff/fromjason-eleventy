@@ -7,7 +7,8 @@ audience: techies
 graphic: '103.png'
 graphicAlt: 'illustration of a tree'
 sub: notebook
-tags: ['technology', 'Apple']
+tags:
+- software
 ---
 
 # {{ title }}

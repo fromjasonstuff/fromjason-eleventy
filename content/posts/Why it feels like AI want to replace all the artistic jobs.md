@@ -4,12 +4,14 @@ description: Replacing artists feels like a trivial capitalist pursuit. So why d
 site: fromJason
 sub: notebook
 date: 2023-11-29
-type: note
+type: essay
 phase: sorting
 audience: everyone
 graphic: '1502.png'
 graphicAlt: 'illustration of a mask'
-tags: ['AI', 'ChatGPT']
+tags:
+- ai
+- internet culture
 ---
 # {{ title }}
 
