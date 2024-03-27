@@ -8,30 +8,71 @@ defaultGraphic: '5.png'
       {% include "partials/jumplink.njk" %}
    </nav>
 </header>
-               {% set publishDisplayDate = "" %}
-               
-               {% if pubDate %}
-   				{% set publishDisplayDate = pubDate %}
-  				 {% else %}
-   				{% set publishDisplayDate = page.date %}
-   				{% endif %}
 <article class="article">
-   <img class="graphic" src="{{ settings.siteRoot}}/img/{% if postGraphic %}{{ postGraphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
-  <div class="article-overline">
-        <div class="article-overline-date">
-        {{ publishDisplayDate | readableDate }}
-        </div>
-        <div class="badge right-025em">
-          <div class="article-overline-type">{{ type }}</div>
-        </div>
+
+      <div class="playlist-graphic-wrapper">
+      <img class="playlist-graphic" src="{{ settings.siteRoot}}/img/{% if postGraphic %}{{ postGraphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}">
       </div>
-   <div class="e-content">   
-{{ content | safe }}
- </div> 
-   
-    <button class="tinylytics_kudos" style="margin-top: 1em; padding: 0.4em 0.75em; background: #FAF9F5; border: 1px solid #c8c4bf;"></button>
-   <h4>Metadata</h4>
-   <div class="metatable w-embed">
+ 
+   {{ content | safe }}
+  
+</article>
+
+
+
+ <div class="playlist-list">
+
+      <a href="#" class="playlist-item w-inline-block">
+        <div class="playlist-item-infowrapper">
+          <h2 class="playlist-item-title truncate-pl">
+          Things I wish I knew when I started my blog in eleventy this is a long title im testing
+          </h2>
+          <div class="playlist-item-subtitle">
+          daveharris.com
+          </div>
+        </div>
+        <div class="playlist-item-linkiconwrapper">
+          <div class="playlist-icon-svg w-embed">
+            <?xml version="1.0" encoding="utf-8"?>
+            <svg height="100%" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g id="Arrow / Arrow_Up_Right_SM">
+                <path id="Vector" d="M8 16L16 8M16 8H10M16 8V14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </a>
+
+      <div class="playlist-footer">
+        <ul role="list" class="footer-list">
+          <li class="list-item">
+            <div>7 posts,</div>
+          </li>
+          <li class="list-item-2">
+            <div>35min.</div>
+          </li>
+          <li class="list-item">
+            <div>updated:</div>
+          </li>
+          <li class="list-item-2">
+            <div>Dec, 2023</div>
+          </li>
+        </ul>
+        <ul role="list" class="footer-list">
+          <li>
+            <a href="#" class="accent">Report or suggest link</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
+
+
+
+
+<h4>Metadata</h4>
+<div class="metatable w-embed">
       <table>
          <thead>
             <tr>
@@ -52,7 +93,13 @@ defaultGraphic: '5.png'
             </tr>
               <tr>
                <td>Published</td>
-
+               {% set publishDisplayDate = "" %}
+               
+               {% if pubDate %}
+   				{% set publishDisplayDate = pubDate %}
+  				 {% else %}
+   				{% set publishDisplayDate = page.date %}
+   				{% endif %}
                
                <td>
                <time datetime="{{ publishDisplayDate | htmlDateString }}">{{ publishDisplayDate | readableDate }}</time>
@@ -91,21 +138,7 @@ defaultGraphic: '5.png'
          </tbody>
       </table>
    </div>
-</article>
 <aside class="postscripts">
-{% if noCoffee %}
-&nbsp;
-{% else %}
-<div class="ps-item coffee">
-<div class="ps-title">
-caffeinate me
-</div>
-<div class="ps-body">
-If you have ever found my writing valuable and you want to help me continue avoiding doing my laundry, you can <a href="https://www.buymeacoffee.com/fromjason" target="_blank">buy me a coffee</a>. It would mean a lot.
- </div> 
-</div>
-{% endif %}
-
    <div class="ps-item">
       <div class="ps-title">† Article&#x27;s assumed audience (AAA)</div>
       <div class="ps-body">Sometimes, I identify who I&#x27;m writing for as a way to provide contextIt&#x27;s like saying, &quot;I&#x27;m using a lot of technical terms because I wrote this post for frontend developers,” or &quot;Sorry if I&#x27;m getting too symmetrical, this one&#x27;s for my Wes Anderson fans.&quot; <em>But</em>, all are welcomed, always. If you&#x27;re not in this article&#x27;s intended audience, but you find this article interesting, wonderful! Please stick around, read the post, and feel free to ask me questions.</div>

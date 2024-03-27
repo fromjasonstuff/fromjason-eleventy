@@ -1,10 +1,43 @@
 ---
 layout: layouts/base.njk
 body: body-primary
-openGraph: 'fromjason.png'
+openGraph: 'fromjason'
 ---
+{% set plotRssPath =  directories.plotDir + plotInfo[plotID].name + directories.feedDir %}
+ {% set mainRssPath = site.rssDir %}
+ 
+ {% set RssFileTypeXml = "feed.xml" %}
+ {% set RssFileTypeJson = "feed.json" %}      
+ 
+ {% set plotRssXmlUrl = plotRssPath + RssFileTypeXml %}
+ {% set plotRssJsonUrl = plotRssPath + RssFileTypeJson %}
+
+ {% set mainRssXmlUrl = mainRssPath + RssFileTypeXml %}
+ {% set mainRssJsonUrl = mainRssPath + RssFileTypeJson %}
+ 
+ {% set plotTitle = plotInfo[plotID].name %}     
+ {% set mainTitle = site.name %}
  <header class="header">
  	{% include "partials/nav.njk" %}
- 	{% include "partials/masthead.njk" %}
+ 	<div class="masthead">
+      <img src="img/logo-fromjason.svg" loading="lazy" alt="grotesque mask illustration" class="deckhead-img-copy">
+      
+        <div class="div-block-12">
+          <h1 class="display-copy">{{ plotInfo[plotID].name or title or site.name }}</h1>
+          <div class="display-2nd-line">Odes &amp; satire<span class="text-span-8">s</span></div>
+          <div class="display-3rd-line">And other matters</div>
+          <div class="display-4th-line">Of things &amp; stuff</div>
+          <div class="author-lede">written by: jason velazquez</div>
+          <div class="quote-block">
+            <div class="text-block-12">⭑⭑⭑⭑</div>
+            <div class="lead-quote">&quot;Another web nerd telling us we&#x27;re doing the internet wrong”</div>
+            <div class="lead-quote-name">— hacker news commenter</div>
+          </div>
+          <div class="div-block-14">
+            <div class="quote-lead">&quot;Web nerds tell <strong>‘</strong>normal people&#x27; they&#x27;re doing the internet wrong... again.”</div>
+            <div class="text-block-9">—slashdot user</div>
+          </div>
+        </div>
+      </div>
  </header>
 {{ content | safe }}

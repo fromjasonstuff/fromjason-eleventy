@@ -1,5 +1,6 @@
                <nav class="navbar">
+               <a href="/" class="navbar-link w-inline-block"><img src="{{ settings.siteRoot }}/img/triplex.svg" loading="lazy" alt="" class="image"></a>
                {%- for entry in collections.all | eleventyNavigation %}
-					<span class="nav-item"><a class="navbar-link" href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></span>
+					<a class="navbar-link" href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
 				{%- endfor %}
                </nav>

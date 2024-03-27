@@ -1,3 +1,17 @@
+{% set plotRssPath =  directories.plotDir + plotInfo[plotID].name + directories.feedDir %}
+ {% set mainRssPath = site.rssDir %}
+ 
+ {% set RssFileTypeXml = "feed.xml" %}
+ {% set RssFileTypeJson = "feed.json" %}      
+ 
+ {% set plotRssXmlUrl = plotRssPath + RssFileTypeXml %}
+ {% set plotRssJsonUrl = plotRssPath + RssFileTypeJson %}
+
+ {% set mainRssXmlUrl = mainRssPath + RssFileTypeXml %}
+ {% set mainRssJsonUrl = mainRssPath + RssFileTypeJson %}
+ 
+ {% set plotTitle = plotInfo[plotID].name %}     
+ {% set mainTitle = site.name %}
 <!DOCTYPE html>
 <html lang="{{ metadata.language }}">
   <head>
@@ -11,9 +25,6 @@
     <!-- rel=me stuff -->
     <link rel="me" href="https://github.com/fromjasonstuff" />
     <link rel="me" href="https://mastodon.social/@fromjason" />
-    <link rel="me" href="https://instagram.com/jasondotgov" />
-    <link rel="me" href="https://www.threads.net/@jasondotgov" />
-    <link rel="me" href="https://www.tiktok.com/@jasondotgov" />
     <link rel="me" href="https://pixelriot.io/" />
     <!-- Microsub server (Apature) -->
     <link rel="microsub" href="https://aperture.p3k.io/microsub/905" />
@@ -24,26 +35,25 @@
     <link rel="webmention" href="https://webmention.io/www.fromjason.xyz/webmention" />
     <!-- Open graph stuff -->
     <meta property="og:site_name" content="from jason" />
-    <meta property="og:type" content="{{ data.type or 'Digital Garden'}}" />
-    <meta property="og:title" content="{{ title or metadata.title}}" />
-    <meta property="og:description" content="{{ description or metadata.description }}" />
+    <meta property="og:type" content="{{ type or 'Digital Garden' }}" />
+    <meta property="og:title" content="{{ title or plotInfo[plotID].name or site.name }}" />
+    <meta property="og:description" content="{{ description or plotInfo[plotID].description or site.description }}" />
     <meta property="og:url" content="https://fromjason.xyz{{ page.url }}" />
     <meta property="og:updated_time" content="{{ page.date }}" />   
     <meta property="og:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <!-- Twitter meta that I'm sure will not work in the near future if not already because Elon is an idiot -->
-    <meta property="twitter:title" content="{{ title or metadata.title }}" />
-    <meta property="twitter:description" content="{{ description or metadata.description }}" />
+    <meta property="twitter:title" content="{{ title or plotInfo[plotID].name or site.name }}" />
+    <meta property="twitter:description" content="{{ description or plotInfo[plotID].description or site.description }}" />
     <meta property="twitter:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <meta name="twitter:card" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <!-- Other meta stuff I don't know how to categorize -->
     <meta name="generator" content="{{ eleventy.generator }}" />
-    <meta name="description" content="{{ description or metadata.description }}" />
+    <meta name="description" content="{{ description or plotInfo[plotID].description or site.description }}" />
     <link rel="canonical" href="https://fromjason.xyz{{ page.url }}" />
     <meta content="width=device-width, initial-scale=1" name="viewport"> 
     <!-- RSS stuff. If the page doesn't have an rssDir key, it defaults to the notebook plot. -->
-    {#- Atom and JSON feeds included by default #}
-    <link rel="alternate" href="{{ rssDir or '/p/notebook' }}/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}" />
-    <link rel="alternate" href="{{ rssDir or '/p/notebook' }}/feed/feed.json" type="application/json" title="{{ metadata.title }}" />
+    <link rel="alternate" href="{% if plotID %}{{ plotRssXmlUrl }}{% else %}{{ mainRssXmlUrl }}{% endif %}" type="application/atom+xml" title="Feed for {{ plotTitle or mainTitle }}" />
+    <link rel="alternate" href="{% if plotID %}{{ plotRssJsonUrl }}{% else %}{{ mainRssJsonUrl }}{% endif %}" type="application/json" title="Feed for {{ plotTitle or mainTitle }}" />
     <!-- Favicon and webclip -->
     <link href="{{ settings.siteRoot }}/img/favicon.png" rel="shortcut icon" type="image/x-icon">
     <link href="{{ settings.siteRoot }}/img/webclip.png" rel="re-icon">
@@ -58,47 +68,14 @@
         ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <!-- CSS for the page elements -->
-<style>
-.ipsum-div {
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-}
-.lorem-para {
-    flex: 1;
-}
-.copy-btn {
-z-index: 9999;
-    width: 35px;
-    height: 35px;
-    cursor: pointer;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-    display: flex;
-    position: relative;
-	max-width: 100%;
-	margin-right: 10px;
-}
-.copy-icon {
-	max-width: 100%;
-    vertical-align: middle;
-    display: inline-block;
-    cursor: pointer;
-	width: 17px;
-	z-index: 99;
-}
-</style>
   </head>
   <body class="{{ body }}">
     <div class="w-layout-blockcontainer container-650px container-height w-container">
       {{ content | safe }}
       <footer class="footer">
-<script src="https://tinylytics.app/embed/Y-vHq7_yamFdt5wny55E.js?kudos" defer></script>
         <div class="_400w-vflex">
           <img src="{{ settings.siteRoot }}/img/element-finis.svg" loading="lazy" alt="Ornamentation with the word Finis in a banner." class="ft-img">
-          <div class="copywrite">2086©
+          <div class="copywrite">2086&copy;
             <em>(so I don&#x27;t forget to change the year)</em>
             From Jason <a href="{{ site.versionWriteUpUrl }}" title="About latest version of {{ site.name }}">{{ site.version }}</a></div>
           <div id="dedication" class="dedication">This site is dedicated to the old web, the

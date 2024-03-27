@@ -1,9 +1,25 @@
+
+
 <div class="auto-list-block-2">
    <div reversed class="auto-list-2">
       {% for post in postslist | reverse %}
       <div class="auto-list-item-2">
          <div class="meta-date">
-            <time class="small italic" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("MMM") }}</time>
+
+{% set pubYear = post.data.pubDate | date("YYYY") %}
+{% set displayDate = "" %}
+
+
+ {% if pubYear < currentYear %}
+ 	{% set displayDate = pubYear %}
+  {% else %}
+  	{% set displayDate = post.date | readableDate("MMM") %}
+  {% endif %}
+   
+
+            <time class="small italic" datetime="{{ post.date | htmlDateString }}">
+		{{ displayDate }}
+            </time>
          </div>
          <a href="{{ post.url }}" class="list-item-link truncate">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
          <time style="font-size: var(--small-font-size); margin-left: 5px; display: none;" class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>

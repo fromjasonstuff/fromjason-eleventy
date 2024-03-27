@@ -1,0 +1,42 @@
+---
+layout: layouts/base.njk
+body: body-primary
+openGraph: 'fromjason'
+---
+ <header class="header">
+ 	{% include "partials/nav.njk" %}
+               <div class="masthead">
+                  <img style="height: 130px;" src="{{ mastheadLogoUrl }}" loading="lazy" alt="masthead graphic decoration" class="deckhead-img">
+                  <h1 style="margin-top: 0.65em;" class="display">{{ plotInfo[plotID].name or title or site.name }}</h1>
+                  <p style="margin-top: 0.1em;" class="lead enter-text">{{ plotInfo[plotID].description or description or site.description }}</p>
+                   <div class="followCTA--box">
+                   <a class="followCTA" href="{% if plotID %}{{ plotRssXmlUrl }}{% else %}{{ mainRssXmlUrl }}{% endif %}" title="rss feed for {{ plotTitle or mainTitle }}" target="_blank">follow feed</a>
+                   <!--<a class="companionCTA" href="#">Learn how</a>-->
+                   </div>
+               </div>
+ </header>
+<article class="article">
+     {{ content | safe }}
+</article>
+
+{% set plotNameById = plotInfo[plotID].name %}
+{% set filterByPlot = collections.posts | include("data.sub", plotNameById) %}
+
+{% set postsCount = filterByPlot | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+<h3>Latest {{ latestPostsCount }} note{% if latestPostsCount != 1 %}s {% endif %}& such</h3>
+{% set postslist = filterByPlot | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p style="margin-top: 1.5em;">{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/p/{{ plotNameById }}/all/">all {{ plotNameById }} posts</a>.</p>
+{% endif %}
+<div class="auto-list-block">
+   <h3>Series</h3>
+   {% set filterByPlotSeries = collections.all | include("data.sub", plotNameById) | include("data.series", "titlepage") %}
+   {% set postslist = filterByPlotSeries %}
+   {% include "postslist.njk" %}
+   
+   <!--<p class="muted"><i>No series yet. Hit me up <a href="https://mastodon.social/@fromjason" rel="me" title="my mastadon" target="_blank">me on Mastodon</a> to make one for my notebook.</i></p>-->
+</div>
