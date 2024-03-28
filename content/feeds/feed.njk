@@ -1,0 +1,27 @@
+---
+# metadata comes from _data/eleventyComputed.js
+permalink: /feed/feed.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ metadata.language }}">
+	<title>{{ site.name }}</title>
+	<subtitle>{{ site.description }}</subtitle>
+	<link href="{{ permalink | htmlBaseUrl(site.url) }}" rel="self"/>
+	<link href="{{ site.url | addPathPrefixToFullUrl }}"/>
+	<updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+	<id>{{ site.url }}</id>
+	<author>
+		<name>{{ site.author.name }}</name>
+		<email>{{ site.author.email }}</email>
+	</author>
+	{%- for post in collections.posts | reverse %}
+	{% set absolutePostUrl %}{{ post.url | htmlBaseUrl(site.url) }}{% endset %}
+	<entry>
+		<title>{{ post.data.title }}</title>
+		<link href="{{ absolutePostUrl }}"/>
+		<updated>{{ post.date | dateToRfc3339 }}</updated>
+		<id>{{ absolutePostUrl }}</id>
+		<content type="html">{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</content>
+	</entry>
+	{%- endfor %}
+</feed>

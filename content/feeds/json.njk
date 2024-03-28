@@ -1,0 +1,29 @@
+---
+# Metadata comes from _data/metadata.js
+permalink: /feed/feed.json
+---
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "{{ site.name }}",
+	"language": "{{ site.language }}",
+	"home_page_url": "{{ site.url | addPathPrefixToFullUrl }}",
+	"feed_url": "{{ permalink | htmlBaseUrl(site.url) }}",
+	"description": "{{ site.description }}",
+	"author": {
+		"name": "{{ site.author.name }}",
+		"url": "{{ site.author.url }}"
+	},
+	"items": [
+		{%- for post in collections.posts | reverse %}
+		{%- set absolutePostUrl = post.url | htmlBaseUrl(site.url) %}
+		{
+			"id": "{{ absolutePostUrl }}",
+			"url": "{{ absolutePostUrl }}",
+			"title": "{{ post.data.title }}",
+			"content_html": {% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}{% else %}""{% endif %},
+			"date_published": "{{ post.date | dateToRfc3339 }}"
+		}
+		{% if not loop.last %},{% endif %}
+		{%- endfor %}
+	]
+}
