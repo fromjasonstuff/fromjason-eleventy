@@ -114,11 +114,10 @@ a:focus, a:focus-visible {
     display: block;
 }
 
-@media screen and (max-width: 479px)
+
 .image-3 {
     max-width: 250px;
     margin-right: auto;
     margin-left: auto;
 }
 
-}
