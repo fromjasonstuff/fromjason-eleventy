@@ -132,6 +132,7 @@ a:focus, a:focus-visible {
     margin-bottom: 0;
     font-size: 260%;
     line-height: 100%;
+    white-space: nowrap;
 }
 
 
