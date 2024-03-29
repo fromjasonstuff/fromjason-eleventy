@@ -133,29 +133,13 @@ a:focus, a:focus-visible {
     line-height: 100%;
 }
 
-@media screen and (max-width: 479px)
-.display-new {
-    text-align: center;
-    -webkit-text-stroke-width: .8px;
-    white-space: nowrap;
-    line-height: 120%;
-}
-}
-
 
 .deckhead-img-xl-2 {
-    color: var(--body--text-color);
-    text-align: left;
+
     width: 250px;
     margin-top: 0;
     margin-bottom: 0;
     display: block;
-}
-
-@media screen and (max-width: 479px)
-.deckhead-img-xl-2 {
-    width: 170px;
-}
 }
 
 
@@ -165,9 +149,25 @@ a:focus, a:focus-visible {
     line-height: 130%;
 }
 
+
+
 @media screen and (max-width: 479px)
+
+.display-new {
+    text-align: center;
+    -webkit-text-stroke-width: .8px;
+    white-space: nowrap;
+    line-height: 120%;
+}
+
 .lead-2 {
     text-align: center;
     margin-top: 0;
 }
+
+.deckhead-img-xl-2 {
+    width: 170px;
 }
+
+}
+
