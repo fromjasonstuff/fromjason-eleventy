@@ -164,6 +164,7 @@ a:focus, a:focus-visible {
     -webkit-text-stroke-width: .8px;
     white-space: nowrap;
     line-height: 120%;
+    letter-spacing: .15em;
 }
 
 .lead-2 {
