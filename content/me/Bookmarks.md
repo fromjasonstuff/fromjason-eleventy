@@ -15,7 +15,7 @@ This page is a work in progress and ever changing.
 
 [The Death of Decentralized Email](https://blog.lopp.net/death-of-decentralized-email/)
 
-[It’s All Bullshit | JS Tan](https://thebaffler.com/latest/its-all-bullshit-tan)
+[It’s All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 
 [A History of Link Blogs – Angry Robot](https://www.angryrobot.ca/2013/02/27/a-history-of-link-blogs/)
 
@@ -25,7 +25,7 @@ This page is a work in progress and ever changing.
 
 [Costco Capitalism](https://www.bryanlehrer.com/entries/costco/)
 
-[Against an Increasingly User-Hostile Web - Neustadt.fr](https://neustadt.fr/essays/against-a-user-hostile-web/)
+[Against an Increasingly User Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/)
 
 [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 
@@ -45,7 +45,7 @@ This page is a work in progress and ever changing.
 
 [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-[Communal Bonfires — Open Indie](https://blog.erlend.sh/communal-bonfires)
+[Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 
 [The Dark Forest and the Cozy Web](https://maggieappleton.com/cozy-web)
 
@@ -55,9 +55,9 @@ This page is a work in progress and ever changing.
 
 [Street Fighter: The Movie — What went wrong](https://www.polygon.com/features/2014/3/10/5451014/street-fighter-the-movie-what-went-wrong)
 
-[On the Origins of the Professional-Managerial Class: An Interview with Barbara Ehrenreich - Dissent Magazine](https://www.dissentmagazine.org/online_articles/on-the-origins-of-the-professional-managerial-class-an-interview-with-barbara-ehrenreich)
+[On the Origins of the Professional-Managerial Class](https://www.dissentmagazine.org/online_articles/on-the-origins-of-the-professional-managerial-class-an-interview-with-barbara-ehrenreich)
 
-[The new rules for how to behave in polite society - New York Magazine](https://apple.news/nowPlaying/ASaWuCWk0TNCmyxl7-0jlKg)
+[The new rules for how to behave in polite society](https://apple.news/nowPlaying/ASaWuCWk0TNCmyxl7-0jlKg)
 
 [How millennials became cringe](https://www.vox.com/the-highlight/23466389/millennials-cringe-epic-bacon)
 
