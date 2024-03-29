@@ -150,7 +150,11 @@ a:focus, a:focus-visible {
     line-height: 130%;
 }
 
-
+.masthead-text-block {
+    text-align: center;
+    margin-top: 3em;
+    font-size: 1em;
+}
 
 @media screen and (max-width: 479px)
 
