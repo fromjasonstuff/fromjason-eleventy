@@ -34,7 +34,7 @@ mastheadLogoUrl: '/img/logo-fromjason.svg'
       </div>
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h3 class="section-header-home">Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h3>
+<h3 class="section-header-home">Latest Posts</h3>
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
