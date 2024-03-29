@@ -162,13 +162,11 @@ a:focus, a:focus-visible {
 .masthead-text-block {
     font-size: .75em;
 }
-
 .display-new {
     text-align: center;
     -webkit-text-stroke-width: .8px;
     white-space: nowrap;
     line-height: 120%;
-
 }
 
 .lead-2 {
@@ -184,7 +182,6 @@ a:focus, a:focus-visible {
     margin-top: .5em;
     font-size: 195%;
 }
-
 .display-2nd-line-2 {
     text-align: center;
     letter-spacing: .22em;
