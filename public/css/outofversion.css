@@ -159,12 +159,16 @@ a:focus, a:focus-visible {
 
 @media screen and (max-width: 479px)
 
+.masthead-text-block {
+    font-size: .75em;
+}
+
 .display-new {
     text-align: center;
     -webkit-text-stroke-width: .8px;
     white-space: nowrap;
     line-height: 120%;
-    letter-spacing: .15em;
+
 }
 
 .lead-2 {
