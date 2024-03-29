@@ -123,6 +123,7 @@ a:focus, a:focus-visible {
 
 
 .display-new {
+    text-align: center;
     color: #004ed8;
     letter-spacing: .15em;
     -webkit-text-stroke-width: .7px;
@@ -167,6 +168,22 @@ a:focus, a:focus-visible {
 
 .deckhead-img-xl-2 {
     width: 170px;
+}
+
+.display-2nd-line-2 {
+    margin-top: .5em;
+    font-size: 195%;
+}
+
+.display-2nd-line-2 {
+    text-align: center;
+    letter-spacing: .22em;
+    -webkit-text-stroke-width: 1.5px;
+    text-transform: uppercase;
+    margin-top: .5em;
+    font-size: 196%;
+    line-height: 100%;
+    display: inline-block;
 }
 
 }
