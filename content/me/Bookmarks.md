@@ -17,7 +17,7 @@ This page is a work in progress and ever changing.
 
 [It’s All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 
-[A History of Link Blogs – Angry Robot](https://www.angryrobot.ca/2013/02/27/a-history-of-link-blogs/)
+[A History of Link Blogs](https://www.angryrobot.ca/2013/02/27/a-history-of-link-blogs/)
 
 [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 
