@@ -1,13 +1,13 @@
 ---
 title: Bookmarks
 description: Things on the web that I’m fond of and want to share with you.
-graphic: 'Heraldry-4.png'
+graphic: Heraldry-4.png
 graphicAlt: 'illustration'
 sub: me
 ---
 # {{ title }}
 
-Blogs, blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, propaganda pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
+Blogs, blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, posts, articles, pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
 
 This page is a work in progress and ever changing. 
 
