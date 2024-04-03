@@ -5,11 +5,49 @@ graphic: Heraldry-4.png
 graphicAlt: 'illustration'
 sub: me
 ---
-# {{ title }}
+# {{ title }} 
 
-Blogs, blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, [posts](#posts), [articles](#articles), pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
+[Blogs](#blogs), blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, [posts](#posts), [articles](#articles), pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
 
 This page is a work in progress and ever changing. 
+
+## Blogs
+
+[pluralistic.net](https://pluralistic.net/)
+
+[anthonybourdain.tumblr.com](https://anthonybourdain.tumblr.com)
+
+[cheapskatesguide.org](https://cheapskatesguide.org/)
+
+[www.aaronsw.com](http://www.aaronsw.com/)
+
+[maggieappleton.com](https://maggieappleton.com/)
+
+[yesterweb.org](https://yesterweb.org/)
+
+[seirdy.one](https://seirdy.one/)
+
+[den.dev](https://den.dev/)
+
+[xanadu.com](https://xanadu.com/)
+
+[links.net](https://links.net/vita/web/start/)
+
+[kottke.org](https://kottke.org/)
+
+[livelaugh.blog](https://livelaugh.blog/)
+
+[localghost.dev](https://localghost.dev/)
+
+[daverupert.com](https://daverupert.com/)
+
+[erinkissane.com](https://erinkissane.com/)
+
+[allenpike.com](https://allenpike.com/)
+
+[piperswe.me](https://piperswe.me/)
+
+
 
 ## Posts
 
