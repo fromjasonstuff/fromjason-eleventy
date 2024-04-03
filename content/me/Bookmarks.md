@@ -1,23 +1,61 @@
 ---
 title: Bookmarks
 description: Things on the web that I’m fond of and want to share with you.
-graphic: 'Heraldry-4.png'
+graphic: Heraldry-4.png
 graphicAlt: 'illustration'
 sub: me
 ---
-# {{ title }}
+# {{ title }} 
 
-Blogs, blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, propaganda pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
+Blogs, blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, [posts](#posts), [articles](#articles), pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
 
 This page is a work in progress and ever changing. 
+
+## Blogs
+
+[pluralistic.net](https://pluralistic.net/)
+
+[anthonybourdain.tumblr.com](https://anthonybourdain.tumblr.com)
+
+[cheapskatesguide.org](https://cheapskatesguide.org/)
+
+[www.aaronsw.com](http://www.aaronsw.com/)
+
+[maggieappleton.com](https://maggieappleton.com/)
+
+[yesterweb.org](https://yesterweb.org/)
+
+[seirdy.one](https://seirdy.one/)
+
+[den.dev](https://den.dev/)
+
+[xanadu.com](https://xanadu.com/)
+
+[links.net](https://links.net/vita/web/start/)
+
+[kottke.org](https://kottke.org/)
+
+[livelaugh.blog](https://livelaugh.blog/)
+
+[localghost.dev](https://localghost.dev/)
+
+[daverupert.com](https://daverupert.com/)
+
+[erinkissane.com](https://erinkissane.com/)
+
+[allenpike.com](https://allenpike.com/)
+
+[piperswe.me](https://piperswe.me/)
+
+
 
 ## Posts
 
 [The Death of Decentralized Email](https://blog.lopp.net/death-of-decentralized-email/)
 
-[It’s All Bullshit | JS Tan](https://thebaffler.com/latest/its-all-bullshit-tan)
+[It’s All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 
-[A History of Link Blogs – Angry Robot](https://www.angryrobot.ca/2013/02/27/a-history-of-link-blogs/)
+[A History of Link Blogs](https://www.angryrobot.ca/2013/02/27/a-history-of-link-blogs/)
 
 [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 
@@ -25,7 +63,7 @@ This page is a work in progress and ever changing.
 
 [Costco Capitalism](https://www.bryanlehrer.com/entries/costco/)
 
-[Against an Increasingly User-Hostile Web - Neustadt.fr](https://neustadt.fr/essays/against-a-user-hostile-web/)
+[Against an Increasingly User Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/)
 
 [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 
@@ -45,7 +83,7 @@ This page is a work in progress and ever changing.
 
 [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-[Communal Bonfires — Open Indie](https://blog.erlend.sh/communal-bonfires)
+[Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 
 [The Dark Forest and the Cozy Web](https://maggieappleton.com/cozy-web)
 
@@ -55,9 +93,9 @@ This page is a work in progress and ever changing.
 
 [Street Fighter: The Movie — What went wrong](https://www.polygon.com/features/2014/3/10/5451014/street-fighter-the-movie-what-went-wrong)
 
-[On the Origins of the Professional-Managerial Class: An Interview with Barbara Ehrenreich - Dissent Magazine](https://www.dissentmagazine.org/online_articles/on-the-origins-of-the-professional-managerial-class-an-interview-with-barbara-ehrenreich)
+[On the Origins of the Professional-Managerial Class](https://www.dissentmagazine.org/online_articles/on-the-origins-of-the-professional-managerial-class-an-interview-with-barbara-ehrenreich)
 
-[The new rules for how to behave in polite society - New York Magazine](https://apple.news/nowPlaying/ASaWuCWk0TNCmyxl7-0jlKg)
+[The new rules for how to behave in polite society](https://apple.news/nowPlaying/ASaWuCWk0TNCmyxl7-0jlKg)
 
 [How millennials became cringe](https://www.vox.com/the-highlight/23466389/millennials-cringe-epic-bacon)
 
