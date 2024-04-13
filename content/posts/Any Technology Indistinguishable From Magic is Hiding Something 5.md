@@ -73,7 +73,7 @@ With that in mind, let’s examine some of Zuck’s recent moves with fresh eyes
 
 Mark Zuckerberg didn’t spend ten billion dollars on GPUs to achieve augmented general intelligence, a pursuit no one can even confirm is possible, just so he can then give away the technology for free. *That doesn’t make sense.* He is a chief executive with a fiduciary responsibility to shareholders. 
 
-He’s made these moves because raw computing power *is the business model*. So, who gives a shit if Meta put Llama on Github for free? How will anyone ship their resulting AI-featured app without Meta’s cloud infrastructure? *Read the terms and conditions*. [Llama is not open-source](https://spectrum.ieee.org/open-source-llm-not-open).
+He’s made these moves because raw computing power *is the business model*. So, who gives a shit if Meta put Llama on Github for free? How will anyone ship their resulting AI-featured app without Meta’s cloud infrastructure? *Read the terms and conditions*. [Llama is not open-source](https://archive.ph/2023.07.29-234901/https://spectrum.ieee.org/open-source-llm-not-open).
 
 Zuck isn’t the mad scientist his PR team wants us to think he is. He’s selling us printers at cost so that later he can fuck us on the price of ink.
 
