@@ -7,8 +7,8 @@ date: 2024-04-29
 type: note
 phase: sorting
 audience: everyone
-graphic: ‘tech40.png'
-graphicAlt: 'illustration of a network’ 
+graphic: 'tech40.png'
+graphicAlt: 'illustration of a network'
 tags:
 - technology
 - internet culture
