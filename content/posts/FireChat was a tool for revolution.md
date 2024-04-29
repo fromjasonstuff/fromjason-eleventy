@@ -8,7 +8,7 @@ type: note
 phase: sorting
 audience: everyone
 graphic: ‘tech40.png'
-graphicAlt: 'illustration of a network 
+graphicAlt: 'illustration of a network’ 
 tags:
 - technology
 - internet culture
