@@ -16,7 +16,7 @@ tags:
 ---
 # {{ title }}
 
-For years, FireChat helped people circumvent their internet gatekeepers—the authoritarian governments and spineless corporations that control our every move through a network of proprietary data centers and deep-sea cables. 
+For years, FireChat helped people circumvent their internet gatekeepers— the authoritarian governments and spineless corporations that control our every move through a network of proprietary data centers and deep-sea cables. 
 
 In Iran, forty thousand people downloaded the app when their government blocked internet access. Over one hundred thousand protesters in Hong Kong used the app to coordinate their resistance against Chinese authority. Singaporeans, Ecuadorians, Russians, and seemingly every pro-democracy movement globally took advantage of the off-grid mesh network provided by the FireChat app. 
 
