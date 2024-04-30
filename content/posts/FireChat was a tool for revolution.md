@@ -32,11 +32,9 @@ In 2015, Wired [called FireChat](https://archive.ph/sUPif) a "Giant Network of F
 
 The technology worked so well that Open Garden then released [FireChat Alerts](https://www.theverge.com/2016/5/19/11711686/firechat-alerts-app-natural-disaster-mesh-network), allowing rescue workers to send offline messages during emergencies. 
 
-Mind you, all of this was happening off-grid, without mega corporations mining our data or governments spying through corporate-sanctioned back doors. 
+Mind you, all of this was happening off-grid, without mega corporations mining our data or governments spying through corporate-sanctioned back doors. Then, one day in February 2020, as COVID-19 swept the globe, access to FireChat was completely cut off without explanation. 
 
-Then, one day in February 2020, as COVID-19 swept the globe, access to FireChat was completely cut off without explanation. Four months later, a police officer murdered a Black man in Minnesota, resulting in protests across the United States. 
-
-Those protests sparked a roaring fire of consciousness over ￼this country's injustices. But no one on the ground fighting for our rights has been able to use the people's internet that never was. 
+Four months later, a police officer murdered a Black man in Minnesota, resulting in protests across the United States. Those protests sparked a roaring fire of consciousness over ￼this country's injustices. But no one on the ground fighting for our rights has been able to use the people's internet that never was. 
 
 Today, if you go to the official FireChat website, you're greeted hostilely with a message that your IP address has been blocked for suspicious activity. The Internet Archive view of the site shows the same message, so don't feel too bad. The Open Garden website shows a similar, though admittedly less hostile-feeling 403 Forbidden error. 
 
