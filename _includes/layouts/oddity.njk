@@ -10,7 +10,7 @@ body: body-secondary
  </nav>
             </header>
     <article class="article">
-    <img class="oddity-img" src="{{ settings.siteRoot}}/img/{% if postGraphic %}{{ postGraphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
+    <img style="width: 100%; max-width: 400px;" src="{{ settings.siteRoot}}/img/{% if postGraphic %}{{ postGraphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
 
 {{ content | safe }}    
 
