@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-defaultGraphic: '5.png'
+defaultGraphic: 'graphic-default.png'
 body: body-secondary
 ---
             <header class="header">
@@ -10,7 +10,7 @@ body: body-secondary
  </nav>
             </header>
     <article class="article">
-    <img class="oddity-img" src="{{ settings.siteRoot}}/img/graphics/{% if graphic %}{{ graphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
+    <img class="oddity-img" src="{{ settings.siteRoot}}/img/{% if postGraphic %}{{ postGraphic }}{% else %}{{ defaultGraphic }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" > 
 
 {{ content | safe }}    
 
