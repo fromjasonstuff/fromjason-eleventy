@@ -19,7 +19,7 @@ It has come to my attention that people are calling Venture Capitalists "data pi
 
 Sure, the definition of a <dfn id=”def-validation”>data piggy</dfn> is a tech sector Venture Capitalist who stuffs their little piggy faces on people's private information until their little piggy overall buttons pop off their engorged, little piggy bodies. 
 
-But, just because this is the [official definition for the term data piggy](https://www.fromjason.xyz/p/notebook/data-piggy/#def-validation) does not mean we should call venture capitalists "little curly-tailed data piggies who follow us around the web slopping up our private information.”
+But, just because this is the official definition for the term [data piggy](https://www.urbandictionary.com/define.php?term=Data+Piggy&defid=18316250) does not mean we should call venture capitalists "little curly-tailed data piggies who follow us around the web slopping up our private information.”
 
 Kindness is more important than *accuracy*.
 
