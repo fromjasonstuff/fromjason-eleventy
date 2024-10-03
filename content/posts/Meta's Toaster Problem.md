@@ -27,11 +27,11 @@ So, what do you do when what you sell is accessible elsewhere? Well, if you sell
 
 When General Electric started losing its monopoly in the lightbulb industry, it created the [Phoebus cartel](https://en.wikipedia.org/wiki/Phoebus_cartel). When Debeers learned that diamonds were a common gem, it stockpiled supply and [also created a monopolistic cartel](https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/).
 
-So what does a company like Meta do when building consumer-facing dopamine machines, which is no longer a viable business model? It moves down the technology stack into infrastructure. It then lobbies Congress for a set of laws that would force small, independent platforms to use compliance-ready cloud services. *It then gets really chummy with the leaders of these small independent platforms and throws a lot of money at seemingly innocuous technology foundations. 
+So what does a company like Meta do when building consumer-facing dopamine machines, which is no longer a viable business model? It moves down the technology stack into infrastructure. It then lobbies Congress for a set of laws that would force small, independent platforms to use compliance-ready cloud services. *It then* gets really chummy with the leaders of these small independent platforms and throws a lot of money at seemingly innocuous technology foundations. 
 
 It changes its name, has the founder tell the press he wants to be remembered for something more than his money-printing platforms, and then spends a cool hundred billy on data centers under the guise of building a Metaverse.
 
-In short, [Meta is pivoting to cloud](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/) infrastructure, and one day soon, all these cool, quirky little websites on the "indie web" will use the Meta Cloud™ and all its regulation-compliant services.
+In short, [Meta is pivoting to cloud](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/) infrastructure, and one day soon, all these cool, quirky little websites on the "indie web” will use the Meta Cloud™ and all its regulation-compliant services.
 
 When anyone can make a toaster, toaster-making companies start selling toaster-making factories that toaster makers must use under the threat of law. It's the American dream. 
 
@@ -48,6 +48,7 @@ When anyone can make a toaster, toaster-making companies start selling toaster-m
 - [Facebook accused of 'copy, acquire and kill' tactics in US antitrust hearing](https://www.euractiv.com/section/digital/news/facebook-accused-of-copy-acquire-and-kill-tactics-in-us-antitrust-hearing/)
 - [Mark Zuckerberg just told Congress to upend the internet](https://www.theverge.com/2020/10/29/21537040/facebook-mark-zuckerberg-section-230-hearing-reform-pact-act-big-tech)
 - [Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
+- [As the open social web grows, a new nonprofit looks to expand the ‘fediverse’](https://techcrunch.com/2024/09/24/as-the-open-social-web-movement-grows-a-new-nonprofit-launches-to-expand-the-fediverse/)
 
 
 A good quote for all my Fediverse readers who still think Meta's presence in benign:
