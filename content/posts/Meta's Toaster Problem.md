@@ -27,7 +27,7 @@ So, what do you do when what you sell is accessible elsewhere? Well, if you sell
 
 When General Electric started losing its monopoly in the lightbulb industry, it created the [Phoebus cartel](https://en.wikipedia.org/wiki/Phoebus_cartel). When Debeers learned that diamonds were a common gem, it stockpiled supply and [also created a monopolistic cartel](https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/).
 
-So what does a company like Meta do when building consumer-facing dopamine machines, which is no longer a viable business model? It moves down the technology stack into infrastructure. It then lobbies Congress for a set of laws that would force small, independent platforms to use compliance-ready cloud services. *It then* gets really chummy with the leaders of these small independent platforms and throws a lot of money at seemingly innocuous technology foundations. 
+So what does a company like Meta do when building consumer-facing dopamine machines is no longer a viable business model? It moves down the technology stack into infrastructure. It then lobbies Congress for a set of laws that would force small, independent platforms to use compliance-ready cloud services. *It then* gets really chummy with the leaders of these small independent platforms and throws a lot of money at seemingly innocuous technology foundations. 
 
 It changes its name, has the founder tell the press he wants to be remembered for something more than his money-printing platforms, and then spends a cool hundred billy on data centers under the guise of building a Metaverse.
 
