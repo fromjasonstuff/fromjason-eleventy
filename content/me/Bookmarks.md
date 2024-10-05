@@ -7,7 +7,7 @@ sub: me
 ---
 # {{ title }} 
 
-[Blogs](#blogs), blogrolls, digital gardens, notebooks, repositories, manifestos, manifesdon'ts, [posts](#posts), [articles](#articles), pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, directories, commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
+[Blogs](#blogs), blogrolls, [personal websites](#personal-websites), digital gardens, notebooks, repositories, manifestos, manifesdon'ts, [posts](#posts), [articles](#articles), pages, tributes, odes, micro-blogs, bucket sites, single-topic sites, guides, tips, recipes, blooks, macro-blogs, newsletters, forums, threads, gazettes, homepages, link gardens, corners, zones, domains, DIYs, archives, [directories](#directories), commonplace books, wikis, .txt files, servers, patterns, collections, data dumps, press releases, studies, style sheets, and internet oddities that I am fond of and want to share with you.
 
 This page is a work in progress and ever changing. 
 
@@ -15,15 +15,21 @@ This page is a work in progress and ever changing.
 
 [pluralistic.net](https://pluralistic.net/)
 
+[kwon.nyc](https://kwon.nyc)
+
 [anthonybourdain.tumblr.com](https://anthonybourdain.tumblr.com)
 
 [cheapskatesguide.org](https://cheapskatesguide.org/)
 
-[www.aaronsw.com](http://www.aaronsw.com/)
+[aaronsw.com](http://www.aaronsw.com/)
+
+[grumpy.website](https://grumpy.website/)
 
 [maggieappleton.com](https://maggieappleton.com/)
 
 [yesterweb.org](https://yesterweb.org/)
+
+[mcmansionhell.com](https://mcmansionhell.com)
 
 [seirdy.one](https://seirdy.one/)
 
@@ -47,7 +53,17 @@ This page is a work in progress and ever changing.
 
 [piperswe.me](https://piperswe.me/)
 
+## Blogrolls
 
+[sjmulder.nl/en/textonly](https://sjmulder.nl/en/textonly.html)
+
+
+
+## Personal Websites
+
+[anhvn.com](https://anhvn.com)
+
+[helenazhang.com](https://www.helenazhang.com)
 
 ## Posts
 
@@ -102,3 +118,9 @@ This page is a work in progress and ever changing.
 [What are you willing to do? On the case for civil war](https://www.lrb.co.uk/the-paper/v44/n10/james-meek/what-are-you-willing-to-do)
 
 [Restaurants Take the Din Out of Dining (Published 2015)](https://www.nytimes.com/2015/09/09/dining/restaurants-noise-acoustics.html)
+
+## Directories
+
+[ooh.directory](https://ooh.directory)
+
+[blogscroll.com](https://blogscroll.com)
