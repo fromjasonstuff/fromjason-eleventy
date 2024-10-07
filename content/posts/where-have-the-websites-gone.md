@@ -74,6 +74,6 @@ Here’s the best part. You can be that curator right now, at this very moment. 
 
 Open a Linktree account or whatever. And instead of adding your other social media accounts, add three links to your favorite blog posts. Or, add links to a few artists with their own sites. Or your favorite aggregator sites. It doesn’t matter what you include, so long as we make portals to other digital green spaces that exist outside of Instagram.
 
-**Then, throw that list into your link-in-bio**. I just [swapped my IG link](https://www.instagram.com/jasondotgov/) from my home page to a post listing my favorite blogging platforms. Most, if not all, are from “indie” developers. And who knows, maybe someone clicks on it and the web gains a new writer. How cool would that be? 
+**Then, throw that list into your link-in-bio**. I just [swapped my IG link](https://www.instagram.com/fromjason.xyz/) from my home page to a post listing my favorite blogging platforms. Most, if not all, are from “indie” developers. And who knows, maybe someone clicks on it and the web gains a new writer. How cool would that be? 
 
 So what do ya say? Let's make a bunch of open web *portals* for 2024! I guess I set this up for a two-parter, haven’t I? I’ll see you at [the next post](https://www.fromjason.xyz/p/notebook/any-technology-indistinguishable-from-magic-is-hiding-something/). 
