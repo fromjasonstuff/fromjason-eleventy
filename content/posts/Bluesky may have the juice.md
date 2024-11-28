@@ -17,7 +17,7 @@ Any marketing guru with a Substack and a Udemy course will tell you that your br
 
 We humans are drawn to the good vs evil narrative. It's the hero's journey. It's thirty-four MCU movies, all with essentially the same fucking plot. My reader in Christ, it's the *Bible*. So, I come to you, on this giving of thanks, as a marketer (sorry) and as a human person, to say— that the fight for a better web isn't a war of good and evil. It's so much more boring than that. Just because you left the bad place (X) doesn't mean you arrived at the good place. 
 
-Bluesky, for now at least, is just a place. It's run by infallible, corruptible people, just like every other social media company ever to exist. If we are to make Bluesky the “good place,” well, I don't have all the answers, but I know we should start by keeping a fire under the Bluesky team's asses; that, instead of our lips.
+Bluesky, for now at least, is just a place. It's run by fallible, corruptible people, just like every other social media company ever to exist. If we are to make Bluesky the “good place,” well, I don't have all the answers, but I know we should start by keeping a fire under the Bluesky team's asses; that, instead of our lips.
 
 Just because the Bluesky team is friendly, writes in Internet slang, and doesn't repost race crime statistics, it doesn't necessarily make them the good guys-- I mean, I'm sure they are good *guys* (non-gendered), but this isn't a superhero movie. The war of competing interests isn't two platoons charging at each other from opposite ends of a desolate plain (sorry, I'm watching End Game while writing this). 
 
