@@ -13,7 +13,7 @@ tags: ['Bluesky']
 ---
 # {{ title }}
 
-Any marketing guru with a Substack and a Udemy course will tell you that your brand should have a mission and an enemy; make your customer the hero, and you play the role of sherpa. I know this not only because I'm a marketer (derogatory) but also because I live and breathe marketing.
+Any marketing guru with a Substack and a Udemy course will tell you that your brand should have a mission and an enemy; make your customer the hero, and you play the role of sherpa. I know this not only because I'm a marketer (derogatory) but also because I live and breathe.
 
 We humans are drawn to the good vs evil narrative. It's the hero's journey. It's thirty-four MCU movies, all with essentially the same fucking plot. My reader in Christ, it's the *Bible*. So, I come to you, on this giving of thanks, as a marketer (sorry) and as a human person, to say— that the fight for a better web isn't a war of good and evil. It's so much more boring than that. Just because you left the bad place (X) doesn't mean you arrived at the good place. 
 
