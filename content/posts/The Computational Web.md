@@ -7,8 +7,8 @@ date: 2024-12-11
 type: note
 phase: sorting
 audience: everyone
-graphic: '.png'
-graphicAlt: 'illustration of a '
+graphic: '492.png'
+graphicAlt: 'illustration of a geometric shape'
 tags: ['the web']
 ---
 # {{ title }}
