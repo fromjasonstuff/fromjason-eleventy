@@ -15,7 +15,7 @@ tags: ['the web']
 
 *This note is a placeholder for a potentially longer, more in-depth essay I hope to publish in the future.*
 
-Decentralized social media, like blockchain and crypto, promises to topple old power structures and hand the Internet back to the people. But the Internet runs on a stack of technologies, and if you venture just a few layers down, you'll see some familiar faces. The techno-oligarchy is not only alive and well, but it's getting strong. They moved underground to the Internet's infrastructure layer. 
+Decentralized social media, like blockchain and crypto, promises to topple old power structures and hand the Internet back to the people. But the Internet runs on a stack of technologies, and if you venture just a few layers down, you'll see some familiar faces. The techno-oligarchy is not only alive and well, but it's getting stronger. They moved underground to the Internet's infrastructure layer. 
 
 While companies like Bluesky are open-sourcing the protocol layer, Zuckerberg, Bezos, Pichai, and Nadella are building a new Internet on which those open-source technologies will run. It's an Internet that relies on massive kingdoms of data centers, thousands of miles of deepsea cable, and billions of dollars in specialized GPUs. This is Web 3.0. This is The Computational Web.
 
