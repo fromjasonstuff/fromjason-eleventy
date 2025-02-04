@@ -29,7 +29,7 @@ What I'm describing would be the world's most sophisticated Platform as a Servic
 
 Sound too good to be true? Yeah, it probably would be. But my guess is people would do it anyway. 
 
-Such as technology would completely change how venture capital is invested. Whereas in the *platform era* it would take a talented team of engineers and a business-savvy founder to lock in that round of seed funding, this new era, what I call [The Computational Web](https://fromjason.xyz/p/notebook/the-computational-web/), would dictate that any social media founder must only have a certain level of celebrity and influence to attract investors.
+Such a technology would completely change how venture capital is invested. Whereas in the *platform era* it would take a talented team of engineers and a business-savvy founder to lock in that round of seed funding, this new era, what I call [The Computational Web](https://fromjason.xyz/p/notebook/the-computational-web/), would dictate that any social media founder must only have a certain level of celebrity and influence to attract investors.
 
 At first, this new Platform as a Service—let's call it Meta Cloud—would likely attract grindset influencers who see it as another Discord server where they can trap an audience and convince them to buy thousand-dollar e-seminars. Eventually, though, a big-name celebrity will see the potential and launch a fully-branded social media platform to great fanfare. It'll only take one, then the floodgates open. 
 
