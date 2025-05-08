@@ -13,11 +13,11 @@ module.exports = {
 
     },
     freelance: {
-        title: "Freelance",
+        title: "The Art of Freelance",
         fulltitle: "Freelance From Jason",
         url: "https://fromjason.xyz/p/freelance/",
         language: "en",
-        description: "Freelance? In this economy?",
+        description: "Break free from corporate drudgery, one step at a time.",
         author: {
             name: "Jason Velazquez",
             email: "inbox@jvelazquez.email",
