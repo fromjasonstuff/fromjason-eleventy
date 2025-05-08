@@ -64,8 +64,8 @@ module.exports = {
 			},
 		},
 		p002: {
-			name: "freelance",
-			description: "Freelance? In this economy?",
+			name: "The Art of Freelance",
+			description: "Break free from corporate drudgery, one step at a time.",
 			language: data => `${primaryLanguage}`,
 			rssDir: data => `${plotDirPath}${data.plotInfo.p002.name}${feedDirPath}`,
 			author: {
