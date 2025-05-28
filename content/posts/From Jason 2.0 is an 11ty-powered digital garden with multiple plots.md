@@ -4,7 +4,7 @@ date: 2023-11-06
 type: note
 phase: sorting
 audience: web designers
-graphic: 'logo-fromjason.svg'
+graphic: 'graph_page-colophon.png'
 graphicAlt: 'illustration of a mask'
 openGraph: 'fromjason2'
 sub: freelance
