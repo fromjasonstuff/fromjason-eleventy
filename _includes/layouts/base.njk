@@ -47,6 +47,7 @@
     <meta property="twitter:image" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <meta name="twitter:card" content="https://fromjason.xyz/img/{% if openGraph %}{{ openGraph }}{% else %}{{ sub }}{% endif %}" loading="lazy" alt="{{ graphicAlt }}" />
     <!-- Other meta stuff I don't know how to categorize -->
+    <meta name="fediverse:creator" content="@fromjason@mastodon.social" />
     <meta name="generator" content="{{ eleventy.generator }}" />
     <meta name="description" content="{{ description or plotInfo[plotID].description or site.description }}" />
     <link rel="canonical" href="https://fromjason.xyz{{ page.url }}" />
