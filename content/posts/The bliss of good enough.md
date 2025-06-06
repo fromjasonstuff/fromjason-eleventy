@@ -19,7 +19,9 @@ I spoon coffee grounds into the aluminum filter, careful not to spill any on the
 
 I set the stove to medium-low. You can achieve a faster brew with higher heat, though I find you get something closer to espresso when the water has more time to mingle with the coffee grounds. Otherwise, the steam expels the bean water through to the next chamber too fast and you get a weaker cup. That may be just fine for some, but I want my coffee to *kill* me, thank you very much. 
 
-I make Cuban-style coffee—whisk three generous spoonfuls of brown sugar with the first few drops of coffee that pour out the chimney (crema), until you achieve a frothy consistency. Listen to the metallic melody of the spoon slapping against the ceramic mug. *Good, right?* Then, add the rest of your coffee, with milk or creamer to your liking, stir lightly, and voilà—Cuban coffee. *Justa like mama Cubana used to make* 🤌.
+I make Cuban-style coffee—whisk three generous spoonfuls of brown sugar with the first few drops of coffee that pour out the chimney (crema), until you achieve a frothy consistency. Listen to the metallic melody of the spoon slapping against the ceramic mug. *Good, right?* Then, add the rest of your coffee, with milk or creamer to your liking, stir lightly, and voilà—Cuban coffee. 
+
+*Justa like mama Cubana used to make* 🤌.
 
 In my 43 years on this earth I've owned every coffee maker imaginable—from your standard paper filter pots to highly intricate machines. I've had coffee makers with touchscreens that spoke to me and automatically started brewing my coffee in the mornings. I've enjoyed coffee made from a fifty thousand dollar espresso machine (thanks MailChimp corporate office). All made great coffee, and in some cases *better* coffee, than my current method. 
 
