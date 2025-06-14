@@ -2892,7 +2892,7 @@ blockquote {
   -webkit-text-stroke-width: 1.5px;
   text-transform: uppercase;
   margin-top: .25em;
-  font-size: 196%;
+  font-size: 186%;
   line-height: 100%;
   display: inline-block;
 }
@@ -3310,7 +3310,7 @@ blockquote {
   }
 
   .display-2nd-line {
-    font-size: 195%;
+    font-size: 185%;
   }
 
   .quote-lead {
