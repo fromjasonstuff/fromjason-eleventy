@@ -25,7 +25,7 @@ But, the next time I open Reeder, and I see a site I add just the day before, I 
 
 So, this is my half-assed attempt to make note of what I thought was so interesting about said person.
 
-For now, I'm embedding a Raindrop collection called [Indie Web](https://www.fromjason.xyz/me/bookmarks/)). I'd to post natively but at the moment, there's too much friction between my writing app and publishing here (I'm still settling into my new site). I don't see myself posting each time I bookmark. 
+For now, I'm embedding a Raindrop collection called [Indie Web](https://www.fromjason.xyz/me/bookmarks/). I'd to post natively but at the moment, there's too much friction between my writing app and publishing here (I'm still settling into my new site). I don't see myself posting each time I bookmark. 
 
 This temporary process is not ideal either. I'll have to add a site to Reeder, then add it again to Raindrop with a note. That's way too many steps. We'll see how it goes. Maybe I'll write an iOS Shortcut or something. 
 
