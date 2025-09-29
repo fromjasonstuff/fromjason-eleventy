@@ -1,4 +1,5 @@
 // directories
+// I beleive this is the correct file for all my plots. 9/29/2025.
 const imgDirPath = "/img/";
 const plotDirPath = "/p/";
 const feedDirPath = "/feed/";
@@ -97,8 +98,8 @@ module.exports = {
 			},
 		},
 		p005: {
-			name: "alist",
-			description: "Like playlists, but for hypertext.",
+			name: "photos",
+			description: "Photos chosen from a random keyword.",
 			language: data => `${primaryLanguage}`,
 			rssDir: data => `${plotDirPath}${data.plotInfo.p005.name}${feedDirPath}`,
 			author: {
