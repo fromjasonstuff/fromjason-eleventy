@@ -1,5 +1,6 @@
 ---
 plotID: "p005"
+openGraph: 'opengraph-photos.png'
 ---
 ## Welcome to my digital garden's photo's plot. 
 
