@@ -6,7 +6,7 @@ sub: notebook
 date: 2025-12-03
 type: essay
 audience: Hank Green Fans
-graphic: ‘hankgreenai.png'
+graphic: 'hankgreenai.png’
 graphicAlt: 'illustration of a robot-like figure’
 tags: [‘AI’]
 ---
