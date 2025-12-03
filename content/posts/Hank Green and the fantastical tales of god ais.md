@@ -1,5 +1,6 @@
 ---
 title: Hank Green And The Fantastical Tales of God AIs
+description: In his two latest videos, Hank Green promotes AI-doomerist rhetoric that sounds a lot like big tech talking points.
 site: fromJason
 sub: notebook
 date: 2025-12-03
