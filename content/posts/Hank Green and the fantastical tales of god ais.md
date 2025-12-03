@@ -7,7 +7,6 @@ type: essay
 audience: Hank Green Fans
 graphic: 'hankgreenai.png'
 graphicAlt: 'illustration of a robot-like figure'
-tags: ['AI']
 ---
 # {{ title }}
 
