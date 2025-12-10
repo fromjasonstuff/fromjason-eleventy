@@ -88,7 +88,7 @@ I visit Savannah often. The bronze statues and sprawling oaks always make me wan
 
 Savannah leans on the fantastical to hide a much darker history. The ghost tours are there to distract us from the echoes of slavery.
 
-The question I wish I could answer in this post—the question I *cannot* answer—is: does Hank know? Does Hank Green know that what he’s peddling to his largely left-wing audience are ghost stories designed to distract us from the material harms caused by AI? Or that people like Eliezer Yudkowsky, and even the “godfather of AI” Geoffrey Hinton have expressed what feels like distain for those issues?
+The question I wish I could answer in this post—the question I *cannot* answer—is: does Hank know? Does Hank Green know that what he’s peddling to his largely left-wing audience are ghost stories designed to distract us from the material harms caused by AI? Or that people like Eliezer Yudkowsky, and even the “godfather of AI” Geoffrey Hinton have expressed what feels like disdain for those issues?
 
 > AI models present plenty of concerns beyond the supposedly existential and science fictional ones Hinton is most preoccupied with, including everything from their environmental costs to how they’re already being deployed against marginalized populations today. But when CNN asked Hinton about those concerns in May 2023, he said they “weren’t as existentially serious” and thus not as worthy of his time. — [Geoffrey Hinton, godfather AI](ttps://disconnect.blog/geoffrey-hintons-misguided-views-on-ai/)
 
