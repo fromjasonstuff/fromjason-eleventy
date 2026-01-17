@@ -21,7 +21,7 @@ Olive oil, wasabi, saffron, vanilla, Wagyu, honey, champagne, and truffle,...rea
 
 The For You page is designed to keep us playing the dopamine slot machine for as long as possible. The Average Time on Site metric is still the goose that lays the golden eggs, and both TikTok and Meta are reporting that their egg baskets have never been fuller.
 
-But, there's a problem. On any given platform, only 1-3% of users publish content. It's called the [90-9-1 rule](https://www.nngroup.com/articles/participation-inequality/), and platforms that rely on free user generated content have been trying to solve this problem since the beginning of the commercialized web. The introduction of the For You Page, and the illusion of endless content, has only exasperated the inequity. 
+But, there's a problem. On any given platform, only 1-3% of users publish content. It's called the [90-9-1 rule](https://www.nngroup.com/articles/participation-inequality/), and platforms that rely on free user generated content have been trying to solve this problem since the beginning of the commercialized web. The introduction of the For You Page, and the illusion of endless content, has only exacerbated the inequity. 
 
 Curation used to be part of our media consumption process. We would hop from website to website looking for a laugh. We used to *click on hyperlinks* for Christ's sake. Now, all we must do is sit at the trough￼ and let daddy Zuck feed us.
 
