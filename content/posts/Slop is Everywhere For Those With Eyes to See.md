@@ -47,7 +47,7 @@ Actually, yes. And it turns out, you could rather effectively kill a platform if
 
 ## Twenty on the Vine
 
-In the summer of 2016, twenty social media personalities took down one of the largest mobile video apps on the internet. They wanted money for their labor. The executives at Vine said no. The gang of twenty, who were the highest performing creators on the app, walked away. They stopped posting entertaining content to Vine, and instead repeatedly implored their followers to find them on competing apps. 
+In the fall of 2015, twenty social media personalities took down one of the largest mobile video apps on the internet. They wanted money for their labor. The executives at Vine said no. The gang of twenty, who were the highest performing creators on the app, walked away. They stopped posting entertaining content to Vine, and instead repeatedly implored their followers to find them on competing apps. 
 
 Vine shut down for good just months later.
 
