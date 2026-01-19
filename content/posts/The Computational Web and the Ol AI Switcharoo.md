@@ -3,7 +3,7 @@ title: The Computational Web and the Old AI Switcharoo
 description: We are half way into Web 3.0 and there's a distinct pattern from previous iterations of the web that clue us into how it'll end.
 site: fromJason
 sub: notebook
-date: 2026-18-2026
+date: 2026-01-18
 type: essay
 audience: everyone
 graphic: '3232.png'
