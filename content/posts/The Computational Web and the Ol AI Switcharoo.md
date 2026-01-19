@@ -49,7 +49,7 @@ Web 1.0, or the “Static Web,” promised a democratization of information, and
 
 Web 2.0, or the “Social Web,” promised to connect the world, even if that meant [people dying](https://archive.ph/hTsco). So we gave them our contact info and placed their JavaScript snippets into our websites. The result of Web 2.0, an era that ended around 2020, is the platform era: techno-oligarchs and fascists who control all of our communication infrastructure and use black-box algorithms to keep us on-platform for as long as possible. 
 
-We are halfway into Web 3.0. The Computation Web has tossed a lot of hefty promises into that Trojan Horse we call AI—ending world hunger, poverty, and global warming just to name a few. But this is for all the marbles. Promises of utopia are not enough. They must scared the shit out of us, too, by implying that AI in the wrong hands can bring about a literal apocalypse. 
+We are halfway into Web 3.0. The Computational Web has tossed a lot of hefty promises into that Trojan Horse we call AI—ending world hunger, poverty, and global warming just to name a few. But this is for all the marbles. Promises of utopia are not enough. They must scared the shit out of us, too, by implying that AI in the wrong hands can bring about a literal apocalypse. 
 
 So, how will Web 3.0 end?
 
