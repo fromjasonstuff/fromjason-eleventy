@@ -57,7 +57,7 @@ I'm telling you, dear reader, that the machine behind that No Kings website, the
 
 I fear the resist movement has become a way to keep the masses busy and feeling accomplished. Because the moment Trump is out of office, these organizations will vanish. And of course they will. They've made their mission clear from the start. That might be fine for those propping up a rotting neoliberalism corpse like the worst sequel to Weekend at Bernie's ever made. But it's not enough for us, and it's certainly not enough for those who exist in the margins. 
 
-This moment calls for more than an anti-Trump brand assets zip file. We need a movement that isn't so focused on one man's whims, because that man has an expectation date, and all the problems he exposed will far outlive him. 
+This moment calls for more than an anti-Trump brand assets zip file. We need a movement that isn't so focused on one man's whims, because that man has an expiration date, and all the problems he exposed will far outlive him. 
 
 Perhaps we don't know any better because we lack a true revolutionary leaders guiding us towards successful outcomes. Perhaps we should reacquaint ourselves with our Civil Rights leaders of the past to better prepare ourselves for an inevitable future—a power vacuum we're ill-prepared to endure.
 
