@@ -64,4 +64,6 @@ Perhaps we don't know any better because we lack a true revolutionary leaders gu
 
 Because, if neoliberalism dies tonight, what'll be there in the morning to take its place? Crowd size statistics?
 
+Read: *[The Computational Web and the Old AI Switcharoo](https://fromjason.xyz/p/notebook/the-computational-web-and-the-old-ai-switcharoo/)*
+
  
