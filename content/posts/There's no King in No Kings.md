@@ -1,5 +1,6 @@
 ---
-title: There's no King in No Kings 
+title: There's no King in No Kings
+description: After reading a letter by Dr. King it occurred to me, like bricks, that the left lacks a mainstream political movement. 
 date: 2026-02-12
 type: essay
 audience: liberal friends
