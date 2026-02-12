@@ -6,7 +6,6 @@ audience: liberal friends
 graphic: 'nokingsmain.png'
 graphicAlt: 'illustration of a horse blindfolded'
 sub: notebook
-tags: ['politech', 'politics']
 ---
 # {{ title }}
 
