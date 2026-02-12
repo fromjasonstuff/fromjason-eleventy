@@ -27,7 +27,7 @@ The No Kings organization operates exclusively within the grooves of political d
 
 The message No Kings conveys is the complete opposite of what I remember the discourse being in the 2010s, when the resist movement was set to make history. 
 
-It's less *we ate!* and more  *“did we keep our elbows off the table?”* *(And for that, it infuriates me when I hear No Kings participants scold the youth for their absence in these marches. Especially when we judged how they fight against the Palestinian genocide, as if direct action was so completely unrecognizable to us that it's offensive.)*
+It's less *we ate!* and more  *“did we keep our elbows off the table?”* (And for that, it infuriates me when I hear No Kings participants scold the youth for their absence in these marches. Especially when we judged how they fight against the Palestinian genocide, as if direct action was so completely unrecognizable to us that it's offensive.)
 
 Maybe we got old.
 
