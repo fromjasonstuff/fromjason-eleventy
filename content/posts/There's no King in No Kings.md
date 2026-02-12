@@ -44,7 +44,7 @@ The No Kings' declaration of “non-violence,” therefore, is a perversion of t
 
 If an organization lacks a call-to-action, or it foregoes any opportunity to compel decision-makers to come to the table, then what we see on our Instagram feeds the next day isn't protest. Its content. 
 
-I remember when the resist movement, young and bold, was about more than one King. We stood for healthcare and education. We fought for living wages and equal pay for equal work. We marched for Black lives. We were going to defund the police state and fund our communities. Sure, it was a “liberal” movement, before we made such distinctions, and things like direct action were fuzzy concepts. Before [official culture](https://web.archive.org/web/20230128050856/https://en.wikipedia.org/wiki/Official_culture) tuned our rainbows into millennial-gray slop. But, it was ours, and we were headed in the right direction.
+I remember when the resist movement, young and bold, was about more than one king. We stood for healthcare and education. We fought for living wages and equal pay for equal work. We marched for Black lives. We were going to defund the police state and fund our communities. Sure, it was a “liberal” movement, before we made such distinctions, and things like direct action were fuzzy concepts. Before [official culture](https://web.archive.org/web/20230128050856/https://en.wikipedia.org/wiki/Official_culture) tuned our rainbows into millennial-gray slop. But, it was ours, and we were headed in the right direction.
 
 No Kings, MeidasTouch, The Lincoln Project—these are corporate-approved think-tanks just trying to keep neoliberalism alive until the next election. They convinced us that Branded Activism™ has billionaires shaking in their boots. 
 
