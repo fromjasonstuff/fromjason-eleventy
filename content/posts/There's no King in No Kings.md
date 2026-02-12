@@ -39,7 +39,7 @@ No Kings invokes “non-violence” as an HR policy against civil disobedience a
 
 During Jim Crow, the unlawful act of sitting in a “whites only” diner meant patrons, store owners, and police officers would retaliate against you, often violently. Non-violence from the Civil Rights era is a discipline that showed us how to respond after scalding hot coffee was thrown in our faces. Today, it teaches students to remain calm, even after [they're assaulted](https://www.art.ucla.edu/gazaprotests/) with pepper spray, bottles, and fireworks. Non-violence is a necessity when disrupting the status quo, because doing so invokes violence in others. 
 
-The No Kings' declaration of “non-violence,” therefore, is a perversion of the original term, because the movement discourages the inciting incident necessary to enact change￼. Its footer manifesto dictates we stand outside the diner with a sign, staring through the glass with all the demands we aren't willing to go inside and take for ourselves.
+The No Kings' declaration of “non-violence,” therefore, is a perversion of the original term, because the movement discourages the inciting incident necessary to enact change. Its footer manifesto dictates we stand outside the diner with a sign, staring through the glass with all the demands we aren't willing to go inside and take for ourselves.
 
 If an organization lacks a call-to-action, or it foregoes any opportunity to compel decision-makers to come to the table, then what we see on our Instagram feeds the next day isn't protest. Its content. 
 
