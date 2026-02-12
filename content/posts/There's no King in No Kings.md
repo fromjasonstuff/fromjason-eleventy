@@ -61,6 +61,6 @@ This moment calls for more than an anti-Trump brand assets zip file. We need a m
 
 Perhaps we don't know any better because we lack a true revolutionary leaders guiding us towards successful outcomes. Perhaps we should reacquaint ourselves with our Civil Rights leaders of the past to better prepare ourselves for an inevitable future—a power vacuum we're ill-prepared to endure.
 
-Because, if neoliberalism dies tonight, what'll be there in the morning to take its place?
+Because, if neoliberalism dies tonight, what'll be there in the morning to take its place? Crowd size statistics?
 
  
