@@ -54,7 +54,7 @@ module.exports = {
 	plotInfo: {
 		p001: {
 			name: "notebook",
-			description: "Ever heard of the World Wide Web?",
+			description: "If this is the American Dream, please wake me up.",
 			language: data => `${primaryLanguage}`,
 			rssDir: data => `${plotDirPath}${data.plotInfo.p001.name}${feedDirPath}`,
 			author: {
