@@ -37,7 +37,7 @@ module.exports = {
 		description: "Odes & Satires, and other matters of stuff & things.",
 		url: "https://fromjason.xyz",
 		language: data => `${primaryLanguage}`,
-		version: "2.3.0",
+		version: "2.5",
 		rssDir: "/feed/",
 		versionWriteUpUrl: data => `${data.site.url}${plotDirPath}${data.plotInfo.p001.name}/from-jason-2-0-is-an-11ty-powered-digital-garden-with-multiple-plots/`,
 		mastHeadLogoFile: data => `${imgPrefixMasthead}fromjason.svg`,
