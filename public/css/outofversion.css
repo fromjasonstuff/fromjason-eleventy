@@ -198,3 +198,23 @@ a:focus, a:focus-visible {
 
 }
 
+/* Jump-link list, top right for posts. Includes the mastodon share link */
+
+.list-jumplink {
+    align-items: center;
+    list-style-type: none;
+    display: inline-flex;
+}
+
+.list-item-jumplink {
+    margin-bottom: -.6em;
+    margin-right: 1em;
+}
+
+.share-jumplink {
+    width: 19px;
+}
+
+.list-item-2-jumplink {
+    margin-bottom: 0;
+}
